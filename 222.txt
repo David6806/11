@@ -20,3 +20,4 @@ now新闻台,https://16888.vercel.app/api/xsj.php?id=now-news
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+CCTV4,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
