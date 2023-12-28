@@ -40,9 +40,7 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1,CCTV17
 https://node3.olelive.com:6443/live/CCTV17HD.live.flv?token=3287ba2522a62432890fb578dfb1a0d8
 #EXTINF:-1,东方卫视
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=f0e6102bc9d566349bc839b569773a8b&volcTime=1703739406
-#EXTINF:-1,东方卫视
-http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=c9654054f19440caf52d6163b5b84aab&volcTime=1703852988
 #EXTINF:-1,山西卫视
 http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
 #EXTINF:-1,山西卫视
