@@ -45,6 +45,10 @@ https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=c9654054f19440caf5
 http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
 #EXTINF:-1,山西卫视
 http://221.2.146.228:8888/newlive/live/hls/41/live.m3u8
+#EXTINF:-1,湖南卫视
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1,广西卫视
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
 #EXTINF:-1,三沙卫视
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1,now新闻台
