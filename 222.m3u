@@ -42,8 +42,6 @@ https://node3.olelive.com:6443/live/CCTV17HD.live.flv?token=3287ba2522a62432890f
 #EXTINF:-1,东方卫视
 https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=c9654054f19440caf52d6163b5b84aab&volcTime=1703852988
 #EXTINF:-1,山西卫视
-http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759
-#EXTINF:-1,山西卫视
 http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
 #EXTINF:-1,山西卫视
 http://221.2.146.228:8888/newlive/live/hls/41/live.m3u8
