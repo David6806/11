@@ -16,7 +16,7 @@ CCTV10,https://node3.olelive.com:6443/live/CCTV10HD.live.flv?token=3dfe5585782d8
 CCTV12,http://58.19.38.233:8888/newlive/live/hls/14/live.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV17,https://node3.olelive.com:6443/live/CCTV17HD.live.flv?token=3287ba2522a62432890fb578dfb1a0d8
-东方卫视,http://58.19.38.233:8888/newlive/live/hls/20/live.m3u8
+东方卫视,http://gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8?
 山西卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
 湖南卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 广西卫视,http://58.19.38.233:8888/newlive/live/hls/26/live.m3u8
