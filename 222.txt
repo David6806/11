@@ -1,25 +1,17 @@
-CCTV1,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=c17c703af4ce0e7ea76e8a62837f45ee
-CCTV1,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=9021fa614b6359d803ce1333fc1c299c
-CCTV2,https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=3db2703f7c924f7c011a14f02ffb4e90
-CCTV5,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=65ab1e58dab562f183b5dbc5705b6931
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=1686ab95257a8cf7585230fc22958aec
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=f2da196c78f36687f3f4d862918a07cd
-CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=a2e6ad5b35292f74a992d4dc53617d22
-CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-CCTV5+,https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=a4f8a9e95b118337e4246d8fdb129424
-CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-CCTV8,https://node1.olelive.com:6443/live/CCTV8HD.live.flv?token=2603c890d4dda194d9b3655e428d15c5
-CCTV9,https://node3.olelive.com:6443/live/CCTV9HD.live.flv?token=fc439a7de3d1b030424e1213ab2413ca
-CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV10,https://node3.olelive.com:6443/live/CCTV10HD.live.flv?token=462c55c1943532cd96f2836e0af99ce8
-CCTV10,https://node3.olelive.com:6443/live/CCTV10HD.live.flv?token=3dfe5585782d8a0ef39446fe141504db
-CCTV12,http://58.19.38.233:8888/newlive/live/hls/14/live.m3u8
+CCTV1,http://gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV5,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV5+,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv5hd8m/8000000/mnf.m3u8
+CCTV7,
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+CCTV8,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV17,https://node3.olelive.com:6443/live/CCTV17HD.live.flv?token=3287ba2522a62432890fb578dfb1a0d8
+CCTV16,http://gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-16-HQ/G_CCTV-16-HQ.m3u8?p=GITV&area=GD_CUCC&$4M FHD
+CCTV17,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
 东方卫视,http://gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8?
 山西卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
 湖南卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-广西卫视,http://58.19.38.233:8888/newlive/live/hls/26/live.m3u8
+广西卫视,
+http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 now新闻台,https://16888.vercel.app/api/xsj.php?id=now-news
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
