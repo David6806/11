@@ -1,9 +1,11 @@
-CCTV5,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+CCTV1,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ab1da385e320b190a7d855daf1b06d8c
+CCTV3,https://node1.olelive.com:6443/live/CCTV3HD.live.flv?token=c9ad5ea92b236673ea230b98ae1407df
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=
 CCTV5+,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv5hd8m/8000000/mnf.m3u8
 CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-东方卫视,http://gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8?
+CCTV14,https://node3.olelive.com:6443/live/CCTV14HD.live.flv?token=cb8f292eb0f34185a6f313ad1b64d7d6
 山西卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/shanxiws/1300000/mnf.m3u8
 湖南卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
