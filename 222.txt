@@ -1,13 +1,13 @@
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=96d40a79a9341972ec89ee771fb61076
 CCTV3,https://node1.olelive.com:6443/live/CCTV3HD.live.flv?token=c9ad5ea92b236673ea230b98ae1407df
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=f6528c7ae7002816038876b31b0c85af
-CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-CCTV8,http://58.19.38.233:8888/newlive/live/hls/10/live.m3u8
-CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV7,https://node1.olelive.com:6443/live/CCTV7HD.live.flv?token=e41c5f47a1d41a1b2659be384bf35a17
+CCTV9,https://node3.olelive.com:6443/live/CCTV9HD.live.flv?token=4e36ec161ba7a03836b0d36dc7b2d0d6
 CCTV10,http://58.19.38.233:8888/newlive/live/hls/12/live.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV14,https://node3.olelive.com:6443/live/CCTV14HD.live.flv?token=cb8f292eb0f34185a6f313ad1b64d7d6
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+东方卫视,https://epg.pw/stream/ca2f2aece144ab46ee64c76f769fa36ab38326fd216dd3d9e980bf055524466f.ctv
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
