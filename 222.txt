@@ -6,12 +6,9 @@ CCTV7,https://node1.olelive.com:6443/live/CCTV7HD.live.flv?token=e41c5f47a1d41a1
 CCTV9,https://node3.olelive.com:6443/live/CCTV9HD.live.flv?token=4e36ec161ba7a03836b0d36dc7b2d0d6
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV14,https://node3.olelive.com:6443/live/CCTV14HD.live.flv?token=cb8f292eb0f34185a6f313ad1b64d7d6
-珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
 东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 
