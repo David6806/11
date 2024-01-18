@@ -1,77 +1,25 @@
-#EXTM3U
-#EXTINF:-1,CCTV1
-https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=96d40a79a9341972ec89ee771fb61076
-#EXTINF:-1,CCTV3
-https://node1.olelive.com:6443/live/CCTV3HD.live.flv?token=c9ad5ea92b236673ea230b98ae1407df
-#EXTINF:-1,CCTV5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=
-#EXTINF:-1,CCTV5+
-https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=f6528c7ae7002816038876b31b0c85af
-#EXTINF:-1,CCTV7
-https://node1.olelive.com:6443/live/CCTV7HD.live.flv?token=e41c5f47a1d41a1b2659be384bf35a17
-#EXTINF:-1,CCTV8
-http://60.205.114.16/ysp/cctv8k.m3u8
-#EXTINF:-1,CCTV9
-https://node3.olelive.com:6443/live/CCTV9HD.live.flv?token=4e36ec161ba7a03836b0d36dc7b2d0d6
-#EXTINF:-1,CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1,CCTV14
-https://node3.olelive.com:6443/live/CCTV14HD.live.flv?token=cb8f292eb0f34185a6f313ad1b64d7d6
-#EXTINF:-1,东方卫视,东方卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
-#EXTINF:-1,湖南卫视
-http://58.20.19.126:10999/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV1" tvg-id="CCTV1" tvg-name="CCTV1",CCTV1
+https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=178d329dd7661ece04e02d76b74b54e0
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3",CCTV3
+https://node1.olelive.com:6443/live/CCTV3HD.live.flv?token=f991a900fc276731324717cde74df028
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=423fb2966e42781662929765d5de3d94
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5",CCTV5+
+https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=6596210bbaa2c413c1c5e9bbd04a6933
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7",CCTV7
+https://node3.olelive.com:6443/live/CCTV7HD.live.flv?token=7664e4b13a4f89de3047b69b8456d0b8
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9",CCTV9
+https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=a5175f51254e0ef789e363b00232aff2
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13",CCTV13
+https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=79d051de24a9b896406726995d16b1b9
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14",CCTV14
+https://node3.olelive.com:6443/live/CCTV14HD.live.flv?token=e98b605b2adc30b8e672b46cf39beed6
 #EXTINF:-1,珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1,无线新闻台
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/无线新闻台" tvg-id="无线新闻台" tvg-name="无线新闻台",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1,翡翠台
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-#EXTINF:-1,翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1,J1
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153395&extension=ts&play_token=RyfNMzmtfK
-#EXTINF:-1,TVB翡翠台(香港)
-http://r.jdshipin.com/GeWKr?id=fct720
-#EXTINF:-1,TVB 经典台
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153503&extension=ts&play_token=j2SfUOkh6K
-#EXTINF:-1,凤凰卫视中文台
-http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1,凤凰卫视资讯台
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1,凤凰卫视香港台
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1,Tvbs新闻台
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1,CCTV1
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-#EXTINF:-1,CCTV2
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
-#EXTINF:-1,CCTV3
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
-#EXTINF:-1,CCTV4
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
-#EXTINF:-1,CCTV5
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
-#EXTINF:-1,CCTV6
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
-#EXTINF:-1,CCTV7
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
-#EXTINF:-1,CCTV8
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
-#EXTINF:-1,CCTV9
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
-#EXTINF:-1,CCTV10
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
-#EXTINF:-1,CCTV11
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
-#EXTINF:-1,CCTV12
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
-#EXTINF:-1,CCTV13
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
-#EXTINF:-1,CCTV14
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-#EXTINF:-1,CCTV15
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
-#EXTINF:-1,CCTV16
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
