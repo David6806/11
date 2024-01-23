@@ -4,11 +4,10 @@ CCTV5,https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=423fb2966e42781
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=6596210bbaa2c413c1c5e9bbd04a6933
 CCTV7,https://node3.olelive.com:6443/live/CCTV7HD.live.flv?token=7664e4b13a4f89de3047b69b8456d0b8
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=a5175f51254e0ef789e363b00232aff2
-CCTV13,https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=79d051de24a9b896406726995d16b1b9
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV14,https://node3.olelive.com:6443/live/CCTV14HD.live.flv?token=e98b605b2adc30b8e672b46cf39beed6
 珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 J1,http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153395&extension=ts&play_token=RyfNMzmtfK
 凤凰中文台,https://edge2.laotv.la/live/PhxChinese/index.m3u8

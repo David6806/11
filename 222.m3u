@@ -1,31 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV1
+#EXTINF:-1 group-title="未分组",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=178d329dd7661ece04e02d76b74b54e0
-#EXTINF:-1 group-title="央视频道",CCTV3
+#EXTINF:-1 group-title="未分组",CCTV3
 https://node1.olelive.com:6443/live/CCTV3HD.live.flv?token=f991a900fc276731324717cde74df028
-#EXTINF:-1 group-title="央视频道",CCTV5
+#EXTINF:-1 group-title="未分组",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=423fb2966e42781662929765d5de3d94
-#EXTINF:-1 group-title="央视频道",CCTV5+
+#EXTINF:-1 group-title="未分组",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=6596210bbaa2c413c1c5e9bbd04a6933
-#EXTINF:-1 group-title="央视频道",CCTV7
+#EXTINF:-1 group-title="未分组",CCTV7
 https://node3.olelive.com:6443/live/CCTV7HD.live.flv?token=7664e4b13a4f89de3047b69b8456d0b8
-#EXTINF:-1 group-title="央视频道",CCTV9
+#EXTINF:-1 group-title="未分组",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=a5175f51254e0ef789e363b00232aff2
-#EXTINF:-1 group-title="央视频道",CCTV13
-https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=79d051de24a9b896406726995d16b1b9
-#EXTINF:-1 group-title="央视频道",CCTV14
+#EXTINF:-1 group-title="未分组",CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 group-title="未分组",CCTV14
 https://node3.olelive.com:6443/live/CCTV14HD.live.flv?token=e98b605b2adc30b8e672b46cf39beed6
-#EXTINF:-1 group-title="央视频道",珠江台
+#EXTINF:-1 group-title="未分组",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 group-title="香港频道",无线新闻台
+#EXTINF:-1 group-title="未分组",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="香港频道",翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-#EXTINF:-1 group-title="香港频道",翡翠台
+#EXTINF:-1 group-title="未分组",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-#EXTINF:-1 group-title="香港频道",J1
+#EXTINF:-1 group-title="未分组",J1
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153395&extension=ts&play_token=RyfNMzmtfK
-#EXTINF:-1 group-title="香港频道",凤凰中文台
+#EXTINF:-1 group-title="未分组",凤凰中文台
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
-#EXTINF:-1 group-title="香港频道",凤凰资讯台
+#EXTINF:-1 group-title="未分组",凤凰资讯台
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
