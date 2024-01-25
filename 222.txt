@@ -1,7 +1,9 @@
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=178d329dd7661ece04e02d76b74b54e0
 CCTV3,https://node1.olelive.com:6443/live/CCTV3HD.live.flv?token=f991a900fc276731324717cde74df028
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=423fb2966e42781662929765d5de3d94
-CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=6596210bbaa2c413c1c5e9bbd04a6933
+CCTV5,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=7f50c0776ad9481a281024756bca9746
+CCTV5,http://117.174.81.63:50080/newlive/live/hls/5/live.m3u8
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=d40dce8e8b8cd792a61cf6bbb43fc938
+CCTV6,https://node1.olelive.com:6443/live/CCTV6HD.live.flv?token=0a587ea39a0538a0b5de1a8ed4853bb8
 CCTV7,https://node3.olelive.com:6443/live/CCTV7HD.live.flv?token=7664e4b13a4f89de3047b69b8456d0b8
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=a5175f51254e0ef789e363b00232aff2
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
