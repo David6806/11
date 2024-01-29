@@ -1,33 +1,27 @@
 #EXTM3U
-#EXTINF:-1 group-title="中央电视台",CCTV1
-https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=178d329dd7661ece04e02d76b74b54e0
-#EXTINF:-1 group-title="中央电视台",CCTV3
+#EXTINF:-1 group-title="未分组",CCTV1
+https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=7e0bc2d532fb4463e48864368683fd9b
+#EXTINF:-1 group-title="未分组",CCTV3
 https://node1.olelive.com:6443/live/CCTV3HD.live.flv?token=f991a900fc276731324717cde74df028
-#EXTINF:-1 group-title="中央电视台",CCTV5
+#EXTINF:-1 group-title="未分组",CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=7f50c0776ad9481a281024756bca9746
-#EXTINF:-1 group-title="中央电视台",CCTV5
-http://117.174.81.63:50080/newlive/live/hls/5/live.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV5+
-https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=d40dce8e8b8cd792a61cf6bbb43fc938
-#EXTINF:-1 group-title="中央电视台",CCTV6
+#EXTINF:-1 group-title="未分组",CCTV5+
+https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=9d5ff331adac41f776529250e2ee493a
+#EXTINF:-1 group-title="未分组",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD.live.flv?token=0a587ea39a0538a0b5de1a8ed4853bb8
-#EXTINF:-1 group-title="中央电视台",CCTV7
+#EXTINF:-1 group-title="未分组",CCTV7
 https://node3.olelive.com:6443/live/CCTV7HD.live.flv?token=7664e4b13a4f89de3047b69b8456d0b8
-#EXTINF:-1 group-title="中央电视台",CCTV9
-https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=a5175f51254e0ef789e363b00232aff2
-#EXTINF:-1 group-title="中央电视台",CCTV13
+#EXTINF:-1 group-title="未分组",CCTV9
+https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=12c11e1409d2372fc91985727c34a4fa
+#EXTINF:-1 group-title="未分组",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV14
-https://node3.olelive.com:6443/live/CCTV14HD.live.flv?token=e98b605b2adc30b8e672b46cf39beed6
-#EXTINF:-1 group-title="地方台",珠江台
+#EXTINF:-1 group-title="未分组",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 group-title="地方台",无线新闻台
+#EXTINF:-1 group-title="未分组",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="地方台",翡翠台
+#EXTINF:-1 group-title="未分组",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-#EXTINF:-1 group-title="地方台",J1
+#EXTINF:-1 group-title="未分组",J1
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153395&extension=ts&play_token=RyfNMzmtfK
-#EXTINF:-1 group-title="地方台",凤凰中文台
-https://edge2.laotv.la/live/PhxChinese/index.m3u8
-#EXTINF:-1 group-title="地方台",凤凰资讯台
+#EXTINF:-1 group-title="未分组",凤凰资讯台
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
