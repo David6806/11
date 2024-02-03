@@ -1,20 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分组",CCTV1
-https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=7e0bc2d532fb4463e48864368683fd9b
-#EXTINF:-1 group-title="未分组",CCTV3
-https://node1.olelive.com:6443/live/CCTV3HD.live.flv?token=f991a900fc276731324717cde74df028
+http://110.72.84.159:808/hls/1/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV1
+http://171.8.245.39:808/hls/1/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
-https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=7f50c0776ad9481a281024756bca9746
+http://1.30.18.218:20080/hls/5/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=9d5ff331adac41f776529250e2ee493a
-#EXTINF:-1 group-title="未分组",CCTV6
-https://node1.olelive.com:6443/live/CCTV6HD.live.flv?token=0a587ea39a0538a0b5de1a8ed4853bb8
 #EXTINF:-1 group-title="未分组",CCTV7
-https://node3.olelive.com:6443/live/CCTV7HD.live.flv?token=7664e4b13a4f89de3047b69b8456d0b8
+http://jinjiang.chongqing.moetv.sn-m.xyz:8089/newlive/live/hls/8/live.m3u8
 #EXTINF:-1 group-title="未分组",CCTV9
-https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=12c11e1409d2372fc91985727c34a4fa
+http://jinjiang.chongqing.moetv.sn-m.xyz:8089/newlive/live/hls/10/live.m3u8
 #EXTINF:-1 group-title="未分组",CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+http://113.140.86.162:8001/hls/13/index.m3u8
 #EXTINF:-1 group-title="未分组",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="未分组",无线新闻台
@@ -24,4 +22,4 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 #EXTINF:-1 group-title="未分组",J1
 http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153395&extension=ts&play_token=RyfNMzmtfK
 #EXTINF:-1 group-title="未分组",凤凰资讯台
-https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
