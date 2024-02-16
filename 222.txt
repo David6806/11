@@ -11,7 +11,6 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=35760
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 华丽台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-J2,https://hls.watchtv.uk/j2_twn/playlist-17.m3u8a?t=1708074386&token=525ee27a2b31138c978ed88e58304769
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 凤凰资讯台,https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
-凤凰资讯台,https://hls.watchtv.uk/ompd/pin/index.m3u8?t=1708074604&token=d20acd48abc98c9dd8460d04d82ab9d5
+
