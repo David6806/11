@@ -9,27 +9,27 @@ https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=ab941dca130f8e7dd742
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
 #EXTINF:-1 group-title="未分组",CCTV9
 https://node3.olelive.com:6443/live/CCTV9HD.live.flv?token=ec5f0f0acc621c2eb47b7f0e5c3be029
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",东方卫视
+#EXTINF:-1 group-title="未分组",CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+#EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",广东卫视
+#EXTINF:-1 group-title="未分组",广东卫视
 https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",广西卫视
+#EXTINF:-1 group-title="未分组",广西卫视
 https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",珠江台
+#EXTINF:-1 group-title="未分组",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",无线新闻台
+#EXTINF:-1 group-title="未分组",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",翡翠台
+#EXTINF:-1 group-title="未分组",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",华丽台
+#EXTINF:-1 group-title="未分组",华丽台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",J1
-http://line.gofast-tv.me:80/play/live.php?mac=00:1a:79:b5:63:3c&stream=153395&extension=ts&play_token=RyfNMzmtfK
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",J2
+#EXTINF:-1 group-title="未分组",J2
 https://hls.watchtv.uk/j2_twn/playlist-17.m3u8a?t=1708074386&token=525ee27a2b31138c978ed88e58304769
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",亚洲卫视
+#EXTINF:-1 group-title="未分组",亚洲卫视
 https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",凤凰资讯台
+#EXTINF:-1 group-title="未分组",凤凰资讯台
 https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 group-title="CCTV13，https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504",凤凰资讯台
+#EXTINF:-1 group-title="未分组",凤凰资讯台
 https://hls.watchtv.uk/ompd/pin/index.m3u8?t=1708074604&token=d20acd48abc98c9dd8460d04d82ab9d5
