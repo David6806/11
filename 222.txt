@@ -1,16 +1,21 @@
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=58e1ea6fd5cbcb5ac8a86dc4f25bf8b9
+CCTV3,https://hls.watchtv.uk/cctv3/playlist-39.m3u8a?t=1708125535&token=88ed45ddbd3b2eea8d08ac11541035cc
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=9629da0986e5bd4891f255b1c9094949
 CCTV5+,https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=ab941dca130f8e7dd742cb9aedd65888
+CCTV7,https://hls.watchtv.uk/cctv7/playlist-39.m3u8a?t=1708125648&token=86c5d86172a7f846259e0affe87ec437
 CCTV8,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
 CCTV9,https://node3.olelive.com:6443/live/CCTV9HD.live.flv?token=ec5f0f0acc621c2eb47b7f0e5c3be029
+CCTV10,https://hls.watchtv.uk/cctv10hd/playlist-39.m3u8a?t=1708125813&token=b8e3118953c2c82c8829c9c43bb20ecb
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+CCTV12,https://hls.watchtv.uk/cctv12/playlist-39.m3u8a?t=1708125920&token=e1499454215c8e6991562a1d15519013
+CCTV16,https://hls.watchtv.uk/cctv16/playlist-40.m3u8a?t=1708125699&token=ac716ce819d344589499e83ee691d5ad
 东方卫视,https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 广西卫视,https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
 珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-华丽台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
+凤凰中文台,https://hls.watchtv.uk/ompd/pcc/index.m3u8?t=1708126143&token=35e661b6ed9a1d295e1af2788191017d
 凤凰资讯台,https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
 
