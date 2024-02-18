@@ -18,7 +18,7 @@ https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",广西卫视
 https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
 #EXTINF:-1 group-title="未分组",湖南卫视
-https://hls.watchtv.uk/hunanws/playlist-40.m3u8a?t=1708218359&token=e56faf122bbae1285cf6550b1c06c077
+https://hls.watchtv.uk/hunanws/playlist-40.m3u8a?t=1708256377&token=116469560575b4021033aac3757bfbc6
 #EXTINF:-1 group-title="未分组",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="未分组",无线新闻台
@@ -29,17 +29,3 @@ https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 #EXTINF:-1 group-title="未分组",凤凰资讯台
 https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 group-title="未分组",马来欢喜台
-https://hls.watchtv.uk/Huahee/playlist-39.m3u8a?t=1708218636&token=fe68ce576e2632a30247db3b932937aa
-#EXTINF:-1 group-title="未分组",马来全佳台
-https://hls.watchtv.uk/Quanjia/playlist-39.m3u8a?t=1708218734&token=3a5427c577b839e4ed7632cc398da81a
-#EXTINF:-1 group-title="未分组",马来AEC台
-https://hls.watchtv.uk/AEC/playlist-39.m3u8a?t=1708218814&token=0fbdd239c0c2defc7a618e23198128eb
-#EXTINF:-1 group-title="未分组",新加坡U台
-https://hls.watchtv.uk/ChannelU/playlist-39.m3u8a?t=1708218972&token=d0a463268d42e5f15781102d2e4c7a54
-#EXTINF:-1 group-title="未分组",新加坡5台
-https://hls.watchtv.uk/Channel5HD/playlist-39.m3u8a?t=1708219031&token=b0b2adda4b985e844e22885266cdd0c5
-#EXTINF:-1 group-title="未分组",新加坡8台
-https://hls.watchtv.uk/Channel8HD/playlist-39.m3u8a?t=1708219126&token=a69aa3256a29c42c3baaa982d5ebeff4
-#EXTINF:-1 group-title="未分组",越南KTV
-http://210.245.20.94/hls/ktv1.m3u8
