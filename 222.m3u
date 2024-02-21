@@ -5,18 +5,24 @@ https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=58e1ea6fd5cbcb5ac8a86
 https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=9629da0986e5bd4891f255b1c9094949
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=ab941dca130f8e7dd742cb9aedd65888
+#EXTINF:-1 group-title="未分组",CCTV7
+http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv7.m3u8
 #EXTINF:-1 group-title="未分组",CCTV8
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
 #EXTINF:-1 group-title="未分组",CCTV9
 https://node3.olelive.com:6443/live/CCTV9HD.live.flv?token=ec5f0f0acc621c2eb47b7f0e5c3be029
 #EXTINF:-1 group-title="未分组",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+#EXTINF:-1 group-title="未分组",CCTV16
+http://222.188.68.38:8888/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",广东卫视
 https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",广西卫视
 https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
+#EXTINF:-1 group-title="未分组",湖南卫视
+http://222.188.68.38:8888/newlive/live/hls/42/live.m3u8
 #EXTINF:-1 group-title="未分组",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="未分组",无线新闻台
@@ -27,3 +33,5 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 #EXTINF:-1 group-title="未分组",凤凰资讯台
 https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
+#EXTINF:-1 group-title="未分组",博斯网球台
+http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
