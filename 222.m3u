@@ -22,16 +22,16 @@ https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
 https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://222.188.68.38:8888/newlive/live/hls/42/live.m3u8
-#EXTINF:-1 group-title="卫视频道",珠江台
+http://bsdcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视频道",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
-#EXTINF:-1 group-title="香港频道",亚洲卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港频道",亚洲卫视
 https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
-#EXTINF:-1 group-title="香港频道",凤凰资讯台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港频道",凤凰资讯台
 https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 group-title="香港频道",博斯网球台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港频道",博斯网球台
 http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77

@@ -11,7 +11,7 @@ CCTV16,http://222.188.68.38:8888/newlive/live/hls/17/live.m3u8
 东方卫视,https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 广西卫视,https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
-湖南卫视,http://222.188.68.38:8888/newlive/live/hls/42/live.m3u8
+湖南卫视,http://bsdcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8
 珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 香港频道
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
