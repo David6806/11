@@ -13,6 +13,8 @@ https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=590593a743635f2b519d
 https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=57d2e0281e4cb439ac572ae5d81c71b5
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD.live.flv?token=1ad8ea6e98efc296ca0a6932dc74135a
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV8
+https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=60d7d8825f857a99121d466717b727d2
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=271ba3e1212309fa1c0e92b7f2583999
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13
@@ -35,8 +37,6 @@ https://node1.olelive.com:6443/live/LIAONINGHD.live.flv?token=91649d2e16a839d167
 https://node1.olelive.com:6443/live/GUANGDONGHD.live.flv?token=5d7831cadf90528e75b4ae0989245229
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
 https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="卫视频道",广东影视
-http://113.109.15.208:808/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视频道",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://live.fanmingming.com/tv/岭南戏曲.png" group-title="卫视频道",岭南戏曲
@@ -44,7 +44,7 @@ http://183.11.239.32:808/hls/16/index.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港频道",亚洲卫视
 https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港频道",凤凰资讯台

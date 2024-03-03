@@ -6,6 +6,7 @@ CCTV5,https://h5cdn404.kylintv.tv/live/cctv5hd_iphone.m3u8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=590593a743635f2b519ddad9f071b09f
 CCTV5+,https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=57d2e0281e4cb439ac572ae5d81c71b5
 CCTV6,https://node1.olelive.com:6443/live/CCTV6HD.live.flv?token=1ad8ea6e98efc296ca0a6932dc74135a
+CCTV8,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=60d7d8825f857a99121d466717b727d2
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=271ba3e1212309fa1c0e92b7f2583999
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 CCTV16,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=008fe7d5edf48a65b371f5f7cbd0eb7e
@@ -18,12 +19,11 @@ CCTV16,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=008fe7d5edf48
 辽宁卫视,https://node1.olelive.com:6443/live/LIAONINGHD.live.flv?token=91649d2e16a839d167a0fc23e1c55a92
 广东卫视,https://node1.olelive.com:6443/live/GUANGDONGHD.live.flv?token=5d7831cadf90528e75b4ae0989245229
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-广东影视,http://113.109.15.208:808/hls/24/index.m3u8
 珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 岭南戏曲,http://183.11.239.32:808/hls/16/index.m3u8
 香港频道
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
-翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 凤凰资讯台,https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
