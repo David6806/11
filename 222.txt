@@ -2,16 +2,16 @@
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=6276c94c55fc4fbe38e67a5e2552730f
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV5,https://h5cdn404.kylintv.tv/live/cctv5hd_iphone.m3u8
-CCTV5+,http://60.211.167.226:8888/newlive/live/hls/7/live.m3u8
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=6cbac9e2c584d374b41a7253191d0ca7
+CCTV5+,https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=2479031c560df6aed7993bc0f62fa0d3
 CCTV6,https://node1.olelive.com:6443/live/CCTV6HD.live.flv?token=1ad8ea6e98efc296ca0a6932dc74135a
-CCTV7,http://114.227.225.39:1024/rtp/239.49.1.254:6000
 CCTV8,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=60d7d8825f857a99121d466717b727d2
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=271ba3e1212309fa1c0e92b7f2583999
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 CCTV16,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=008fe7d5edf48a65b371f5f7cbd0eb7e
 卫视频道
+东方卫视,https://node3.olelive.com:6443/live/DONGFANGHD.live.flv?token=d16ea4ef17352f6d9ab9e2454798b5b1
 东方卫视,https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
-东方卫视,http://42.49.189.17:9008/tsfile/live/0107_1.m3u8
 广西卫视,https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
 湖南卫视,https://node3.olelive.com:6443/live/HUNANHD.live.flv?token=1a309d5963a39858b643e9c08db9831a
 广东卫视,https://node1.olelive.com:6443/live/GUANGDONGHD.live.flv?token=5d7831cadf90528e75b4ae0989245229
@@ -21,7 +21,6 @@ CCTV16,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=008fe7d5edf48
 岭南戏曲,http://171.109.224.82:8181/tsfile/live/1137_1.m3u8
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 凤凰资讯台,https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 亚洲旅游台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 博斯网球台,http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 
