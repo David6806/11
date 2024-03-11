@@ -19,10 +19,14 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=008fe7d5edf48a65b371f5f7cbd0eb7e
 #EXTINF:-1 group-title="卫视频道",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
+#EXTINF:-1 group-title="卫视频道",上海纪实人文
+http://php.jdshipin.com:8880/bst.php?id=jsrw
 #EXTINF:-1 group-title="卫视频道",广西卫视
 https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
 #EXTINF:-1 group-title="卫视频道",湖南卫视
 https://node3.olelive.com:6443/live/HUNANHD.live.flv?token=1a309d5963a39858b643e9c08db9831a
+#EXTINF:-1 group-title="卫视频道",金鹰纪实
+http://php.jdshipin.com:8880/bst.php?id=jyjs
 #EXTINF:-1 group-title="卫视频道",广东卫视
 https://node1.olelive.com:6443/live/GUANGDONGHD.live.flv?token=5d7831cadf90528e75b4ae0989245229
 #EXTINF:-1 group-title="卫视频道",广东卫视
@@ -31,11 +35,19 @@ https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="卫视频道",岭南戏曲
 http://171.109.224.82:8181/tsfile/live/1137_1.m3u8
+#EXTINF:-1 group-title="卫视频道",翡翠台
+http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 #EXTINF:-1 group-title="卫视频道",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 group-title="卫视频道",凤凰资讯台
+http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+#EXTINF:-1 group-title="卫视频道",凤凰资讯台
 https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
 #EXTINF:-1 group-title="卫视频道",亚洲旅游台
+http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+#EXTINF:-1 group-title="卫视频道",亚洲旅游台
 http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
+#EXTINF:-1 group-title="卫视频道",博斯网球台
+http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 #EXTINF:-1 group-title="卫视频道",博斯网球台
 http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
