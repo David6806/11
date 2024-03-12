@@ -8,7 +8,8 @@ CCTV8,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=60d7d8825f857a9
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=271ba3e1212309fa1c0e92b7f2583999
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 CCTV16,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=008fe7d5edf48a65b371f5f7cbd0eb7e
-卫视频道
+世界地理,http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+东方卫视,https://node3.olelive.com:6443/live/DONGFANGHD.live.flv?token=80b096e49a97a9c6ddc9f9fe05bbda84
 东方卫视,https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 上海纪实人文,http://php.jdshipin.com:8880/bst.php?id=jsrw
 广西卫视,https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
@@ -19,6 +20,7 @@ CCTV16,https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=008fe7d5edf48
 珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 岭南戏曲,http://171.109.224.82:8181/tsfile/live/1137_1.m3u8
 翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+j2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 凤凰资讯台,http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 凤凰资讯台,https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
