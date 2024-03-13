@@ -8,17 +8,19 @@ https://h5cdn404.kylintv.tv/live/cctv5hd_iphone.m3u8
 #EXTINF:-1 group-title="央视频道",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=6cbac9e2c584d374b41a7253191d0ca7
 #EXTINF:-1 group-title="央视频道",CCTV5+
-https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=2479031c560df6aed7993bc0f62fa0d3
+https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=5fe0e8ccc63eea4cb2bb2e8e055d7f4f
 #EXTINF:-1 group-title="央视频道",CCTV8
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=60d7d8825f857a99121d466717b727d2
 #EXTINF:-1 group-title="央视频道",CCTV9
-https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=271ba3e1212309fa1c0e92b7f2583999
+https://node3.olelive.com:6443/live/CCTV9HD.live.flv?token=5a07269ca9b1779f7683307060bf3214
 #EXTINF:-1 group-title="央视频道",CCTV13
 https://pi.0472.org/tv/fct.php?auth=230918
 #EXTINF:-1 group-title="央视频道",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 #EXTINF:-1 group-title="央视频道",CCTV16
-https://node3.olelive.com:6443/live/CCTV16HD.live.flv?token=008fe7d5edf48a65b371f5f7cbd0eb7e
+https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7d4e42c27daf733e4d07ad62d5add68f
+#EXTINF:-1 group-title="央视频道",东方卫视
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=6f225fc73570e45c10de9d38df7e7199&volcTime=1710422104
 #EXTINF:-1 group-title="央视频道",东方卫视
 https://node3.olelive.com:6443/live/DONGFANGHD.live.flv?token=80b096e49a97a9c6ddc9f9fe05bbda84
 #EXTINF:-1 group-title="央视频道",东方卫视
@@ -27,12 +29,14 @@ https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 http://php.jdshipin.com:8880/bst.php?id=jsrw
 #EXTINF:-1 group-title="央视频道",五星体育
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="央视频道",乐游
+http://php.jdshipin.com:8880/bst.php?id=qjshd8m/8000000
 #EXTINF:-1 group-title="央视频道",新视觉HD
 http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
 #EXTINF:-1 group-title="央视频道",广西卫视
 https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
 #EXTINF:-1 group-title="央视频道",湖南卫视
-https://node3.olelive.com:6443/live/HUNANHD.live.flv?token=1a309d5963a39858b643e9c08db9831a
+https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=ac4ade20efe8800e39bd5330cc263bfb
 #EXTINF:-1 group-title="央视频道",金鹰纪实
 http://php.jdshipin.com:8880/bst.php?id=jyjs
 #EXTINF:-1 group-title="央视频道",广东卫视
@@ -45,20 +49,12 @@ http://183.17.224.90:8888/udp/239.77.1.97:5146
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="央视频道",岭南戏曲
 http://183.17.224.90:8888/udp/239.77.0.16:5146
-#EXTINF:-1 group-title="央视频道",解密台
-http://27.11.104.77:8001/udp/225.0.4.153:7980
-#EXTINF:-1 group-title="央视频道",全记实
-http://27.11.104.77:8001/udp/225.0.4.113:7980
-#EXTINF:-1 group-title="央视频道",地理台
-http://27.11.104.77:8001/udp/225.0.4.149:7980
-#EXTINF:-1 group-title="央视频道",野外台
-http://27.11.104.77:8001/udp/225.0.4.57:7980
 #EXTINF:-1 group-title="央视频道",翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+#EXTINF:-1 group-title="央视频道",翡翠台
+http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 #EXTINF:-1 group-title="央视频道",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="央视频道",凤凰资讯台
-https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
 #EXTINF:-1 group-title="央视频道",亚洲旅游台
 http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 #EXTINF:-1 group-title="央视频道",博斯网球台
