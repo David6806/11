@@ -1,51 +1,59 @@
 #EXTM3U
-#EXTINF:-1 group-title="央视频道",CCTV1
+#EXTINF:-1 group-title="未分组",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
-#EXTINF:-1 group-title="央视频道",CCTV5
+#EXTINF:-1 group-title="未分组",CCTV5
 https://h5cdn404.kylintv.tv/live/cctv5hd_iphone.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV5+
+#EXTINF:-1 group-title="未分组",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV9
+#EXTINF:-1 group-title="未分组",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=b4e186488dd0e9b83c415f4978b685e7
-#EXTINF:-1 group-title="央视频道",CCTV13
+#EXTINF:-1 group-title="未分组",CCTV13
 http://110.72.86.230:808/hls/106/index.m3u8
-#EXTINF:-1 group-title="央视频道",东方卫视
+#EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:-1 group-title="央视频道",上海纪实人文
-http://php.jdshipin.com:8880/bst.php?id=jsrw
-#EXTINF:-1 group-title="央视频道",五星体育
+#EXTINF:-1 group-title="未分组",上海纪实人文
+http://171.223.199.89:8123/udp/239.93.1.154:5140
+#EXTINF:-1 group-title="未分组",五星体育
 http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="央视频道",乐游
+#EXTINF:-1 group-title="未分组",乐游
 http://php.jdshipin.com:8880/bst.php?id=qjshd8m/8000000
-#EXTINF:-1 group-title="央视频道",新视觉HD
+#EXTINF:-1 group-title="未分组",地理
+http://171.223.199.89:8123/udp/239.93.0.200:9052
+#EXTINF:-1 group-title="未分组",新视觉HD
 http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
-#EXTINF:-1 group-title="央视频道",广西卫视
+#EXTINF:-1 group-title="未分组",广西卫视
 https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
-#EXTINF:-1 group-title="央视频道",广东卫视
+#EXTINF:-1 group-title="未分组",广东卫视
 https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-#EXTINF:-1 group-title="央视频道",广东影视
+#EXTINF:-1 group-title="未分组",广东影视
 http://110.72.73.234:808/hls/59/index.m3u8
-#EXTINF:-1 group-title="央视频道",大弯区卫视
+#EXTINF:-1 group-title="未分组",大弯区卫视
 http://110.72.73.234:808/hls/81/index.m3u8
-#EXTINF:-1 group-title="央视频道",珠江台
+#EXTINF:-1 group-title="未分组",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 group-title="央视频道",翡翠台
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
-#EXTINF:-1 group-title="央视频道",J2
+#EXTINF:-1 group-title="未分组",岭南戏曲
+http://61.140.113.33:808/hls/614/index.m3u8
+#EXTINF:-1 group-title="未分组",北京卫视
+http://171.119.205.229:6000/rtp/226.0.2.39:8224
+#EXTINF:-1 group-title="未分组",翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1 group-title="未分组",翡翠台
+http://61.140.113.33:808/hls/105/index.m3u8
+#EXTINF:-1 group-title="未分组",J2
 http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-#EXTINF:-1 group-title="央视频道",无线新闻台
-http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="央视频道",香港HOY新闻台
+#EXTINF:-1 group-title="未分组",无线新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+#EXTINF:-1 group-title="未分组",香港HOY新闻台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
-#EXTINF:-1 group-title="央视频道",香港32台
+#EXTINF:-1 group-title="未分组",香港32台
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
-#EXTINF:-1 group-title="央视频道",东森新闻台
+#EXTINF:-1 group-title="未分组",东森新闻台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
-#EXTINF:-1 group-title="央视频道",八大第一台
+#EXTINF:-1 group-title="未分组",八大第一台
 http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-#EXTINF:-1 group-title="央视频道",八大戏剧台
+#EXTINF:-1 group-title="未分组",八大戏剧台
 http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
-#EXTINF:-1 group-title="央视频道",博斯网球台
+#EXTINF:-1 group-title="未分组",博斯网球台
 http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 group-title="央视频道",纬来体育
+#EXTINF:-1 group-title="未分组",纬来体育
 http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
