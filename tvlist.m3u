@@ -2,7 +2,9 @@
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 #EXTINF:-1 group-title="未分组",CCTV5
-https://h5cdn404.kylintv.tv/live/cctv5hd_iphone.m3u8
+https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
+#EXTINF:-1 group-title="未分组",CCTV5+
+https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002cfad7def5885d
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV9
@@ -10,7 +12,7 @@ https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=b4e186488dd0e9b83c415
 #EXTINF:-1 group-title="未分组",CCTV13
 http://110.72.86.230:808/hls/106/index.m3u8
 #EXTINF:-1 group-title="未分组",东方卫视
-https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
+https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d
 #EXTINF:-1 group-title="未分组",上海纪实人文
 http://171.223.199.89:8123/udp/239.93.1.154:5140
 #EXTINF:-1 group-title="未分组",五星体育
@@ -31,19 +33,15 @@ http://110.72.73.234:808/hls/59/index.m3u8
 http://110.72.73.234:808/hls/81/index.m3u8
 #EXTINF:-1 group-title="未分组",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 group-title="未分组",岭南戏曲
-http://61.140.113.33:808/hls/614/index.m3u8
 #EXTINF:-1 group-title="未分组",北京卫视
 http://171.119.205.229:6000/rtp/226.0.2.39:8224
 #EXTINF:-1 group-title="未分组",翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 #EXTINF:-1 group-title="未分组",翡翠台
-http://61.140.113.33:808/hls/105/index.m3u8
-#EXTINF:-1 group-title="未分组",J2
-http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 #EXTINF:-1 group-title="未分组",无线新闻台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
-#EXTINF:-1 group-title="未分组",香港HOY新闻台
+#EXTINF:-1 group-title="未分组",香港HOY资迅台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
 #EXTINF:-1 group-title="未分组",香港32台
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
