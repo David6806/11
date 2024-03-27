@@ -2,10 +2,12 @@ CCTV1,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf240
 CCTV5,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002cfad7def5885d
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV7,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=b4e186488dd0e9b83c415f4978b685e7
 CCTV13,https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=de009a7a7653443c88a0bec141882b31
 CCTV16,https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 东方卫视,https://node3.olelive.com:6443/live/DONGFANGHD.live.flv?token=b44a7de9ec674f23fe4beb945f3fcf1d
+湖南卫视,https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 新视觉HD,http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
 珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
