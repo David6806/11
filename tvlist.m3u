@@ -1,35 +1,29 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
-#EXTINF:-1 group-title="未分组",CCTV3
-https://alicdnhd-hz-hunan-live.5gtv.com.cn/live/XP_CCTV3HD.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
-#EXTINF:-1 group-title="未分组",CCTV5
-https://h5cdn404.kylintv.tv/live/cctv5hd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002cfad7def5885d
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 group-title="未分组",CCTV7
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="未分组",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=b4e186488dd0e9b83c415f4978b685e7
 #EXTINF:-1 group-title="未分组",CCTV13
-https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=de009a7a7653443c88a0bec141882b31
+https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
 #EXTINF:-1 group-title="未分组",CCTV16
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 #EXTINF:-1 group-title="未分组",东方卫视
-https://node3.olelive.com:6443/live/DONGFANGHD.live.flv?token=b44a7de9ec674f23fe4beb945f3fcf1d
+https://node3.olelive.com:6443/live/DONGFANGHD.live.flv?token=72348537eb37169de51b10e72a038bd4
 #EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 #EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",湖南卫视
 https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
 #EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",翡翠台
+http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 #EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",博斯网球台
 http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",纬来体育
-http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MA6A1192684511926845&ct=19226&tsum=0b7ca9a61e7371df68108a27dc358c68
