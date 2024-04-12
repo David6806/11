@@ -7,6 +7,8 @@ https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c4760
 https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002cfad7def5885d
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="未分组",CCTV7
+http://120.7.86.11:808/hls/7/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=b4e186488dd0e9b83c415f4978b685e7
 #EXTINF:-1 group-title="未分组",CCTV13
@@ -19,10 +21,12 @@ https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 #EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",湖南卫视
 https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",无线新闻台
+#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",香港无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",香港32台
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",香港面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",博斯网球台

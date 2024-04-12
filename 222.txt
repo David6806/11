@@ -2,6 +2,7 @@ CCTV1,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf240
 CCTV5,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002cfad7def5885d
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV7,http://120.7.86.11:808/hls/7/index.m3u8
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=b4e186488dd0e9b83c415f4978b685e7
 CCTV13,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 CCTV13,https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
@@ -9,8 +10,9 @@ CCTV16,https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb09
 东方卫视,https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
                https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d
 湖南卫视,https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
-无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
-翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+香港无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 博斯网球台,http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
 
