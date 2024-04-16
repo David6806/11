@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
-#EXTINF:-1 group-title="未分组",CCTV4
-https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
+#EXTINF:-1 group-title="未分组",CCTV5+
+http://113.218.218.5:8001/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002cfad7def5885d
 #EXTINF:-1 group-title="未分组",CCTV5+
@@ -12,9 +12,9 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV7
 http://120.7.86.11:808/hls/7/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV9
+http://66.165.240.154:8080/live/jsydcctv9/hls.m3u8
+#EXTINF:-1 group-title="未分组",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=b4e186488dd0e9b83c415f4978b685e7
-#EXTINF:-1 group-title="未分组",CCTV10
-http://182.112.29.176:808/hls/10/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV13
 http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1 group-title="未分组",CCTV13
