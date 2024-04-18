@@ -1,20 +1,22 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
+#EXTINF:-1 group-title="未分组",CCTV3
+https://pi.0472.org/live/cctv3.m3u8?token=162210
 #EXTINF:-1 group-title="未分组",CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
-#EXTINF:-1 group-title="未分组",CCTV5+
-http://113.218.218.5:8001/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002cfad7def5885d
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="未分组",CCTV风云足球
+https://pi.0472.org/live/fyzq.m3u8?token=162210
 #EXTINF:-1 group-title="未分组",CCTV7
-http://120.7.86.11:808/hls/7/index.m3u8
-#EXTINF:-1 group-title="未分组",CCTV9
-http://66.165.240.154:8080/live/jsydcctv9/hls.m3u8
+https://pi.0472.org/live/cctv7.m3u8?token=162210
 #EXTINF:-1 group-title="未分组",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=b4e186488dd0e9b83c415f4978b685e7
+#EXTINF:-1 group-title="未分组",CCTV10
+https://pi.0472.org/live/cctv10.m3u8?token=162210
 #EXTINF:-1 group-title="未分组",CCTV13
 http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1 group-title="未分组",CCTV13
@@ -38,4 +40,6 @@ https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",澳门Macau台
 http://61.244.22.5/ch3/ch3.live/index.m3u8
 #EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",博斯网球台
-http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",博斯网球台
+http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=98
