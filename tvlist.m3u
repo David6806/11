@@ -25,21 +25,25 @@ https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc1
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 #EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",湖南卫视
+#EXTINF:-1 group-title="未分组",湖南卫视
 https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",广东珠江台
+#EXTINF:-1 group-title="未分组",广东珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",香港无线新闻台
+#EXTINF:-1 group-title="未分组",香港无线新闻台
+http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+#EXTINF:-1 group-title="未分组",香港无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",香港娱乐新闻台
+#EXTINF:-1 group-title="未分组",香港娱乐新闻台
 https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",香港环球电视台
+#EXTINF:-1 group-title="未分组",香港环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",香港星河台
+#EXTINF:-1 group-title="未分组",香港星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",澳门Macau台
+#EXTINF:-1 group-title="未分组",澳门Macau台
 http://61.244.22.5/ch3/ch3.live/index.m3u8
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",博斯网球台
+#EXTINF:-1 group-title="未分组",TVBS新闻台
+https://raw.githubusercontent.com/HUISSINSJKN/TVBSXW_SKY4K/main/playlist.m3u8
+#EXTINF:-1 group-title="未分组",博斯网球台
 http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 group-title="https://hls.watchtv.uk/dfws/playlist-40.m3u8a?t=1711101799&token=eb966bdc606523e8762e754d6af7639d",博斯网球台
+#EXTINF:-1 group-title="未分组",博斯网球台
 http://8.137.59.151:99/haioujk0409/haiousmtjk666.php?id=98
