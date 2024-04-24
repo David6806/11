@@ -1,10 +1,14 @@
 #EXTM3U
+#EXTINF:-1 group-title="未分组",CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+#EXTINF:-1 group-title="未分组",CCTV8K
+http://120.79.4.185/md0424.php?id=cctv8k
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 #EXTINF:-1 group-title="未分组",CCTV3
-https://pi.0472.org/live/cctv3.m3u8?token=241703
+http://120.79.4.185/md0424.php?id=cctv3
 #EXTINF:-1 group-title="未分组",CCTV4
 https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
@@ -18,13 +22,19 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV奥林匹克
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 #EXTINF:-1 group-title="未分组",CCTV风云足球
-https://pi.0472.org/live/fyzq.m3u8?token=241703
+http://120.79.4.185/md0424.php?id=fyzq
+#EXTINF:-1 group-title="未分组",CCTV6
+http://120.79.4.185/md0424.php?id=cctv6
 #EXTINF:-1 group-title="未分组",CCTV7
-https://pi.0472.org/live/cctv7.m3u8?token=241703
+http://120.79.4.185/md0424.php?id=cctv7
+#EXTINF:-1 group-title="未分组",CCTV8
+http://120.79.4.185/md0424.php?id=cctv8
 #EXTINF:-1 group-title="未分组",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=b4e186488dd0e9b83c415f4978b685e7
 #EXTINF:-1 group-title="未分组",CCTV10
-https://pi.0472.org/live/cctv10.m3u8?token=241703
+http://120.79.4.185/md0424.php?id=cctv10
+#EXTINF:-1 group-title="未分组",CCTV12
+http://120.79.4.185/md0424.php?id=cctv12
 #EXTINF:-1 group-title="未分组",CCTV13
 http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1 group-title="未分组",CCTV13
@@ -39,12 +49,8 @@ https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 #EXTINF:-1 group-title="未分组",香港无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="未分组",香港娱乐新闻台
+#EXTINF:-1 group-title="未分组",香港财经新闻台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 group-title="未分组",香港HOY 77台
-http://mtw.so/5NZS1S
-#EXTINF:-1 group-title="未分组",香港HOY 78台
-http://mtw.so/5UQ7Ef
 #EXTINF:-1 group-title="未分组",凤凰资讯台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 group-title="未分组",凤凰资讯台
@@ -53,6 +59,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 group-title="未分组",TVBS新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+#EXTINF:-1 group-title="未分组",TVBS亚洲台
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="未分组",寰宇新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 group-title="未分组",东森台
@@ -77,9 +85,5 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 #EXTINF:-1 group-title="未分组",台娱乐台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 group-title="未分组",八大电视台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
-#EXTINF:-1 group-title="未分组",电视剧台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-#EXTINF:-1 group-title="未分组",风光台
+#EXTINF:-1 group-title="未分组",中视人文台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
