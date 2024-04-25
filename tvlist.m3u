@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="未分组",CCTV4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
-#EXTINF:-1 group-title="未分组",CCTV8K
-http://120.79.4.185/md0424.php?id=cctv8k
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
-#EXTINF:-1 group-title="未分组",CCTV3
-http://120.79.4.185/md0424.php?id=cctv3
 #EXTINF:-1 group-title="未分组",CCTV4
 https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
@@ -21,20 +15,8 @@ https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002c
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV奥林匹克
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
-#EXTINF:-1 group-title="未分组",CCTV风云足球
-http://120.79.4.185/md0424.php?id=fyzq
-#EXTINF:-1 group-title="未分组",CCTV6
-http://120.79.4.185/md0424.php?id=cctv6
-#EXTINF:-1 group-title="未分组",CCTV7
-http://120.79.4.185/md0424.php?id=cctv7
-#EXTINF:-1 group-title="未分组",CCTV8
-http://120.79.4.185/md0424.php?id=cctv8
 #EXTINF:-1 group-title="未分组",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD.live.flv?token=b4e186488dd0e9b83c415f4978b685e7
-#EXTINF:-1 group-title="未分组",CCTV10
-http://120.79.4.185/md0424.php?id=cctv10
-#EXTINF:-1 group-title="未分组",CCTV12
-http://120.79.4.185/md0424.php?id=cctv12
 #EXTINF:-1 group-title="未分组",CCTV13
 http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1 group-title="未分组",CCTV13
