@@ -5,12 +5,8 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 #EXTINF:-1 group-title="未分组",CCTV3
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv38m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="未分组",CCTV3
-http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="未分组",CCTV4
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="未分组",CCTV4
-http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8
 #EXTINF:-1 group-title="未分组",CCTV4
 https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
@@ -29,8 +25,6 @@ https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="未分组",CCTV7
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="未分组",CCTV7
-http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv7/1300000/mnf.m3u8
 #EXTINF:-1 group-title="未分组",CCTV8
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="未分组",CCTV9
@@ -47,6 +41,8 @@ http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv1
 http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1 group-title="未分组",CCTV13
 https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
+#EXTINF:-1 group-title="未分组",CCTV世界地理
+http://60.2.190.206:4000/rtp/239.253.92.113:8066
 #EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",湖南卫视

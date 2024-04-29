@@ -1,9 +1,7 @@
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 CCTV3,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV3,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
 CCTV4,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV4,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8
 CCTV4,https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
@@ -13,7 +11,6 @@ CCTV奥林匹克,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/p
 CCTV奥林匹克,https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 CCTV6,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv6hd8m/8000000/mnf.m3u8
 CCTV7,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV7,http://58.42.59.104/hljbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/cctv7/1300000/mnf.m3u8
 CCTV8,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 CCTV9,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
@@ -22,6 +19,7 @@ CCTV12,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/liv
 CCTV13,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
 CCTV13,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 CCTV13,https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
+CCTV世界地理,http://60.2.190.206:4000/rtp/239.253.92.113:8066
 东方卫视,https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 湖南卫视,https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
 广东珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
