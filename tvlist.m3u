@@ -22,7 +22,11 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV奥林匹克
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 #EXTINF:-1 group-title="未分组",CCTV7
+http://66.165.240.154:8080/live/jsydcctv7/hls.m3u8
+#EXTINF:-1 group-title="未分组",CCTV7
 https://edge1.laotv.la/live/CCTV7/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV8
+https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
 #EXTINF:-1 group-title="未分组",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV12
@@ -33,6 +37,10 @@ https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc1
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",湖南卫视
 https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
+#EXTINF:-1 group-title="未分组",广西卫视
+https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
+#EXTINF:-1 group-title="未分组",广东卫视
+https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",广东珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="未分组",翡翠台
