@@ -3,18 +3,16 @@
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
+#EXTINF:-1 group-title="未分组",CCTV3
+https://z88.ubtvfans.com/live/rx1/2808/184ae3594c7818808f852cc6988b4525/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV4
 https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
-#EXTINF:-1 group-title="未分组",CCTV5
-http://113.206.113.139:55555/udp/225.0.4.143:7980
 #EXTINF:-1 group-title="未分组",CCTV5
 http://66.165.240.154:8080/live/jsydcctv5/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
-#EXTINF:-1 group-title="未分组",CCTV5+
-http://113.206.113.139:55555/udp/225.0.4.73:7980
 #EXTINF:-1 group-title="未分组",CCTV5+
 http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5+
@@ -23,28 +21,24 @@ https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002c
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV奥林匹克
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
+#EXTINF:-1 group-title="未分组",CCTV7
+https://edge1.laotv.la/live/CCTV7/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 group-title="未分组",CCTV12
+https://z88.ubtvfans.com/live/rx1/212/b617c31586b3a320062ec62c7b4e93d5/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV13
 https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
-#EXTINF:-1 group-title="未分组",CCTV世界地理
-http://60.2.190.206:4000/rtp/239.253.92.113:8066
 #EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",湖南卫视
 https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
 #EXTINF:-1 group-title="未分组",广东珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 group-title="未分组",纪实人文
-http://113.206.113.139:55555/udp/225.0.4.99:7980
-#EXTINF:-1 group-title="未分组",纪实人文
-http://113.206.113.139:55555/udp/225.0.4.99:7980
-#EXTINF:-1 group-title="未分组",全纪实
-http://113.206.113.139:55555/udp/225.0.4.113:7980
-#EXTINF:-1 group-title="未分组",解密
-http://113.206.113.139:55555/udp/225.0.4.153:7980
-#EXTINF:-1 group-title="未分组",地理
-http://113.206.113.139:55555/udp/225.0.4.149:7980
+#EXTINF:-1 group-title="未分组",翡翠台
+https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+#EXTINF:-1 group-title="未分组",翡翠台
+https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
 #EXTINF:-1 group-title="未分组",香港无线新闻台
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 #EXTINF:-1 group-title="未分组",香港无线新闻台
