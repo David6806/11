@@ -1,35 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV1
-https://node1.olelive.com:6443/live/CCTV1HD.live.flv?token=58e1ea6fd5cbcb5ac8a86dc4f25bf8b9
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV5
-https://node1.olelive.com:6443/live/CCTV5HD.live.flv?token=9629da0986e5bd4891f255b1c9094949
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
-https://node3.olelive.com:6443/live/CCTV5PHD.live.flv?token=ab941dca130f8e7dd742cb9aedd65888
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV7
-http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv7.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV8
+#EXTINF:-1 group-title="未分组",CCTV1
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+#EXTINF:-1 group-title="未分组",CCTV1
+https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
+#EXTINF:-1 group-title="未分组",CCTV4
+https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
+#EXTINF:-1 group-title="未分组",CCTV5
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 group-title="未分组",CCTV5
+https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
+#EXTINF:-1 group-title="未分组",CCTV5+
+https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002cfad7def5885d
+#EXTINF:-1 group-title="未分组",CCTV5+
+https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 group-title="未分组",CCTV奥林匹克
+https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
+#EXTINF:-1 group-title="未分组",CCTV8
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV9
-https://node3.olelive.com:6443/live/CCTV9HD.live.flv?token=ec5f0f0acc621c2eb47b7f0e5c3be029
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
+#EXTINF:-1 group-title="未分组",CCTV9
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+#EXTINF:-1 group-title="未分组",CCTV13
+https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
+#EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视频道",广东卫视
-https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
+#EXTINF:-1 group-title="未分组",湖南卫视
+https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
+#EXTINF:-1 group-title="未分组",广西卫视
 https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视频道",珠江台
+#EXTINF:-1 group-title="未分组",广东卫视
+https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
+#EXTINF:-1 group-title="未分组",广东珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="香港频道",无线新闻台
+#EXTINF:-1 group-title="未分组",香港无线新闻台
+http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+#EXTINF:-1 group-title="未分组",香港无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港频道",翡翠台
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
-#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="香港频道",J2
-http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港频道",亚洲卫视
-https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港频道",凤凰资讯台
-https://cd05991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="香港频道",博斯网球台
-http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 group-title="未分组",香港娱乐新闻台
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="未分组",凤凰资讯台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 group-title="未分组",凤凰资讯台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="未分组",TVBS新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 group-title="未分组",TVBS新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+#EXTINF:-1 group-title="未分组",TVBS亚洲台
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="未分组",寰宇新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="未分组",中天新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="未分组",中天新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 group-title="未分组",中视新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="未分组",中视HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+#EXTINF:-1 group-title="未分组",民视新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="未分组",台视新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 group-title="未分组",三立新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="未分组",镜新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="未分组",新唐人亚太台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+#EXTINF:-1 group-title="未分组",台视娱乐台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="未分组",中视人文台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
