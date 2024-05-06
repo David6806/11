@@ -1,5 +1,6 @@
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
+CCTV2,https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 CCTV3,http://tvbox.netsite.cc/proxy/781829366/781829366.m3u8
 CCTV4,https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
@@ -11,17 +12,12 @@ CCTV奥林匹克,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn
 CCTV风云足球,http://111.225.114.68:808/tsfile/live/1037_1.m3u8
 CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV7,http://64.140.167.170:8080/live/fjydcctv7/hls.m3u8
-CCTV7,http://148.135.93.213:81/PLTV/bestv.php?id=cctv7hd8m/8000000
 CCTV8,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV10,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
-CCTV11,http://148.135.93.213:81/PLTV/bestv.php?id=cctv11hd8m/8000000
-CCTV12,http://148.135.93.213:81/PLTV/bestv.php?id=cctv12hd8m/8000000
 CCTV13,https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
-CCTV15,http://148.135.93.213:81/PLTV/bestv.php?id=cctv15hd8m/8000000
 东方卫视,https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 东方卫视,http://183.204.13.185/mmst.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2000292401.m3u8
-五星体育,http://148.135.93.213:81/PLTV/bestv.php?id=wxtyhd8m/8000000
 湖南卫视,https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
 广西卫视,https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
