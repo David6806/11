@@ -6,7 +6,9 @@ https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438d
 #EXTINF:-1 group-title="未分组",CCTV2
 https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 #EXTINF:-1 group-title="未分组",CCTV3
-http://tvbox.netsite.cc/proxy/781829366/781829366.m3u8
+http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8
+#EXTINF:-1 group-title="未分组",CCTV3
+http://64.140.167.170:8080/live/fjydcctv3/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV4
 https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
@@ -19,8 +21,6 @@ https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002c
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV奥林匹克
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
-#EXTINF:-1 group-title="未分组",CCTV奥林匹克
-http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575402.m3u8
 #EXTINF:-1 group-title="未分组",CCTV风云足球
 http://111.225.114.68:808/tsfile/live/1037_1.m3u8
 #EXTINF:-1 group-title="未分组",CCTV6
@@ -37,8 +37,6 @@ http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0c
 https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
 #EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:-1 group-title="未分组",东方卫视
-http://183.204.13.185/mmst.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2000292401.m3u8
 #EXTINF:-1 group-title="未分组",湖南卫视
 https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
 #EXTINF:-1 group-title="未分组",广西卫视
