@@ -1,8 +1,8 @@
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 CCTV2,https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
-CCTV3,http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8
 CCTV3,http://64.140.167.170:8080/live/fjydcctv3/hls.m3u8
+CCTV3,http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8
 CCTV4,https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
@@ -23,6 +23,7 @@ CCTV13,https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4d
 广东珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 香港无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 香港娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+翡翠台,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
 香港星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 凤凰资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
