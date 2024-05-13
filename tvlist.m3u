@@ -7,8 +7,6 @@ https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438d
 https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 #EXTINF:-1 group-title="未分组",CCTV3
 http://64.140.167.170:8080/live/fjydcctv3/hls.m3u8
-#EXTINF:-1 group-title="未分组",CCTV3
-http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8
 #EXTINF:-1 group-title="未分组",CCTV4
 https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
@@ -22,7 +20,7 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV奥林匹克
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 #EXTINF:-1 group-title="未分组",CCTV风云足球
-http://111.225.114.68:808/tsfile/live/1037_1.m3u8
+http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
 #EXTINF:-1 group-title="未分组",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV7
@@ -95,8 +93,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 group-title="未分组",体育电视
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 group-title="未分组",福克斯体育1
-http://190.108.85.20:9999/play/a011
 #EXTINF:-1 group-title="未分组",福克斯体育2
 http://190.61.43.117:45000/play/a01g
 #EXTINF:-1 group-title="未分组",天空体育西甲

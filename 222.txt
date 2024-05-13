@@ -2,14 +2,13 @@ CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 CCTV2,https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 CCTV3,http://64.140.167.170:8080/live/fjydcctv3/hls.m3u8
-CCTV3,http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8
 CCTV4,https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002cfad7def5885d
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV奥林匹克,https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
-CCTV风云足球,http://111.225.114.68:808/tsfile/live/1037_1.m3u8
+CCTV风云足球,http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
 CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV7,http://64.140.167.170:8080/live/fjydcctv7/hls.m3u8
 CCTV8,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
@@ -46,7 +45,6 @@ TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 国际网球1,https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 网球,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 体育电视,https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-福克斯体育1,http://190.108.85.20:9999/play/a011
 福克斯体育2,http://190.61.43.117:45000/play/a01g
 天空体育西甲,http://181.78.105.146:2000/play/a08m/index.m3u8
 ESPN,http://190.61.43.117:45000/play/a01l
