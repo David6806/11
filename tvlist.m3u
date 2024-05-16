@@ -6,7 +6,7 @@ https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438d
 #EXTINF:-1 group-title="未分组",CCTV2
 https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 #EXTINF:-1 group-title="未分组",CCTV3
-http://64.140.167.170:8080/live/fjydcctv3/hls.m3u8
+http://116.162.6.192/sxbuv52.live.bestvcdn.com.cn/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="未分组",CCTV4
 https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
@@ -19,83 +19,81 @@ https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002c
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV奥林匹克
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
-#EXTINF:-1 group-title="未分组",CCTV风云足球
-http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-#EXTINF:-1 group-title="未分组",CCTV6
+#EXTINF:-1 group-title="CCTV风云足球,",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-#EXTINF:-1 group-title="未分组",CCTV7
-http://64.140.167.170:8080/live/fjydcctv7/hls.m3u8
-#EXTINF:-1 group-title="未分组",CCTV8
+#EXTINF:-1 group-title="CCTV7,",CCTV8
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
-#EXTINF:-1 group-title="未分组",CCTV9
+#EXTINF:-1 group-title="CCTV7,",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 group-title="未分组",CCTV10
+#EXTINF:-1 group-title="CCTV7,",CCTV10
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
-#EXTINF:-1 group-title="未分组",CCTV13
+#EXTINF:-1 group-title="CCTV7,",CCTV13
 https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
-#EXTINF:-1 group-title="未分组",东方卫视
+#EXTINF:-1 group-title="CCTV7,",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:-1 group-title="未分组",湖南卫视
+#EXTINF:-1 group-title="CCTV7,",湖南卫视
 https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
-#EXTINF:-1 group-title="未分组",广西卫视
+#EXTINF:-1 group-title="CCTV7,",广西卫视
 https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
-#EXTINF:-1 group-title="未分组",广东卫视
+#EXTINF:-1 group-title="CCTV7,",广东卫视
 https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-#EXTINF:-1 group-title="未分组",广东珠江台
+#EXTINF:-1 group-title="CCTV7,",广东珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 group-title="未分组",香港无线新闻台
+#EXTINF:-1 group-title="CCTV7,",香港无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="未分组",香港娱乐新闻台
+#EXTINF:-1 group-title="CCTV7,",香港娱乐新闻台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-#EXTINF:-1 group-title="未分组",翡翠台
+#EXTINF:-1 group-title="CCTV7,",翡翠台
 https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
-#EXTINF:-1 group-title="未分组",香港星河台
+#EXTINF:-1 group-title="CCTV7,",香港星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-#EXTINF:-1 group-title="未分组",凤凰资讯台
+#EXTINF:-1 group-title="CCTV7,",凤凰资讯台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 group-title="未分组",凤凰资讯台
+#EXTINF:-1 group-title="CCTV7,",凤凰资讯台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 group-title="未分组",TVBS新闻台
+#EXTINF:-1 group-title="CCTV7,",TVBS新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 group-title="未分组",TVBS新闻台
+#EXTINF:-1 group-title="CCTV7,",TVBS新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-#EXTINF:-1 group-title="未分组",TVBS亚洲台
+#EXTINF:-1 group-title="CCTV7,",TVBS亚洲台
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="未分组",寰宇新闻台
+#EXTINF:-1 group-title="CCTV7,",寰宇新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 group-title="未分组",中天新闻台
+#EXTINF:-1 group-title="CCTV7,",中天新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="未分组",中天新闻台
+#EXTINF:-1 group-title="CCTV7,",中天新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-#EXTINF:-1 group-title="未分组",中视新闻台
+#EXTINF:-1 group-title="CCTV7,",中视新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 group-title="未分组",中视HD
+#EXTINF:-1 group-title="CCTV7,",中视HD
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 group-title="未分组",民视新闻台
+#EXTINF:-1 group-title="CCTV7,",民视新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="未分组",台视新闻台
+#EXTINF:-1 group-title="CCTV7,",台视新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 group-title="未分组",三立新闻台
+#EXTINF:-1 group-title="CCTV7,",三立新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 group-title="未分组",镜新闻
+#EXTINF:-1 group-title="CCTV7,",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 group-title="未分组",新唐人亚太台
+#EXTINF:-1 group-title="CCTV7,",新唐人亚太台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 group-title="未分组",台视娱乐台
+#EXTINF:-1 group-title="CCTV7,",台视娱乐台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 group-title="未分组",中视人文台
+#EXTINF:-1 group-title="CCTV7,",中视人文台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 group-title="未分组",博斯网球
+#EXTINF:-1 group-title="CCTV7,",天空民谣
+http://us.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 group-title="CCTV7,",博斯网球
 https://z88.ubtvfans.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
-#EXTINF:-1 group-title="未分组",国际网球1
+#EXTINF:-1 group-title="CCTV7,",国际网球1
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 group-title="未分组",网球
+#EXTINF:-1 group-title="CCTV7,",网球
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
-#EXTINF:-1 group-title="未分组",体育电视
+#EXTINF:-1 group-title="CCTV7,",体育电视
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 group-title="未分组",福克斯体育2
+#EXTINF:-1 group-title="CCTV7,",福克斯体育2
 http://190.61.43.117:45000/play/a01g
-#EXTINF:-1 group-title="未分组",天空体育西甲
+#EXTINF:-1 group-title="CCTV7,",天空体育西甲
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="未分组",ESPN
+#EXTINF:-1 group-title="CCTV7,",ESPN
 http://190.61.43.117:45000/play/a01l
