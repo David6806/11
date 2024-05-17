@@ -10,7 +10,7 @@ CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV奥林匹克,https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 CCTV风云足球,
 CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-CCTV7,
+CCTV7,http://120.7.86.108:808/hls/7/index.m3u8
 CCTV8,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV10,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
@@ -20,6 +20,7 @@ CCTV13,https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4d
 广西卫视,https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 广东珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 香港无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 香港娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 翡翠台,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
@@ -49,3 +50,4 @@ TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 福克斯体育2,http://190.61.43.117:45000/play/a01g
 天空体育西甲,http://181.78.105.146:2000/play/a08m/index.m3u8
 ESPN,http://190.61.43.117:45000/play/a01l
+
