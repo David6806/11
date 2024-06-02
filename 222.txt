@@ -1,6 +1,7 @@
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 CCTV2,https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
+CCTV3,http://rqd.mytvh.top:10287/stream/channelid/1651179936?ticket=7b49edddd4da9e73727e4af3d3851b979bddf51d&profile=pass
 CCTV4,https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
@@ -9,6 +10,7 @@ CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118de
 CCTV奥林匹克,https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV8,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
+CCTV7,http://rqd.mytvh.top:10287/stream/channelid/584410628?ticket=109eccb5355abff4498a0118c317f7ebfb10146e&profile=pass
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 CCTV10,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
 CCTV13,https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
@@ -20,8 +22,7 @@ CCTV13,https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4d
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 香港无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 香港娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
-翡翠台,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 香港星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 凤凰资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
