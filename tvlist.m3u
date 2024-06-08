@@ -6,7 +6,7 @@ https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438d
 #EXTINF:-1 group-title="未分组",CCTV2
 https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 #EXTINF:-1 group-title="未分组",CCTV3
-http://rqd.mytvh.top:10287/stream/channelid/1651179936?ticket=7b49edddd4da9e73727e4af3d3851b979bddf51d&profile=pass
+https://z88.ubtvfans.com/live/rx3/202/fc79bd267d53db86c843141d79588ab3/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV4
 https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
@@ -21,16 +21,18 @@ https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?token=0146db10118dee60002c
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 #EXTINF:-1 group-title="未分组",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+#EXTINF:-1 group-title="未分组",CCTV7
+https://z88.ubtvfans.com/live/rx1/2757/a75508a147ffe80a289d9674f341441d/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV8
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
-#EXTINF:-1 group-title="未分组",CCTV7
-http://rqd.mytvh.top:10287/stream/channelid/584410628?ticket=109eccb5355abff4498a0118c317f7ebfb10146e&profile=pass
 #EXTINF:-1 group-title="未分组",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV10
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
 #EXTINF:-1 group-title="未分组",CCTV13
 https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
+#EXTINF:-1 group-title="未分组",东方卫视
+http://115.236.83.222:1111/tsfile/live/0107_1.m3u8
 #EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",湖南卫视
@@ -95,9 +97,3 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 group-title="未分组",体育电视
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 group-title="未分组",福克斯体育2
-http://190.61.43.117:45000/play/a01g
-#EXTINF:-1 group-title="未分组",天空体育西甲
-http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 group-title="未分组",ESPN
-http://190.61.43.117:45000/play/a01l
