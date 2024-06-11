@@ -6,6 +6,8 @@ https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438d
 #EXTINF:-1 group-title="未分组",CCTV2
 https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 #EXTINF:-1 group-title="未分组",CCTV3
+http://histar-proxy.isus.cc/cctv3
+#EXTINF:-1 group-title="未分组",CCTV3
 https://z88.ubtvfans.com/live/rx3/202/fc79bd267d53db86c843141d79588ab3/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV4
 https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
@@ -32,7 +34,7 @@ http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0c
 #EXTINF:-1 group-title="未分组",CCTV13
 https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
 #EXTINF:-1 group-title="未分组",东方卫视
-http://115.236.83.222:1111/tsfile/live/0107_1.m3u8
+http://histar-proxy.isus.cc/dongfang
 #EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",湖南卫视
@@ -43,6 +45,8 @@ https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
 https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",广东珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+#EXTINF:-1 group-title="未分组",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="未分组",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="未分组",香港无线新闻台
@@ -57,6 +61,10 @@ https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 group-title="未分组",凤凰资讯台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="未分组",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="未分组",美国中文电视
+https://cdnts.sinovision.net/livestream.m3u8
 #EXTINF:-1 group-title="未分组",TVBS新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 #EXTINF:-1 group-title="未分组",TVBS新闻台
