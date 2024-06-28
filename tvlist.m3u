@@ -7,8 +7,6 @@ https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438d
 https://node3.olelive.com:6443/live/CCTV2HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 #EXTINF:-1 group-title="未分组",CCTV3
 http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41139/index.m3u8
-#EXTINF:-1 group-title="未分组",CCTV3
-https://z88.ubtvfans.com/live/rx3/202/fc79bd267d53db86c843141d79588ab3/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV4
 https://raw.githubusercontent.com/HUISSINSJKN/CCTV4_SKY4K/main/playlist.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
@@ -24,7 +22,7 @@ https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81
 #EXTINF:-1 group-title="未分组",CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV7
-https://z88.ubtvfans.com/live/rx1/2757/a75508a147ffe80a289d9674f341441d/index.m3u8
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
 #EXTINF:-1 group-title="未分组",CCTV8
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
 #EXTINF:-1 group-title="未分组",CCTV9
@@ -34,15 +32,13 @@ http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0c
 #EXTINF:-1 group-title="未分组",CCTV13
 https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
 #EXTINF:-1 group-title="未分组",东方卫视
+http://58.216.99.148:80/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8
+#EXTINF:-1 group-title="未分组",东方卫视
 https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",湖南卫视
+https://pi.0472.org/itv/hnwsH265.m3u8
+#EXTINF:-1 group-title="未分组",湖南卫视
 https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
-#EXTINF:-1 group-title="未分组",广西卫视
-http://histar-proxy.isus.cc/guangxi
-#EXTINF:-1 group-title="未分组",广西卫视
-https://h5cdn404.kylintv.tv/live/guangxitv_iphone.m3u8
-#EXTINF:-1 group-title="未分组",广东卫视
-https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 #EXTINF:-1 group-title="未分组",广东珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="未分组",浙江卫视
@@ -71,28 +67,12 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="未分组",寰宇新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 group-title="未分组",中天新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="未分组",中视新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 group-title="未分组",中视HD
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 group-title="未分组",民视新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="未分组",三立新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 group-title="未分组",镜新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 group-title="未分组",新唐人亚太台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 group-title="未分组",台视娱乐台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 group-title="未分组",中视人文台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 group-title="未分组",天空民谣
-http://us.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="未分组",博斯网球
-https://z88.ubtvfans.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
+https://bsex.serv00.net/Smart.php?id=bositennis_twn
 #EXTINF:-1 group-title="未分组",国际网球1
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="未分组",网球
