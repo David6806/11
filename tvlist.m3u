@@ -21,30 +21,18 @@ http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-16_4000.m3u8
 https://node1.olelive.com:6443/live/CCTV16HD.live.flv?token=7bb0efc7ddb092b52f81d4e786b0086b
 #EXTINF:-1 group-title="未分组",CCTV6
 https://z02.ubtvfans.com/live/rx1/206/22c8d0a177803e1a378082c851a16007/index.m3u8
-#EXTINF:-1 group-title="未分组",CCTV6
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV7
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/CCTV-7H265_4000.m3u8
 #EXTINF:-1 group-title="未分组",CCTV8
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
 #EXTINF:-1 group-title="未分组",CCTV9
 https://z02.ubtvfans.com/live/rx1/2308/b9274dbd51113ace3244a6927beeeca3/index.m3u8
-#EXTINF:-1 group-title="未分组",CCTV9
-https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV10
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
 #EXTINF:-1 group-title="未分组",CCTV13
 https://z02.ubtvfans.com/live/rx1/213/4985ed10e25b72869efa7f2f7b839f1a/index.m3u8
-#EXTINF:-1 group-title="未分组",CCTV13
-https://node3.olelive.com:6443/live/CCTV13HD.live.flv?token=a15d0045e6b4df699fc10482e5dd875f
 #EXTINF:-1 group-title="未分组",东方卫视
 http://58.216.99.148:80/live2.rxip.sc96655.com/live/dfwsH265_4000.m3u8
-#EXTINF:-1 group-title="未分组",东方卫视
-https://h5cdn404.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:-1 group-title="未分组",湖南卫视
-https://pi.0472.org/itv/hnwsH265.m3u8
-#EXTINF:-1 group-title="未分组",湖南卫视
-https://node1.olelive.com:6443/live/HUNANHD.live.flv?token=b83a3283dda008f64333a3d48b6f921c
 #EXTINF:-1 group-title="未分组",广东珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="未分组",浙江卫视
