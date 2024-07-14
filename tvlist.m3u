@@ -6,9 +6,11 @@ https://itv.lat/hls?channel=CCTV-3H265&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 group-title="未分组",CCTV4
 https://z02.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=5d5002f5860105c607f1912613130deb
+https://itv.lat/hls?channel=CCTV-5H265&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 group-title="未分组",CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
+#EXTINF:-1 group-title="未分组",CCTV5
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=5d5002f5860105c607f1912613130deb
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://itv.lat/hls?channel=CCTV-5plusH265&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 group-title="未分组",CCTV5+
@@ -59,8 +61,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="未分组",中视人文台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 group-title="未分组",博斯网球
-https://z02.ubtvfans.com/live/rx1/498/ee7c08a854a5febc4a84dacbd0c23332/index.m3u8
 #EXTINF:-1 group-title="未分组",国际网球1
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="未分组",网球
