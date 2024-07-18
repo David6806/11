@@ -1,46 +1,26 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
-#EXTINF:-1 group-title="未分组",CCTV3
-https://itv.lat/hls?channel=CCTV-3H265&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 group-title="未分组",CCTV4
 https://z02.ubtvfans.com/live/rx3/203/a90506bab6678c2b41ef34ae66a04425/index.m3u8
-#EXTINF:-1 group-title="未分组",CCTV5
-https://itv.lat/hls?channel=CCTV-5H265&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 group-title="未分组",CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
 #EXTINF:-1 group-title="未分组",CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=5d5002f5860105c607f1912613130deb
 #EXTINF:-1 group-title="未分组",CCTV5+
-https://itv.lat/hls?channel=CCTV-5plusH265&token=fbca23599065f5bd644b330db4e3b1f5
-#EXTINF:-1 group-title="未分组",CCTV5+
 https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=5d5001f5860104c607f1902613130feb
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV奥林匹克
-https://itv.lat/hls?channel=CCTV-16&token=fbca23599065f5bd644b330db4e3b1f5
-#EXTINF:-1 group-title="未分组",CCTV7
-https://itv.lat/hls?channel=CCTV-7H265&token=fbca23599065f5bd644b330db4e3b1f5
+http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079303.m3u8
 #EXTINF:-1 group-title="未分组",CCTV8
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
-#EXTINF:-1 group-title="未分组",CCTV9
-https://itv.lat/hls?channel=CCTV-9H265&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 group-title="未分组",CCTV13
-https://itv.lat/hls?channel=CCTV-xw&token=fbca23599065f5bd644b330db4e3b1f5
+http://119.176.28.185/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
 #EXTINF:-1 group-title="未分组",CCTV13
 https://node1.olelive.com:6443/live/CCTV13HD_360/hls.m3u8
-#EXTINF:-1 group-title="未分组",东方卫视
-https://itv.lat/hls?channel=dfwsH265&token=fbca23599065f5bd644b330db4e3b1f5
-#EXTINF:-1 group-title="未分组",东方卫视
-https://live.0472.org/ysp/dongfang
-#EXTINF:-1 group-title="未分组",金鹰纪实
-https://itv.lat/hls?channel=jyjsHDH265&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 group-title="未分组",广东珠江台
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 group-title="未分组",新视觉
-https://itv.lat/hls?channel=ycxsjH265&token=fbca23599065f5bd644b330db4e3b1f5
-#EXTINF:-1 group-title="未分组",发现之旅
-https://itv.lat/hls?channel=fxzl_2000&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 group-title="未分组",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="未分组",香港无线新闻台
@@ -67,7 +47,3 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 #EXTINF:-1 group-title="未分组",体育电视
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1 group-title="未分组",梨园频道
-https://itv.lat/hls?channel=ly&token=fbca23599065f5bd644b330db4e3b1f5
-#EXTINF:-1 group-title="未分组",魅力足球
-https://itv.lat/hls?channel=mlyy&token=fbca23599065f5bd644b330db4e3b1f5
