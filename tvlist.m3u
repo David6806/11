@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
+#EXTINF:-1 group-title="未分组",CCTV新闻
+https://node3.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
 #EXTINF:-1 group-title="未分组",CCTV5
@@ -13,10 +15,6 @@ https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV16HD_360/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV8
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
-#EXTINF:-1 group-title="未分组",CCTV13
-https://node1.olelive.com:6443/live/CCTV13HD_360/hls.m3u8
-#EXTINF:-1 group-title="未分组",东方卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=3372ee
 #EXTINF:-1 group-title="未分组",大陆寻奇
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 #EXTINF:-1 group-title="未分组",珠江台
