@@ -2,7 +2,9 @@
 #EXTINF:-1 group-title="未分组",CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
 #EXTINF:-1 group-title="未分组",CCTV新闻
-http://123.10.79.126:808/hls/13/index.m3u8
+http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
+#EXTINF:-1 group-title="未分组",CCTV新闻
+https://hls.watchtv.uk/cctv13/playlist-39.m3u8a?t=1721826381&token=b2c0cc123d59dc9233991a0248242cb0
 #EXTINF:-1 group-title="未分组",CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
 #EXTINF:-1 group-title="未分组",CCTV5
@@ -16,7 +18,7 @@ https://node1.olelive.com:6443/live/CCTV16HD_360/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV8
 https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
 #EXTINF:-1 group-title="未分组",东方卫视
-http://123.10.79.126:808/hls/37/index.m3u8
+https://hls.watchtv.uk/dongfangweishi_twn/playlist-39.m3u8a?t=1721826470&token=d908cbc6aacb7c4b686273ec3bd1dc7b
 #EXTINF:-1 group-title="未分组",大陆寻奇
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 #EXTINF:-1 group-title="未分组",珠江台
@@ -31,6 +33,8 @@ http://live.cooltv.top/tv/tvb.php?id=0&hq
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="未分组",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="未分组",J2
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
 #EXTINF:-1 group-title="未分组",香港星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 group-title="未分组",凤凰资讯台

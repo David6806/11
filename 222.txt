@@ -1,12 +1,13 @@
 CCTV1,https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
-CCTV新闻,http://123.10.79.126:808/hls/13/index.m3u8
+CCTV新闻,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
+CCTV新闻,https://hls.watchtv.uk/cctv13/playlist-39.m3u8a?t=1721826381&token=b2c0cc123d59dc9233991a0248242cb0
 CCTV5,https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
 CCTV5,https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=5d5002f5860105c607f1912613130deb
 CCTV5+,https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=5d5001f5860104c607f1902613130feb
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV奥林匹克,https://node1.olelive.com:6443/live/CCTV16HD_360/hls.m3u8
 CCTV8,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
-东方卫视,http://123.10.79.126:808/hls/37/index.m3u8
+东方卫视,https://hls.watchtv.uk/dongfangweishi_twn/playlist-39.m3u8a?t=1721826470&token=d908cbc6aacb7c4b686273ec3bd1dc7b
 大陆寻奇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
@@ -14,6 +15,7 @@ CCTV8,https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9a
 香港无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 香港娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 香港星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 凤凰资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰资讯台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
