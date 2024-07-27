@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分组",CCTV1
-https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=ed5e21062aaf24040438dc136beb0d8a
+https://ushls.ballbar.net/cctv1/playlist-67.m3u8a?t=1722087584&token=7e6224fb83fcd5c12deda1a5cc3d36cb
 #EXTINF:-1 group-title="未分组",CCTV新闻
-http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024079003.m3u8
-#EXTINF:-1 group-title="未分组",CCTV新闻
-https://hls.watchtv.uk/cctv13/playlist-39.m3u8a?t=1721826381&token=b2c0cc123d59dc9233991a0248242cb0
+http://61.52.157.67:808/hls/13/index.m3u8
+#EXTINF:-1 group-title="未分组",CCTV5
+https://ushls.ballbar.net/cctv5/playlist-67.m3u8a?t=1722087350&token=6160fd7a42de267b03b9afa766de946e
+#EXTINF:-1 group-title="未分组",CCTV5
+https://cdn.gogogo.eu.org/live/cctv5.m3u8?token=sGsuUV39OTWILorsTROY4A&expires=1722104125
 #EXTINF:-1 group-title="未分组",CCTV5
 https://node3.olelive.com:6443/live/CCTV5HD.live.flv?token=2baf5c99a96735a5c47602d67e9cdbd8
-#EXTINF:-1 group-title="未分组",CCTV5
-https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=5d5002f5860105c607f1912613130deb
+#EXTINF:-1 group-title="未分组",CCTV5+
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5+HD/index.m3u8?gMac=unknown&livodToken=3372ee
 #EXTINF:-1 group-title="未分组",CCTV5+
 https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8?token=5d5001f5860104c607f1902613130feb
-#EXTINF:-1 group-title="未分组",CCTV5+
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 group-title="未分组",CCTV奥林匹克
 https://node1.olelive.com:6443/live/CCTV16HD_360/hls.m3u8
-#EXTINF:-1 group-title="未分组",CCTV8
-https://node3.olelive.com:6443/live/CCTV8HD.live.flv?token=20a4b042a7ebd9aa76006cb475dd62e2
+#EXTINF:-1 group-title="未分组",纬来体育
+https://cdn.gogogo.eu.org/live/videoland-sports.m3u8?token=geF7M4_fkp6jwH-0c14XqQ&expires=1722104825
 #EXTINF:-1 group-title="未分组",东方卫视
-https://hls.watchtv.uk/dongfangweishi_twn/playlist-39.m3u8a?t=1721826470&token=d908cbc6aacb7c4b686273ec3bd1dc7b
+https://cdn.gogogo.eu.org/live/dragon_tv.m3u8?token=82FOiC3tZ1QeovspJhxxvA&expires=1722104957
 #EXTINF:-1 group-title="未分组",大陆寻奇
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 #EXTINF:-1 group-title="未分组",珠江台
@@ -26,9 +26,9 @@ https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="未分组",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="未分组",香港无线新闻台
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 group-title="未分组",香港无线新闻台
 http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 group-title="未分组",香港无线新闻台
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="未分组",香港娱乐新闻台
 http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 #EXTINF:-1 group-title="未分组",翡翠台
@@ -45,6 +45,8 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="未分组",凤凰香港台
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="未分组",博斯网球
+https://yeslivetv.scdn.eu.org/live/litv-longturn09.m3u8?token=2veGhDOf0BBuPkF0w3-yRg&expires=1722105082
 #EXTINF:-1 group-title="未分组",国际网球1
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="未分组",网球
