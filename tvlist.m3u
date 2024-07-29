@@ -25,3 +25,7 @@ https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="未分组",大陆寻奇
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+#EXTINF:-1 group-title="未分组",CCTV5
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
+#EXTINF:-1 group-title="未分组",CCTV5+
+http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5+HD/index.m3u8?gMac=unknown&livodToken=3372ee
