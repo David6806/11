@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分组",翡翠台
-http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null
-#EXTINF:-1 group-title="未分组",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 group-title="未分组",黄金翡翠台
-http://cdn.1678520.xyz/tvbts/tvbts2.1.php?id=null-3
+#EXTINF:-1 group-title="未分组",明珠台
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 #EXTINF:-1 group-title="未分组",J2
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
 #EXTINF:-1 group-title="未分组",香港无线新闻台
@@ -29,6 +27,8 @@ https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 group-title="未分组",大陆寻奇
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+#EXTINF:-1 group-title="未分组",东方卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=3372ee
 #EXTINF:-1 group-title="未分组",CCTV5
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
 #EXTINF:-1 group-title="未分组",CCTV5
