@@ -9,3 +9,11 @@ CCTV5,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToke
 CCTV5+,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv5p
 CCTV5+,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5+HD/index.m3u8?gMac=unknown&livodToken=3372ee
 CCTV16,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&livodToken=3372ee
+博斯网球,https://p.iptv200.com/v/litv.m3u8?token=465FTdDOSM%2F1K8uyqVBING3H&x=4&q=hd&id=litv-longturn09
+博斯网球,http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
+博斯无限,https://p.iptv200.com/v/litv.m3u8?token=ragH1DBf0ZwFOnq5qnjYSy9n&x=23&q=hd&id=litv-longturn10
+博斯无限2,https://p.iptv200.com/v/litv.m3u8?token=kqgfusRf8nLVkFrZ8hAr6kBu&x=11&q=hd&id=litv-longturn13
+博斯魅力,https://p.iptv200.com/v/litv.m3u8?token=31Abn%2FIHjexuycvMwB2YNgpy&x=40&q=hd&id=litv-longturn04
+博斯运动1,https://p.iptv200.com/v/litv.m3u8?token=QpG1EcvobmJHWJ95U1nccTjH&x=30&q=hd&id=litv-longturn07
+博斯运动2,https://p.iptv200.com/v/litv.m3u8?token=4wcD7INyq7EMgyPiUQhNzWjk&x=25&q=hd&id=litv-longturn08
