@@ -16,7 +16,7 @@ https://api.livednow.org/migu/641886683?sign=gAAAAABnJcJq1zvWEm2fLwSljJPThpBYL_E
 #EXTINF:-1 ,CCTV5
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
 #EXTINF:-1 ,CCTV5+
-http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv5p
+https://api.livednow.org/migu/641886773?sign=gAAAAABnJcJqTze6PuXdG9BEej5eW4BLImQigfoMaUf8uqVsrTWU2XPcpNAQkBcD0muMqEF9LzvxjIx7EBojiQbkHBD5j0Jhgf5-rBwl8jU3IJw5gsTQ2K6WngtWzyYcEmpoNgChlKkREdafyGUHTP8U4-G_ggVp1wP9_OuDXbCnXAQZKWP8e_nvjKVAHWsAfsrkcP2wHVy9aBq_REPOhp0w5W60Na3IcQ%3D%3D
 #EXTINF:-1 ,CCTV5+
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5+HD/index.m3u8?gMac=unknown&livodToken=3372ee
 #EXTINF:-1 ,CCTV16
