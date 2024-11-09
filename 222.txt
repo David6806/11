@@ -6,7 +6,7 @@ J2,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=1925
 珠江台,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 CCTV5,https://api.livednow.org/migu/641886683?sign=gAAAAABnJcJq1zvWEm2fLwSljJPThpBYL_E8K7V3Vjqwa1MKKvqUi_E3bRWybwa_x3oX2iF9HH-wEJfMaE_5OvwPzGGu3NicPIuQA4yciDbKNZf7joK5ZUFzK0L36mvXUWWl9JorCKCXbQ62LAhIlbf2kzScSCcb9oUHPKWds9wWjWjam34gaFfwW7rHxvnvlcqRaj88yHfSrWqHJghFI-bLaFvNz1HoPw%3D%3D
 CCTV5,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
-CCTV5+,http://211.101.247.19:6699/api/migu.php?type=hls&url=live-cctv5p
+CCTV5+,http://kxrj.site:998/123/mg.php?id=cctv5p&咪咕
 CCTV5+,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5+HD/index.m3u8?gMac=unknown&livodToken=3372ee
 CCTV16,http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&livodToken=3372ee
 博斯网球,https://p.iptv200.com/v/litv.m3u8?token=465FTdDOSM%2F1K8uyqVBING3H&x=4&q=hd&id=litv-longturn09
