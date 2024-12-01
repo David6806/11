@@ -17,3 +17,7 @@ http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5+HD/index.m3u8?gMac=unknown&livodToken=3372
 http://59.172.144.73:1234/rtp/239.69.1.247:11124
 #EXTINF:-1 group-title="未分组",CCTV16
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&livodToken=3372ee
+#EXTINF:-1 group-title="未分组",博斯迷力
+http://litv.zapi.us.kg/?id=litv-longturn09
+#EXTINF:-1 group-title="未分组",博斯网球
+http://litv.zapi.us.kg/?id=litv-longturn04
