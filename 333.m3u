@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分组",翡翠台
 https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 group-title="未分组",J2
+http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 #EXTINF:-1 group-title="未分组",无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 group-title="未分组",珠江台
@@ -14,9 +16,13 @@ http://39.134.136.161:6610/000000001000/reallive-cctv5plus/index.m3u8?livemode=1
 #EXTINF:-1 group-title="未分组",CCTV5+
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5+HD/index.m3u8?gMac=unknown&livodToken=3372ee
 #EXTINF:-1 group-title="未分组",CCTV16
-http://59.172.144.73:1234/rtp/239.69.1.247:11124
+http://39.134.136.161:6610/000000001000/5000000008000023253/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023253
 #EXTINF:-1 group-title="未分组",CCTV16
 http://jxcbn.ws-cdn.gitv.tv/hls/CCTV16HD/index.m3u8?gMac=unknown&livodToken=3372ee
+#EXTINF:-1 group-title="未分组",博斯迷力
+http://litv.zapi.us.kg/?id=litv-longturn04
+#EXTINF:-1 group-title="未分组",博斯网球
+http://litv.zapi.us.kg/?id=litv-longturn09
 #EXTINF:-1 group-title="未分组",Blowjob
 http://live.adultiptv.net/blowjob.m3u8
 #EXTINF:-1 group-title="未分组",Teen
