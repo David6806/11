@@ -10,9 +10,11 @@ http://39.134.136.161:6610/000000001000/5000000004000008883/index.m3u8?livemode=
 #EXTINF:-1 group-title="未分组",CCTV3
 http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-3hd/2500.m3u8?innersid=9476609640263440821
 #EXTINF:-1 group-title="未分组",CCTV5
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=4790815411650771981
+#EXTINF:-1 group-title="未分组",CCTV5
+http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-5hd/2500.m3u8?innersid=2025
+#EXTINF:-1 group-title="未分组",CCTV5
 http://39.134.136.161:6610/000000001000/reallive-cctv5/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv5
-#EXTINF:-1 group-title="未分组" ,CCTV5,CCTV5
-http://jxcbn.ws-cdn.gitv.tv/hls/CCTV5_HD/index.m3u8?gMac=unknown&livodToken=3372ee&2024奥运
 #EXTINF:-1 group-title="未分组",CCTV5+
 http://39.134.136.161:6610/000000001000/reallive-cctv5plus/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=reallive-cctv5plus
 #EXTINF:-1 group-title="未分组",CCTV5+
