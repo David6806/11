@@ -1,13 +1,12 @@
-CCTV5,http://lu.wqwqwq.sbs/gaoma/cctv5.m3u8
-CCTV5+,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND
-CCTV16,http://lu.wqwqwq.sbs/gaoma/cctv16.m3u8
+CCTV5,http://goo.bkpcp.top/mg/cctv5
+CCTV5+,http://goo.bkpcp.top/mg/cctv5p
 翡翠台,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 博斯运动1,http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
-网球1,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
-网球2,https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
+网球,https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
+网球,https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
 3A视频+1
 Live Cams,http://live.adultiptv.net/livecams.m3u8
 MILF,http://live.adultiptv.net/milf.m3u8
