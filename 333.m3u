@@ -1,1623 +1,1617 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",CCTV3
-http://45.45.218.253:10087/gaoma/cctv5p.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",CCTV5
+#EXTM3U
+#EXTINF:-1 ,CCTV3
+http://45.45.218.253:10087/gaoma/cctv3.m3u8
+#EXTINF:-1 ,CCTV5
 http://45.45.218.253:10087/gaoma/cctv5.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",CCTV5
-http://goo.bkpcp.top/mg/cctv5
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png",CCTV5+
+#EXTINF:-1 ,CCTV5+
 http://45.45.218.253:10087/gaoma/cctv5p.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png",CCTV5+
-http://goo.bkpcp.top/mg/cctv5p
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png",CCTV7
+#EXTINF:-1 ,CCTV7
 http://45.45.218.253:10087/gaoma/cctv7.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png",CCTV9
+#EXTINF:-1 ,CCTV9
 http://45.45.218.253:10087/gaoma/cctv9.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png",CCTV13
+#EXTINF:-1 ,CCTV13
 http://45.45.218.253:10087/gaoma/cctv13.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png",CCTV16
+#EXTINF:-1 ,CCTV16
 http://45.45.218.253:10087/gaoma/cctv16.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
-https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
+#EXTINF:-1 ,翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="J1" tvg-logo="https://live.fanmingming.cn/tv/J1.png",J1
+#EXTINF:-1 ,J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
-#EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.cn/tv/J2.png",J2
+#EXTINF:-1 ,J2
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png",无线新闻台
+#EXTINF:-1 ,无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png",无线新闻台
+#EXTINF:-1 ,无线新闻台
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://live.fanmingming.cn/tv/博斯运动1.png",博斯运动1
-http://50.7.234.10:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.cn/tv/博斯网球.png",博斯网球
+#EXTINF:-1 ,博斯运动1
+http://198.16.100.186:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
+#EXTINF:-1 ,博斯运动2
+http://50.7.234.10:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+#EXTINF:-1 ,博斯网球
 http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.cn/tv/博斯网球.png",博斯网球
-http://50.7.234.10:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
-#EXTINF:-1 tvg-name="网球" tvg-logo="https://live.fanmingming.cn/tv/网球.png",网球
+#EXTINF:-1 ,网球
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
-#EXTINF:-1 tvg-name="网球" tvg-logo="https://live.fanmingming.cn/tv/网球.png",网球
+#EXTINF:-1 ,网球
 https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
-#EXTINF:-1 tvg-name="3A视频+1" tvg-logo="https://live.fanmingming.cn/tv/3A视频+1.png",3A视频+1
-undefined
-#EXTINF:-1 tvg-name="Live Cams" tvg-logo="https://live.fanmingming.cn/tv/Live Cams.png",Live Cams
+#EXTINF:-1 ,====== 3A视频+1 ======
+http://0/0.m3u8
+#EXTINF:-1 ,Live Cams
 http://live.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-name="MILF" tvg-logo="https://live.fanmingming.cn/tv/MILF.png",MILF
+#EXTINF:-1 ,MILF
 http://live.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-name="Big Dick" tvg-logo="https://live.fanmingming.cn/tv/Big Dick.png",Big Dick
+#EXTINF:-1 ,Big Dick
 http://live.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-name="Big Tits" tvg-logo="https://live.fanmingming.cn/tv/Big Tits.png",Big Tits
+#EXTINF:-1 ,Big Tits
 http://live.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-name="Fetish" tvg-logo="https://live.fanmingming.cn/tv/Fetish.png",Fetish
+#EXTINF:-1 ,Fetish
 http://live.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-name="Pornstar" tvg-logo="https://live.fanmingming.cn/tv/Pornstar.png",Pornstar
+#EXTINF:-1 ,Pornstar
 http://live.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-name="Big Ass" tvg-logo="https://live.fanmingming.cn/tv/Big Ass.png",Big Ass
+#EXTINF:-1 ,Big Ass
 http://live.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-name="Interracial" tvg-logo="https://live.fanmingming.cn/tv/Interracial.png",Interracial
+#EXTINF:-1 ,Interracial
 http://live.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-name="Latina" tvg-logo="https://live.fanmingming.cn/tv/Latina.png",Latina
+#EXTINF:-1 ,Latina
 http://live.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-name="POV" tvg-logo="https://live.fanmingming.cn/tv/POV.png",POV
+#EXTINF:-1 ,POV
 http://live.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-name="Blowjob" tvg-logo="https://live.fanmingming.cn/tv/Blowjob.png",Blowjob
+#EXTINF:-1 ,Blowjob
 http://live.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-name="Teen" tvg-logo="https://live.fanmingming.cn/tv/Teen.png",Teen
+#EXTINF:-1 ,Teen
 http://live.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-name="Hardcore" tvg-logo="https://live.fanmingming.cn/tv/Hardcore.png",Hardcore
+#EXTINF:-1 ,Hardcore
 http://live.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-name="Cuckold" tvg-logo="https://live.fanmingming.cn/tv/Cuckold.png",Cuckold
+#EXTINF:-1 ,Cuckold
 http://live.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-name="Threesome" tvg-logo="https://live.fanmingming.cn/tv/Threesome.png",Threesome
+#EXTINF:-1 ,Threesome
 http://live.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-name="Russian" tvg-logo="https://live.fanmingming.cn/tv/Russian.png",Russian
+#EXTINF:-1 ,Russian
 http://live.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-name="Lesbian" tvg-logo="https://live.fanmingming.cn/tv/Lesbian.png",Lesbian
+#EXTINF:-1 ,Lesbian
 http://live.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-name="Rough" tvg-logo="https://live.fanmingming.cn/tv/Rough.png",Rough
+#EXTINF:-1 ,Rough
 http://live.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-name="Gangbang" tvg-logo="https://live.fanmingming.cn/tv/Gangbang.png",Gangbang
+#EXTINF:-1 ,Gangbang
 http://live.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-name="Anal" tvg-logo="https://live.fanmingming.cn/tv/Anal.png",Anal
+#EXTINF:-1 ,Anal
 http://live.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-name="Compilation" tvg-logo="https://live.fanmingming.cn/tv/Compilation.png",Compilation
+#EXTINF:-1 ,Compilation
 http://live.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-name="Brunette" tvg-logo="https://live.fanmingming.cn/tv/Brunette.png",Brunette
+#EXTINF:-1 ,Brunette
 http://live.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-name="Blonde" tvg-logo="https://live.fanmingming.cn/tv/Blonde.png",Blonde
+#EXTINF:-1 ,Blonde
 http://live.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-name="Gay" tvg-logo="https://live.fanmingming.cn/tv/Gay.png",Gay
+#EXTINF:-1 ,Gay
 http://live.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-name="Asian" tvg-logo="https://live.fanmingming.cn/tv/Asian.png",Asian
+#EXTINF:-1 ,Asian
 http://live.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-name="成人视频高中生上門援交/TZ-083" tvg-logo="https://live.fanmingming.cn/tv/成人视频高中生上門援交/TZ-083.png",成人视频高中生上門援交/TZ-083
+#EXTINF:-1 ,成人视频高中生上門援交/TZ-083
 https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/y9/59/a0/bs/a62b1101041b48be89ee2582ef60a323.m3u8?
-#EXTINF:-1 tvg-name="萬聖節緊急企劃/成人视频金蓮領我回家/TZ-030" tvg-logo="https://live.fanmingming.cn/tv/萬聖節緊急企劃/成人视频金蓮領我回家/TZ-030.png",萬聖節緊急企劃/成人视频金蓮領我回家/TZ-030
+#EXTINF:-1 ,萬聖節緊急企劃/成人视频金蓮領我回家/TZ-030
 https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ag/qi/ij/l2/079eca9b44664d84be021c4998bc0400.m3u8?
-#EXTINF:-1 tvg-name="成人视频街頭搭訕女大學生拍攝AV/TZ-001" tvg-logo="https://live.fanmingming.cn/tv/成人视频街頭搭訕女大學生拍攝AV/TZ-001.png",成人视频街頭搭訕女大學生拍攝AV/TZ-001
+#EXTINF:-1 ,成人视频街頭搭訕女大學生拍攝AV/TZ-001
 https://fufxtyc.bytebwq.com/api/app/media/m3u8/media/upload-video/a54/a544cf32e99035a296fb8ca5a2922cd6/m3u8/index.m3u8?
-#EXTINF:-1 tvg-name="7月-703ハート" tvg-logo="https://live.fanmingming.cn/tv/7月-703ハート.png",7月-703ハート
+#EXTINF:-1 ,7月-703ハート
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/614150bf/index.m3u8
-#EXTINF:-1 tvg-name="7月-731水戸" tvg-logo="https://live.fanmingming.cn/tv/7月-731水戸.png",7月-731水戸
+#EXTINF:-1 ,7月-731水戸
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/821a9e5e/index.m3u8
-#EXTINF:-1 tvg-name="7月-743大槻" tvg-logo="https://live.fanmingming.cn/tv/7月-743大槻.png",7月-743大槻
+#EXTINF:-1 ,7月-743大槻
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/b889eae2/index.m3u8
-#EXTINF:-1 tvg-name="7月-756水野朝陽" tvg-logo="https://live.fanmingming.cn/tv/7月-756水野朝陽.png",7月-756水野朝陽
+#EXTINF:-1 ,7月-756水野朝陽
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/d081d296/index.m3u8
-#EXTINF:-1 tvg-name="7月-808ハート" tvg-logo="https://live.fanmingming.cn/tv/7月-808ハート.png",7月-808ハート
+#EXTINF:-1 ,7月-808ハート
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/5fca33ef/index.m3u8
-#EXTINF:-1 tvg-name="7月-825水戸" tvg-logo="https://live.fanmingming.cn/tv/7月-825水戸.png",7月-825水戸
+#EXTINF:-1 ,7月-825水戸
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/21/cd632479/index.m3u8
-#EXTINF:-1 tvg-name="安斋" tvg-logo="https://live.fanmingming.cn/tv/安斋.png",安斋
+#EXTINF:-1 ,安斋
 https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
-#EXTINF:-1 tvg-name="百永纱理奈" tvg-logo="https://live.fanmingming.cn/tv/百永纱理奈.png",百永纱理奈
+#EXTINF:-1 ,百永纱理奈
 https://siwazywcdn2.com:5278/zhongwenzimu/5PzEAi0h/index.m3u8
-#EXTINF:-1 tvg-name="悲剧女主播" tvg-logo="https://live.fanmingming.cn/tv/悲剧女主播.png",悲剧女主播
+#EXTINF:-1 ,悲剧女主播
 https://videomy.yongaomy.com:8091/20191223/TOz9KzyG/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="春埼芽衣1" tvg-logo="https://live.fanmingming.cn/tv/春埼芽衣1.png",春埼芽衣1
+#EXTINF:-1 ,春埼芽衣1
 https://fc.maa1809.com/m/omsopjnoon/omsopjnoon.m3u8
-#EXTINF:-1 tvg-name="春埼芽衣2" tvg-logo="https://live.fanmingming.cn/tv/春埼芽衣2.png",春埼芽衣2
+#EXTINF:-1 ,春埼芽衣2
 https://fc.maa1809.com/d/onqiitnimq/onqiitnimq.m3u8
-#EXTINF:-1 tvg-name="春埼芽衣3" tvg-logo="https://live.fanmingming.cn/tv/春埼芽衣3.png",春埼芽衣3
+#EXTINF:-1 ,春埼芽衣3
 https://fc.maa1809.com/m/iiojdlpnjp/iiojdlpnjp.m3u8
-#EXTINF:-1 tvg-name="大觉醒伊贺" tvg-logo="https://live.fanmingming.cn/tv/大觉醒伊贺.png",大觉醒伊贺
+#EXTINF:-1 ,大觉醒伊贺
 https://videomy.yongaomy.com:8091/20200126/SSNI-681/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="耳边细语" tvg-logo="https://live.fanmingming.cn/tv/耳边细语.png",耳边细语
+#EXTINF:-1 ,耳边细语
 https://siwazywcdn2.com:5278/zhongwenzimu/07fs3XqF/index.m3u8
-#EXTINF:-1 tvg-name="风俗女郎都咲乃" tvg-logo="https://live.fanmingming.cn/tv/风俗女郎都咲乃.png",风俗女郎都咲乃
+#EXTINF:-1 ,风俗女郎都咲乃
 https://videomy.yongaomy.com:8091/20191223/jYalymoY/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="汗水少女" tvg-logo="https://live.fanmingming.cn/tv/汗水少女.png",汗水少女
+#EXTINF:-1 ,汗水少女
 https://videomy.yongaomy.com:8091/20191219/WJQJUXjc/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="和-382二宮" tvg-logo="https://live.fanmingming.cn/tv/和-382二宮.png",和-382二宮
+#EXTINF:-1 ,和-382二宮
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/239d6d2d/index.m3u8
-#EXTINF:-1 tvg-name="和-384広瀬" tvg-logo="https://live.fanmingming.cn/tv/和-384広瀬.png",和-384広瀬
+#EXTINF:-1 ,和-384広瀬
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/bb3bff27/index.m3u8
-#EXTINF:-1 tvg-name="河原枫" tvg-logo="https://live.fanmingming.cn/tv/河原枫.png",河原枫
+#EXTINF:-1 ,河原枫
 https://fc.maa1809.com/f/qcreaitlwz/qcreaitlwz.m3u8
-#EXTINF:-1 tvg-name="嘿嘿1768神田" tvg-logo="https://live.fanmingming.cn/tv/嘿嘿1768神田.png",嘿嘿1768神田
+#EXTINF:-1 ,嘿嘿1768神田
 https://fc.maa1808.com/g/mllotqnpol/mllotqnpol.m3u8
-#EXTINF:-1 tvg-name="嘿嘿立花琉莉" tvg-logo="https://live.fanmingming.cn/tv/嘿嘿立花琉莉.png",嘿嘿立花琉莉
+#EXTINF:-1 ,嘿嘿立花琉莉
 https://fc.maa1808.com/c/rkxhwovsgf/rkxhwovsgf.m3u8
-#EXTINF:-1 tvg-name="花音1" tvg-logo="https://live.fanmingming.cn/tv/花音1.png",花音1
+#EXTINF:-1 ,花音1
 https://fc.maa1809.com/e/pjnvmkrplq/pjnvmkrplq.m3u8
-#EXTINF:-1 tvg-name="姫川" tvg-logo="https://live.fanmingming.cn/tv/姫川.png",姫川
+#EXTINF:-1 ,姫川
 https://videomy.yongaomy.com:8091/20200102/IeVDOH6i/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="姬野栞" tvg-logo="https://live.fanmingming.cn/tv/姬野栞.png",姬野栞
+#EXTINF:-1 ,姬野栞
 https://fc.maa1809.com/g/rnhlghoqyo/rnhlghoqyo.m3u8
-#EXTINF:-1 tvg-name="吉岗" tvg-logo="https://live.fanmingming.cn/tv/吉岗.png",吉岗
+#EXTINF:-1 ,吉岗
 https://videomy.yongaomy.com:8091/20191223/4ZcJ3aPo/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="加勒比001THE4名" tvg-logo="https://live.fanmingming.cn/tv/加勒比001THE4名.png",加勒比001THE4名
+#EXTINF:-1 ,加勒比001THE4名
 https://fc.maa1808.com/m/ajtnayynwz/ajtnayynwz.m3u8
-#EXTINF:-1 tvg-name="加勒比206西川" tvg-logo="https://live.fanmingming.cn/tv/加勒比206西川.png",加勒比206西川
+#EXTINF:-1 ,加勒比206西川
 https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
-#EXTINF:-1 tvg-name="加勒比350丘笑" tvg-logo="https://live.fanmingming.cn/tv/加勒比350丘笑.png",加勒比350丘笑
+#EXTINF:-1 ,加勒比350丘笑
 https://fc.maa1808.com/f/ocyxhukqvo/ocyxhukqvo.m3u8
-#EXTINF:-1 tvg-name="加勒比612希笑" tvg-logo="https://live.fanmingming.cn/tv/加勒比612希笑.png",加勒比612希笑
+#EXTINF:-1 ,加勒比612希笑
 https://fc.maa1808.com/n/kqnjvnpjkm/kqnjvnpjkm.m3u8
-#EXTINF:-1 tvg-name="教育" tvg-logo="https://live.fanmingming.cn/tv/教育.png",教育
+#EXTINF:-1 ,教育
 https://videomy.yongaomy.com:8091/20191226/OuJg40gL/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="姐姐的诱惑" tvg-logo="https://live.fanmingming.cn/tv/姐姐的诱惑.png",姐姐的诱惑
+#EXTINF:-1 ,姐姐的诱惑
 https://videomy.yongaomy.com:8091/20191226/ezCT3OZC/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="九重环奈1" tvg-logo="https://live.fanmingming.cn/tv/九重环奈1.png",九重环奈1
+#EXTINF:-1 ,九重环奈1
 https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-493/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="九重环奈2" tvg-logo="https://live.fanmingming.cn/tv/九重环奈2.png",九重环奈2
+#EXTINF:-1 ,九重环奈2
 https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-391/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="九重环奈3" tvg-logo="https://live.fanmingming.cn/tv/九重环奈3.png",九重环奈3
+#EXTINF:-1 ,九重环奈3
 https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-422/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="九重环奈4" tvg-logo="https://live.fanmingming.cn/tv/九重环奈4.png",九重环奈4
+#EXTINF:-1 ,九重环奈4
 https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-503/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="九重环奈5" tvg-logo="https://live.fanmingming.cn/tv/九重环奈5.png",九重环奈5
+#EXTINF:-1 ,九重环奈5
 https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-525/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="九重环奈6" tvg-logo="https://live.fanmingming.cn/tv/九重环奈6.png",九重环奈6
+#EXTINF:-1 ,九重环奈6
 https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-513/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="九重环奈7" tvg-logo="https://live.fanmingming.cn/tv/九重环奈7.png",九重环奈7
+#EXTINF:-1 ,九重环奈7
 https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-535/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="笠木一香" tvg-logo="https://live.fanmingming.cn/tv/笠木一香.png",笠木一香
+#EXTINF:-1 ,笠木一香
 https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
-#EXTINF:-1 tvg-name="疗愈大叔" tvg-logo="https://live.fanmingming.cn/tv/疗愈大叔.png",疗愈大叔
+#EXTINF:-1 ,疗愈大叔
 https://videomy.yongaomy.com:8091/20191227/jPKXM7bL/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="妹妹" tvg-logo="https://live.fanmingming.cn/tv/妹妹.png",妹妹
+#EXTINF:-1 ,妹妹
 https://videomy.yongaomy.com:8091/20200126/SW-587/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="内衣模特-新名" tvg-logo="https://live.fanmingming.cn/tv/内衣模特-新名.png",内衣模特-新名
+#EXTINF:-1 ,内衣模特-新名
 https://videomy.yongaomy.com:8091/20191223/1HZ8kCxt/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="帕科马马-希笑" tvg-logo="https://live.fanmingming.cn/tv/帕科马马-希笑.png",帕科马马-希笑
+#EXTINF:-1 ,帕科马马-希笑
 https://fc.maa1808.com/m/rwrhezjunn/rwrhezjunn.m3u8
-#EXTINF:-1 tvg-name="情人节希岛" tvg-logo="https://live.fanmingming.cn/tv/情人节希岛.png",情人节希岛
+#EXTINF:-1 ,情人节希岛
 https://videomy.yongaomy.com/xiezhen/LD-011/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="晴佳" tvg-logo="https://live.fanmingming.cn/tv/晴佳.png",晴佳
+#EXTINF:-1 ,晴佳
 https://fc.maa1809.com/b/inmkopifvj/inmkopifvj.m3u8
-#EXTINF:-1 tvg-name="去学校" tvg-logo="https://live.fanmingming.cn/tv/去学校.png",去学校
+#EXTINF:-1 ,去学校
 https://videomy.yongaomy.com:8091/20200126/IPZ-949/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="全神贯注" tvg-logo="https://live.fanmingming.cn/tv/全神贯注.png",全神贯注
+#EXTINF:-1 ,全神贯注
 https://videomy.yongaomy.com:8091/20200126/IPX-428/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="三原穗花加藤绫野" tvg-logo="https://live.fanmingming.cn/tv/三原穗花加藤绫野.png",三原穗花加藤绫野
+#EXTINF:-1 ,三原穗花加藤绫野
 https://fc.maa1809.com/h/qjotnrtkkh/qjotnrtkkh.m3u8
-#EXTINF:-1 tvg-name="侍奉女仆" tvg-logo="https://live.fanmingming.cn/tv/侍奉女仆.png",侍奉女仆
+#EXTINF:-1 ,侍奉女仆
 https://videomy.yongaomy.com:8091/20200126/MIDE-066/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="松永纱奈1" tvg-logo="https://live.fanmingming.cn/tv/松永纱奈1.png",松永纱奈1
+#EXTINF:-1 ,松永纱奈1
 https://fc.maa1809.com/m/roqelpimmo/roqelpimmo.m3u8
-#EXTINF:-1 tvg-name="松永纱奈2" tvg-logo="https://live.fanmingming.cn/tv/松永纱奈2.png",松永纱奈2
+#EXTINF:-1 ,松永纱奈2
 https://fc.maa1809.com/e/ohtlknkomr/ohtlknkomr.m3u8
-#EXTINF:-1 tvg-name="松永纱奈3" tvg-logo="https://live.fanmingming.cn/tv/松永纱奈3.png",松永纱奈3
+#EXTINF:-1 ,松永纱奈3
 https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8
-#EXTINF:-1 tvg-name="松永纱奈4" tvg-logo="https://live.fanmingming.cn/tv/松永纱奈4.png",松永纱奈4
+#EXTINF:-1 ,松永纱奈4
 https://fc.maa1809.com/f/knmpkoqmjg/knmpkoqmjg.m3u8
-#EXTINF:-1 tvg-name="松永纱奈5" tvg-logo="https://live.fanmingming.cn/tv/松永纱奈5.png",松永纱奈5
+#EXTINF:-1 ,松永纱奈5
 https://fc.maa1809.com/d/kvrynihixm/kvrynihixm.m3u8
-#EXTINF:-1 tvg-name="松永纱奈6" tvg-logo="https://live.fanmingming.cn/tv/松永纱奈6.png",松永纱奈6
+#EXTINF:-1 ,松永纱奈6
 https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8
-#EXTINF:-1 tvg-name="体液浓密-新名" tvg-logo="https://live.fanmingming.cn/tv/体液浓密-新名.png",体液浓密-新名
+#EXTINF:-1 ,体液浓密-新名
 https://videomy.yongaomy.com:8091/20200104/wtygLh5i/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天海翼" tvg-logo="https://live.fanmingming.cn/tv/天海翼.png",天海翼
+#EXTINF:-1 ,天海翼
 https://videomy.yongaomy.com:8091/20200111/IPZ-615/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌1" tvg-logo="https://live.fanmingming.cn/tv/天使萌1.png",天使萌1
+#EXTINF:-1 ,天使萌1
 https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-210/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌2" tvg-logo="https://live.fanmingming.cn/tv/天使萌2.png",天使萌2
+#EXTINF:-1 ,天使萌2
 https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-230/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌3" tvg-logo="https://live.fanmingming.cn/tv/天使萌3.png",天使萌3
+#EXTINF:-1 ,天使萌3
 https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-249/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌4" tvg-logo="https://live.fanmingming.cn/tv/天使萌4.png",天使萌4
+#EXTINF:-1 ,天使萌4
 https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-270/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌5" tvg-logo="https://live.fanmingming.cn/tv/天使萌5.png",天使萌5
+#EXTINF:-1 ,天使萌5
 https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-929/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌6" tvg-logo="https://live.fanmingming.cn/tv/天使萌6.png",天使萌6
+#EXTINF:-1 ,天使萌6
 https://video1.rhsj520.com:8091/nyrm3/snis/3/ssni-380/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌7" tvg-logo="https://live.fanmingming.cn/tv/天使萌7.png",天使萌7
+#EXTINF:-1 ,天使萌7
 https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-331/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌8" tvg-logo="https://live.fanmingming.cn/tv/天使萌8.png",天使萌8
+#EXTINF:-1 ,天使萌8
 https://video1.rhsj520.com:8091/nyrm3/snis/1/ssni-358/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌9" tvg-logo="https://live.fanmingming.cn/tv/天使萌9.png",天使萌9
+#EXTINF:-1 ,天使萌9
 https://videomy.yongaomy.com:8091/20200110/SNIS-270/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌10" tvg-logo="https://live.fanmingming.cn/tv/天使萌10.png",天使萌10
+#EXTINF:-1 ,天使萌10
 https://videomy.yongaomy.com:8091/20200110/SNIS-463/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌11" tvg-logo="https://live.fanmingming.cn/tv/天使萌11.png",天使萌11
+#EXTINF:-1 ,天使萌11
 https://videomy.yongaomy.com:8091/20200110/SNIS-311/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌12" tvg-logo="https://live.fanmingming.cn/tv/天使萌12.png",天使萌12
+#EXTINF:-1 ,天使萌12
 https://videomy.yongaomy.com:8091/20200112/SNIS-440/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="西川1" tvg-logo="https://live.fanmingming.cn/tv/西川1.png",西川1
+#EXTINF:-1 ,西川1
 https://videomy.yongaomy.com:8091/20200112/MIDE-124/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="西宫" tvg-logo="https://live.fanmingming.cn/tv/西宫.png",西宫
+#EXTINF:-1 ,西宫
 https://siwazywcdn2.com:5278/zhongwenzimu/1BvNA3kM/index.m3u8
-#EXTINF:-1 tvg-name="相部屋" tvg-logo="https://live.fanmingming.cn/tv/相部屋.png",相部屋
+#EXTINF:-1 ,相部屋
 https://videomy.yongaomy.com:8091/20200126/SSNI-674/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="香皂小姐姐" tvg-logo="https://live.fanmingming.cn/tv/香皂小姐姐.png",香皂小姐姐
+#EXTINF:-1 ,香皂小姐姐
 https://videomy.yongaomy.com:8091/20191223/R6Tq7Ldb/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="筱原友香1" tvg-logo="https://live.fanmingming.cn/tv/筱原友香1.png",筱原友香1
+#EXTINF:-1 ,筱原友香1
 https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
-#EXTINF:-1 tvg-name="筱原友香2" tvg-logo="https://live.fanmingming.cn/tv/筱原友香2.png",筱原友香2
+#EXTINF:-1 ,筱原友香2
 https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
-#EXTINF:-1 tvg-name="咲咲原凛星奈爱" tvg-logo="https://live.fanmingming.cn/tv/咲咲原凛星奈爱.png",咲咲原凛星奈爱
+#EXTINF:-1 ,咲咲原凛星奈爱
 https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
-#EXTINF:-1 tvg-name="星-152青空" tvg-logo="https://live.fanmingming.cn/tv/星-152青空.png",星-152青空
+#EXTINF:-1 ,星-152青空
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/7c007c63/index.m3u8
-#EXTINF:-1 tvg-name="星-168青空" tvg-logo="https://live.fanmingming.cn/tv/星-168青空.png",星-168青空
+#EXTINF:-1 ,星-168青空
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/eff75385/index.m3u8
-#EXTINF:-1 tvg-name="星-182青空" tvg-logo="https://live.fanmingming.cn/tv/星-182青空.png",星-182青空
+#EXTINF:-1 ,星-182青空
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/335a2a7f/index.m3u8
-#EXTINF:-1 tvg-name="星-407青空" tvg-logo="https://live.fanmingming.cn/tv/星-407青空.png",星-407青空
+#EXTINF:-1 ,星-407青空
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/6001e0be/index.m3u8
-#EXTINF:-1 tvg-name="星-435青空" tvg-logo="https://live.fanmingming.cn/tv/星-435青空.png",星-435青空
+#EXTINF:-1 ,星-435青空
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/0ba77daf/index.m3u8
-#EXTINF:-1 tvg-name="星-439青空" tvg-logo="https://live.fanmingming.cn/tv/星-439青空.png",星-439青空
+#EXTINF:-1 ,星-439青空
 https://t12.cdn2020.com:12338/video/m3u8/2021/11/24/7daf83bd/index.m3u8
-#EXTINF:-1 tvg-name="星-455朝田" tvg-logo="https://live.fanmingming.cn/tv/星-455朝田.png",星-455朝田
+#EXTINF:-1 ,星-455朝田
 https://t12.cdn2020.com:12338/video/m3u8/2021/11/21/547bc9f6/index.m3u8
-#EXTINF:-1 tvg-name="星-507朝田" tvg-logo="https://live.fanmingming.cn/tv/星-507朝田.png",星-507朝田
+#EXTINF:-1 ,星-507朝田
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/16/6f755150/index.m3u8
-#EXTINF:-1 tvg-name="星奈酱" tvg-logo="https://live.fanmingming.cn/tv/星奈酱.png",星奈酱
+#EXTINF:-1 ,星奈酱
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/07/f800f6f6/index.m3u8
-#EXTINF:-1 tvg-name="绪方艾丽娜" tvg-logo="https://live.fanmingming.cn/tv/绪方艾丽娜.png",绪方艾丽娜
+#EXTINF:-1 ,绪方艾丽娜
 https://videomy.yongaomy.com:8091/20200126/CHN-167/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="雪音" tvg-logo="https://live.fanmingming.cn/tv/雪音.png",雪音
+#EXTINF:-1 ,雪音
 https://siwazywcdn2.com:5278/zhongwenzimu/23fVU6wT/index.m3u8
-#EXTINF:-1 tvg-name="叶月梨乃" tvg-logo="https://live.fanmingming.cn/tv/叶月梨乃.png",叶月梨乃
+#EXTINF:-1 ,叶月梨乃
 https://siwazywcdn2.com:5278/ribenyouma/6F2acdoY/index.m3u8
-#EXTINF:-1 tvg-name="伊藤优希" tvg-logo="https://live.fanmingming.cn/tv/伊藤优希.png",伊藤优希
+#EXTINF:-1 ,伊藤优希
 https://fc.maa1809.com/d/hmjfiplneo/hmjfiplneo.m3u8
-#EXTINF:-1 tvg-name="音羽" tvg-logo="https://live.fanmingming.cn/tv/音羽.png",音羽
+#EXTINF:-1 ,音羽
 https://fc.maa1809.com/c/nokhxqnqpj/nokhxqnqpj.m3u8
-#EXTINF:-1 tvg-name="银河迹美" tvg-logo="https://live.fanmingming.cn/tv/银河迹美.png",银河迹美
+#EXTINF:-1 ,银河迹美
 https://videomy.yongaomy.com:8091/20200126/MDTM-357/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="永濑唯" tvg-logo="https://live.fanmingming.cn/tv/永濑唯.png",永濑唯
+#EXTINF:-1 ,永濑唯
 https://fc.maa1809.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
-#EXTINF:-1 tvg-name="诱惑的姐姐1" tvg-logo="https://live.fanmingming.cn/tv/诱惑的姐姐1.png",诱惑的姐姐1
+#EXTINF:-1 ,诱惑的姐姐1
 https://videomy.yongaomy.com:8091/20200112/MIDE-118/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="诱惑的姐姐2" tvg-logo="https://live.fanmingming.cn/tv/诱惑的姐姐2.png",诱惑的姐姐2
+#EXTINF:-1 ,诱惑的姐姐2
 https://videomy.yongaomy.com:8091/20200111/MIDE-051/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="欲求反对1" tvg-logo="https://live.fanmingming.cn/tv/欲求反对1.png",欲求反对1
+#EXTINF:-1 ,欲求反对1
 https://videomy.yongaomy.com:8091/20200126/MEYD-564/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="欲求反对2" tvg-logo="https://live.fanmingming.cn/tv/欲求反对2.png",欲求反对2
+#EXTINF:-1 ,欲求反对2
 https://videomy.yongaomy.com:8091/20200126/MEYD-248/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="欲求反对3" tvg-logo="https://live.fanmingming.cn/tv/欲求反对3.png",欲求反对3
+#EXTINF:-1 ,欲求反对3
 https://videomy.yongaomy.com:8091/20200103/ocnUX7Tt/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="元气姐姐" tvg-logo="https://live.fanmingming.cn/tv/元气姐姐.png",元气姐姐
+#EXTINF:-1 ,元气姐姐
 https://videomy.yongaomy.com:8091/20200126/IPX-434/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="职业OL" tvg-logo="https://live.fanmingming.cn/tv/职业OL.png",职业OL
+#EXTINF:-1 ,职业OL
 https://videomy.yongaomy.com:8091/20191222/WGaysfrW/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="制服美少女2" tvg-logo="https://live.fanmingming.cn/tv/制服美少女2.png",制服美少女2
+#EXTINF:-1 ,制服美少女2
 https://videomy.yongaomy.com:8091/20200104/ssClhQbc/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="奏美沙" tvg-logo="https://live.fanmingming.cn/tv/奏美沙.png",奏美沙
+#EXTINF:-1 ,奏美沙
 https://fc.maa1809.com/e/chifuosxst/chifuosxst.m3u8
-#EXTINF:-1 tvg-name="奏音花音" tvg-logo="https://live.fanmingming.cn/tv/奏音花音.png",奏音花音
+#EXTINF:-1 ,奏音花音
 https://videomy.yongaomy.com/20210907/Ekcv3tYC/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="aarm-066治疗师" tvg-logo="https://live.fanmingming.cn/tv/aarm-066治疗师.png",aarm-066治疗师
+#EXTINF:-1 ,aarm-066治疗师
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/e61cb482/index.m3u8
-#EXTINF:-1 tvg-name="abp-523北野のぞみ" tvg-logo="https://live.fanmingming.cn/tv/abp-523北野のぞみ.png",abp-523北野のぞみ
+#EXTINF:-1 ,abp-523北野のぞみ
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/01/b24c657e/index.m3u8
-#EXTINF:-1 tvg-name="abp-599水稀" tvg-logo="https://live.fanmingming.cn/tv/abp-599水稀.png",abp-599水稀
+#EXTINF:-1 ,abp-599水稀
 https://t11.cdn2020.com:12336/video/m3u8/2021/08/31/41ebaa47/index.m3u8
-#EXTINF:-1 tvg-name="abp-828水嶋那奈" tvg-logo="https://live.fanmingming.cn/tv/abp-828水嶋那奈.png",abp-828水嶋那奈
+#EXTINF:-1 ,abp-828水嶋那奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/14/d3d0ae81/index.m3u8
-#EXTINF:-1 tvg-name="abp-873藤江史帆" tvg-logo="https://live.fanmingming.cn/tv/abp-873藤江史帆.png",abp-873藤江史帆
+#EXTINF:-1 ,abp-873藤江史帆
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/04/974f8f3e/index.m3u8
-#EXTINF:-1 tvg-name="abp-944斎藤" tvg-logo="https://live.fanmingming.cn/tv/abp-944斎藤.png",abp-944斎藤
+#EXTINF:-1 ,abp-944斎藤
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/17/01dfe2e4/index.m3u8
-#EXTINF:-1 tvg-name="abw-006凉森" tvg-logo="https://live.fanmingming.cn/tv/abw-006凉森.png",abw-006凉森
+#EXTINF:-1 ,abw-006凉森
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/17/859014c4/index.m3u8
-#EXTINF:-1 tvg-name="abw-029野々浦暖" tvg-logo="https://live.fanmingming.cn/tv/abw-029野々浦暖.png",abw-029野々浦暖
+#EXTINF:-1 ,abw-029野々浦暖
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/01/727bf74e/index.m3u8
-#EXTINF:-1 tvg-name="abw-065凉森" tvg-logo="https://live.fanmingming.cn/tv/abw-065凉森.png",abw-065凉森
+#EXTINF:-1 ,abw-065凉森
 https://t12.cdn2020.com:12338/video/m3u8/2021/11/16/3d3ad723/index.m3u8
-#EXTINF:-1 tvg-name="abw-103爱音" tvg-logo="https://live.fanmingming.cn/tv/abw-103爱音.png",abw-103爱音
+#EXTINF:-1 ,abw-103爱音
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/04/e3b58ef8/index.m3u8
-#EXTINF:-1 tvg-name="abw-108凉森" tvg-logo="https://live.fanmingming.cn/tv/abw-108凉森.png",abw-108凉森
+#EXTINF:-1 ,abw-108凉森
 https://t12.cdn2020.com:12338/video/m3u8/2021/11/17/6c80a8f3/index.m3u8
-#EXTINF:-1 tvg-name="abw-145" tvg-logo="https://live.fanmingming.cn/tv/abw-145.png",abw-145
+#EXTINF:-1 ,abw-145
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/e825c0ac/index.m3u8
-#EXTINF:-1 tvg-name="abw-147白玉海藻" tvg-logo="https://live.fanmingming.cn/tv/abw-147白玉海藻.png",abw-147白玉海藻
+#EXTINF:-1 ,abw-147白玉海藻
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/472fb0e4/index.m3u8
-#EXTINF:-1 tvg-name="abw-152" tvg-logo="https://live.fanmingming.cn/tv/abw-152.png",abw-152
+#EXTINF:-1 ,abw-152
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/27/1ad9c88e/index.m3u8
-#EXTINF:-1 tvg-name="abw-158凉森" tvg-logo="https://live.fanmingming.cn/tv/abw-158凉森.png",abw-158凉森
+#EXTINF:-1 ,abw-158凉森
 https://t12.cdn2020.com:12338/video/m3u8/2021/11/27/6e74b16f/index.m3u8
-#EXTINF:-1 tvg-name="abw-160乃绚木爱" tvg-logo="https://live.fanmingming.cn/tv/abw-160乃绚木爱.png",abw-160乃绚木爱
+#EXTINF:-1 ,abw-160乃绚木爱
 https://t12.cdn2020.com:12338/video/m3u8/2021/11/16/0ceb7baf/index.m3u8
-#EXTINF:-1 tvg-name="abw-175河合" tvg-logo="https://live.fanmingming.cn/tv/abw-175河合.png",abw-175河合
+#EXTINF:-1 ,abw-175河合
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/b82f6079/index.m3u8
-#EXTINF:-1 tvg-name="abw-176唯月优花" tvg-logo="https://live.fanmingming.cn/tv/abw-176唯月优花.png",abw-176唯月优花
+#EXTINF:-1 ,abw-176唯月优花
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/cd1cba72/index.m3u8
-#EXTINF:-1 tvg-name="abw-178結城" tvg-logo="https://live.fanmingming.cn/tv/abw-178結城.png",abw-178結城
+#EXTINF:-1 ,abw-178結城
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/25/ae7feac3/index.m3u8
-#EXTINF:-1 tvg-name="abw-201河合" tvg-logo="https://live.fanmingming.cn/tv/abw-201河合.png",abw-201河合
+#EXTINF:-1 ,abw-201河合
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/15/4fdaee6f/index.m3u8
-#EXTINF:-1 tvg-name="adn-010白优子" tvg-logo="https://live.fanmingming.cn/tv/adn-010白优子.png",adn-010白优子
+#EXTINF:-1 ,adn-010白优子
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/09/f746fd21/index.m3u8
-#EXTINF:-1 tvg-name="adn-022春原未来" tvg-logo="https://live.fanmingming.cn/tv/adn-022春原未来.png",adn-022春原未来
+#EXTINF:-1 ,adn-022春原未来
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/b2ce701f/index.m3u8
-#EXTINF:-1 tvg-name="adn-023东凛" tvg-logo="https://live.fanmingming.cn/tv/adn-023东凛.png",adn-023东凛
+#EXTINF:-1 ,adn-023东凛
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/e73b034b/index.m3u8
-#EXTINF:-1 tvg-name="adn-027村上里沙" tvg-logo="https://live.fanmingming.cn/tv/adn-027村上里沙.png",adn-027村上里沙
+#EXTINF:-1 ,adn-027村上里沙
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/b671b544/index.m3u8
-#EXTINF:-1 tvg-name="adn-077中村知恵" tvg-logo="https://live.fanmingming.cn/tv/adn-077中村知恵.png",adn-077中村知恵
+#EXTINF:-1 ,adn-077中村知恵
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/4814caf8/index.m3u8
-#EXTINF:-1 tvg-name="adn-086川上奈々美" tvg-logo="https://live.fanmingming.cn/tv/adn-086川上奈々美.png",adn-086川上奈々美
+#EXTINF:-1 ,adn-086川上奈々美
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/12/91c4a75b/index.m3u8
-#EXTINF:-1 tvg-name="adn-099歩実" tvg-logo="https://live.fanmingming.cn/tv/adn-099歩実.png",adn-099歩実
+#EXTINF:-1 ,adn-099歩実
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/e82d38f6/index.m3u8
-#EXTINF:-1 tvg-name="adn-102小西悠" tvg-logo="https://live.fanmingming.cn/tv/adn-102小西悠.png",adn-102小西悠
+#EXTINF:-1 ,adn-102小西悠
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/91e25286/index.m3u8
-#EXTINF:-1 tvg-name="adn-141辉月" tvg-logo="https://live.fanmingming.cn/tv/adn-141辉月.png",adn-141辉月
+#EXTINF:-1 ,adn-141辉月
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/0a295389/index.m3u8
-#EXTINF:-1 tvg-name="adn-142" tvg-logo="https://live.fanmingming.cn/tv/adn-142.png",adn-142
+#EXTINF:-1 ,adn-142
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/5c637d4f/index.m3u8
-#EXTINF:-1 tvg-name="adn-143夏目彩春" tvg-logo="https://live.fanmingming.cn/tv/adn-143夏目彩春.png",adn-143夏目彩春
+#EXTINF:-1 ,adn-143夏目彩春
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/261102ea/index.m3u8
-#EXTINF:-1 tvg-name="adn-144松下纱栄子" tvg-logo="https://live.fanmingming.cn/tv/adn-144松下纱栄子.png",adn-144松下纱栄子
+#EXTINF:-1 ,adn-144松下纱栄子
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/4efa3192/index.m3u8
-#EXTINF:-1 tvg-name="adn-153秋山祥子" tvg-logo="https://live.fanmingming.cn/tv/adn-153秋山祥子.png",adn-153秋山祥子
+#EXTINF:-1 ,adn-153秋山祥子
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/5f94e342/index.m3u8
-#EXTINF:-1 tvg-name="adn-154夏目彩春" tvg-logo="https://live.fanmingming.cn/tv/adn-154夏目彩春.png",adn-154夏目彩春
+#EXTINF:-1 ,adn-154夏目彩春
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/64c10615/index.m3u8
-#EXTINF:-1 tvg-name="adn-155水野朝阳" tvg-logo="https://live.fanmingming.cn/tv/adn-155水野朝阳.png",adn-155水野朝阳
+#EXTINF:-1 ,adn-155水野朝阳
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/d47a01d0/index.m3u8
-#EXTINF:-1 tvg-name="adn-161春宫" tvg-logo="https://live.fanmingming.cn/tv/adn-161春宫.png",adn-161春宫
+#EXTINF:-1 ,adn-161春宫
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/0b1a5e17/index.m3u8
-#EXTINF:-1 tvg-name="adn-163松永" tvg-logo="https://live.fanmingming.cn/tv/adn-163松永.png",adn-163松永
+#EXTINF:-1 ,adn-163松永
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/201029ff/index.m3u8
-#EXTINF:-1 tvg-name="adn-164" tvg-logo="https://live.fanmingming.cn/tv/adn-164.png",adn-164
+#EXTINF:-1 ,adn-164
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/c251b8fa/index.m3u8
-#EXTINF:-1 tvg-name="adn-345" tvg-logo="https://live.fanmingming.cn/tv/adn-345.png",adn-345
+#EXTINF:-1 ,adn-345
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/21/a184bb13/index.m3u8
-#EXTINF:-1 tvg-name="adn-349日下加奈" tvg-logo="https://live.fanmingming.cn/tv/adn-349日下加奈.png",adn-349日下加奈
+#EXTINF:-1 ,adn-349日下加奈
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/03cfb8fb/index.m3u8
-#EXTINF:-1 tvg-name="adn-350日下加奈" tvg-logo="https://live.fanmingming.cn/tv/adn-350日下加奈.png",adn-350日下加奈
+#EXTINF:-1 ,adn-350日下加奈
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/69cf9b87/index.m3u8
-#EXTINF:-1 tvg-name="adn-351希岛加藤" tvg-logo="https://live.fanmingming.cn/tv/adn-351希岛加藤.png",adn-351希岛加藤
+#EXTINF:-1 ,adn-351希岛加藤
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/4b0db460/index.m3u8
-#EXTINF:-1 tvg-name="adn-353七瀬" tvg-logo="https://live.fanmingming.cn/tv/adn-353七瀬.png",adn-353七瀬
+#EXTINF:-1 ,adn-353七瀬
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/6bd4f1de/index.m3u8
-#EXTINF:-1 tvg-name="adn-363希岛" tvg-logo="https://live.fanmingming.cn/tv/adn-363希岛.png",adn-363希岛
+#EXTINF:-1 ,adn-363希岛
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/59272dbc/index.m3u8
-#EXTINF:-1 tvg-name="akid-093叔母" tvg-logo="https://live.fanmingming.cn/tv/akid-093叔母.png",akid-093叔母
+#EXTINF:-1 ,akid-093叔母
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/3b67665d/index.m3u8
-#EXTINF:-1 tvg-name="AMBI-112奏音花音" tvg-logo="https://live.fanmingming.cn/tv/AMBI-112奏音花音.png",AMBI-112奏音花音
+#EXTINF:-1 ,AMBI-112奏音花音
 https://videomy.yongaomy.com/20211023/MtGqJmJr/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="ambi-135永瀬" tvg-logo="https://live.fanmingming.cn/tv/ambi-135永瀬.png",ambi-135永瀬
+#EXTINF:-1 ,ambi-135永瀬
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/6048856a/index.m3u8
-#EXTINF:-1 tvg-name="ambi-148绀野" tvg-logo="https://live.fanmingming.cn/tv/ambi-148绀野.png",ambi-148绀野
+#EXTINF:-1 ,ambi-148绀野
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/ee9f9338/index.m3u8
-#EXTINF:-1 tvg-name="APKH-123奏音花音" tvg-logo="https://live.fanmingming.cn/tv/APKH-123奏音花音.png",APKH-123奏音花音
+#EXTINF:-1 ,APKH-123奏音花音
 https://videomy.yongaomy.com/20210825/d1JxSvZO/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="atid-479桜香美羽" tvg-logo="https://live.fanmingming.cn/tv/atid-479桜香美羽.png",atid-479桜香美羽
+#EXTINF:-1 ,atid-479桜香美羽
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/11/78a0ddbf/index.m3u8
-#EXTINF:-1 tvg-name="atid-480深田结梨" tvg-logo="https://live.fanmingming.cn/tv/atid-480深田结梨.png",atid-480深田结梨
+#EXTINF:-1 ,atid-480深田结梨
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/1f94c22d/index.m3u8
-#EXTINF:-1 tvg-name="atid-493二宮" tvg-logo="https://live.fanmingming.cn/tv/atid-493二宮.png",atid-493二宮
+#EXTINF:-1 ,atid-493二宮
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/c604e813/index.m3u8
-#EXTINF:-1 tvg-name="atid-500葉風松本" tvg-logo="https://live.fanmingming.cn/tv/atid-500葉風松本.png",atid-500葉風松本
+#EXTINF:-1 ,atid-500葉風松本
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/d7446265/index.m3u8
-#EXTINF:-1 tvg-name="bf-611久留玲木" tvg-logo="https://live.fanmingming.cn/tv/bf-611久留玲木.png",bf-611久留玲木
+#EXTINF:-1 ,bf-611久留玲木
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/57e5af50/index.m3u8
-#EXTINF:-1 tvg-name="bf-644北野未奈" tvg-logo="https://live.fanmingming.cn/tv/bf-644北野未奈.png",bf-644北野未奈
+#EXTINF:-1 ,bf-644北野未奈
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/359bb63f/index.m3u8
-#EXTINF:-1 tvg-name="bijn-206渚" tvg-logo="https://live.fanmingming.cn/tv/bijn-206渚.png",bijn-206渚
+#EXTINF:-1 ,bijn-206渚
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/7588319a/index.m3u8
-#EXTINF:-1 tvg-name="BLK-458奏音花音" tvg-logo="https://live.fanmingming.cn/tv/BLK-458奏音花音.png",BLK-458奏音花音
+#EXTINF:-1 ,BLK-458奏音花音
 https://videomy.yongaomy.com/20211028/aA6JBM10/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="blk-547藤森里穂" tvg-logo="https://live.fanmingming.cn/tv/blk-547藤森里穂.png",blk-547藤森里穂
+#EXTINF:-1 ,blk-547藤森里穂
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/75b14a5f/index.m3u8
-#EXTINF:-1 tvg-name="blk-552怜岚" tvg-logo="https://live.fanmingming.cn/tv/blk-552怜岚.png",blk-552怜岚
+#EXTINF:-1 ,blk-552怜岚
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/0430469f/index.m3u8
-#EXTINF:-1 tvg-name="carib002姬川" tvg-logo="https://live.fanmingming.cn/tv/carib002姬川.png",carib002姬川
+#EXTINF:-1 ,carib002姬川
 https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
-#EXTINF:-1 tvg-name="carib004西川" tvg-logo="https://live.fanmingming.cn/tv/carib004西川.png",carib004西川
+#EXTINF:-1 ,carib004西川
 https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
-#EXTINF:-1 tvg-name="carib146西川" tvg-logo="https://live.fanmingming.cn/tv/carib146西川.png",carib146西川
+#EXTINF:-1 ,carib146西川
 https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
-#EXTINF:-1 tvg-name="carib182西川" tvg-logo="https://live.fanmingming.cn/tv/carib182西川.png",carib182西川
+#EXTINF:-1 ,carib182西川
 https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
-#EXTINF:-1 tvg-name="carib239西川" tvg-logo="https://live.fanmingming.cn/tv/carib239西川.png",carib239西川
+#EXTINF:-1 ,carib239西川
 https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
-#EXTINF:-1 tvg-name="carib288西川" tvg-logo="https://live.fanmingming.cn/tv/carib288西川.png",carib288西川
+#EXTINF:-1 ,carib288西川
 https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
-#EXTINF:-1 tvg-name="carib311西川" tvg-logo="https://live.fanmingming.cn/tv/carib311西川.png",carib311西川
+#EXTINF:-1 ,carib311西川
 https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
-#EXTINF:-1 tvg-name="carib337西川" tvg-logo="https://live.fanmingming.cn/tv/carib337西川.png",carib337西川
+#EXTINF:-1 ,carib337西川
 https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
-#EXTINF:-1 tvg-name="carib339姬川" tvg-logo="https://live.fanmingming.cn/tv/carib339姬川.png",carib339姬川
+#EXTINF:-1 ,carib339姬川
 https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
-#EXTINF:-1 tvg-name="carib363西川" tvg-logo="https://live.fanmingming.cn/tv/carib363西川.png",carib363西川
+#EXTINF:-1 ,carib363西川
 https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
-#EXTINF:-1 tvg-name="carib375姬川" tvg-logo="https://live.fanmingming.cn/tv/carib375姬川.png",carib375姬川
+#EXTINF:-1 ,carib375姬川
 https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
-#EXTINF:-1 tvg-name="carib375姬川" tvg-logo="https://live.fanmingming.cn/tv/carib375姬川.png",carib375姬川
+#EXTINF:-1 ,carib375姬川
 https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
-#EXTINF:-1 tvg-name="carib420丘笑" tvg-logo="https://live.fanmingming.cn/tv/carib420丘笑.png",carib420丘笑
+#EXTINF:-1 ,carib420丘笑
 https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
-#EXTINF:-1 tvg-name="carib431北川" tvg-logo="https://live.fanmingming.cn/tv/carib431北川.png",carib431北川
+#EXTINF:-1 ,carib431北川
 https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
-#EXTINF:-1 tvg-name="carib433姬川" tvg-logo="https://live.fanmingming.cn/tv/carib433姬川.png",carib433姬川
+#EXTINF:-1 ,carib433姬川
 https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
-#EXTINF:-1 tvg-name="carib449神田" tvg-logo="https://live.fanmingming.cn/tv/carib449神田.png",carib449神田
+#EXTINF:-1 ,carib449神田
 https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
-#EXTINF:-1 tvg-name="carib457北川" tvg-logo="https://live.fanmingming.cn/tv/carib457北川.png",carib457北川
+#EXTINF:-1 ,carib457北川
 https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
-#EXTINF:-1 tvg-name="carib474立花琉莉" tvg-logo="https://live.fanmingming.cn/tv/carib474立花琉莉.png",carib474立花琉莉
+#EXTINF:-1 ,carib474立花琉莉
 https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
-#EXTINF:-1 tvg-name="carib477立花琉莉" tvg-logo="https://live.fanmingming.cn/tv/carib477立花琉莉.png",carib477立花琉莉
+#EXTINF:-1 ,carib477立花琉莉
 https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
-#EXTINF:-1 tvg-name="carib478北川" tvg-logo="https://live.fanmingming.cn/tv/carib478北川.png",carib478北川
+#EXTINF:-1 ,carib478北川
 https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
-#EXTINF:-1 tvg-name="carib495神田" tvg-logo="https://live.fanmingming.cn/tv/carib495神田.png",carib495神田
+#EXTINF:-1 ,carib495神田
 https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
-#EXTINF:-1 tvg-name="carib531立花琉莉" tvg-logo="https://live.fanmingming.cn/tv/carib531立花琉莉.png",carib531立花琉莉
+#EXTINF:-1 ,carib531立花琉莉
 https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
-#EXTINF:-1 tvg-name="carib533丘笑" tvg-logo="https://live.fanmingming.cn/tv/carib533丘笑.png",carib533丘笑
+#EXTINF:-1 ,carib533丘笑
 https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
-#EXTINF:-1 tvg-name="carib541神田" tvg-logo="https://live.fanmingming.cn/tv/carib541神田.png",carib541神田
+#EXTINF:-1 ,carib541神田
 https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
-#EXTINF:-1 tvg-name="carib563爱莉" tvg-logo="https://live.fanmingming.cn/tv/carib563爱莉.png",carib563爱莉
+#EXTINF:-1 ,carib563爱莉
 https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
-#EXTINF:-1 tvg-name="carib563七濑" tvg-logo="https://live.fanmingming.cn/tv/carib563七濑.png",carib563七濑
+#EXTINF:-1 ,carib563七濑
 https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
-#EXTINF:-1 tvg-name="carib589立花琉莉" tvg-logo="https://live.fanmingming.cn/tv/carib589立花琉莉.png",carib589立花琉莉
+#EXTINF:-1 ,carib589立花琉莉
 https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
-#EXTINF:-1 tvg-name="carib639神田" tvg-logo="https://live.fanmingming.cn/tv/carib639神田.png",carib639神田
+#EXTINF:-1 ,carib639神田
 https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
-#EXTINF:-1 tvg-name="carib665姬川" tvg-logo="https://live.fanmingming.cn/tv/carib665姬川.png",carib665姬川
+#EXTINF:-1 ,carib665姬川
 https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
-#EXTINF:-1 tvg-name="carib665姬川" tvg-logo="https://live.fanmingming.cn/tv/carib665姬川.png",carib665姬川
+#EXTINF:-1 ,carib665姬川
 https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
-#EXTINF:-1 tvg-name="carib674杏奈" tvg-logo="https://live.fanmingming.cn/tv/carib674杏奈.png",carib674杏奈
+#EXTINF:-1 ,carib674杏奈
 https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
-#EXTINF:-1 tvg-name="carib675神田" tvg-logo="https://live.fanmingming.cn/tv/carib675神田.png",carib675神田
+#EXTINF:-1 ,carib675神田
 https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
-#EXTINF:-1 tvg-name="carib710神田" tvg-logo="https://live.fanmingming.cn/tv/carib710神田.png",carib710神田
+#EXTINF:-1 ,carib710神田
 https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
-#EXTINF:-1 tvg-name="carib717杏奈" tvg-logo="https://live.fanmingming.cn/tv/carib717杏奈.png",carib717杏奈
+#EXTINF:-1 ,carib717杏奈
 https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
-#EXTINF:-1 tvg-name="carib744立花琉莉" tvg-logo="https://live.fanmingming.cn/tv/carib744立花琉莉.png",carib744立花琉莉
+#EXTINF:-1 ,carib744立花琉莉
 https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
-#EXTINF:-1 tvg-name="carib758美笑爱" tvg-logo="https://live.fanmingming.cn/tv/carib758美笑爱.png",carib758美笑爱
+#EXTINF:-1 ,carib758美笑爱
 https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
-#EXTINF:-1 tvg-name="cawd-011伊藤舞雪" tvg-logo="https://live.fanmingming.cn/tv/cawd-011伊藤舞雪.png",cawd-011伊藤舞雪
+#EXTINF:-1 ,cawd-011伊藤舞雪
 https://t12.cdn2020.com:12338/video/m3u8/2021/11/16/5402ec73/index.m3u8
-#EXTINF:-1 tvg-name="cawd-092皆川优奈" tvg-logo="https://live.fanmingming.cn/tv/cawd-092皆川优奈.png",cawd-092皆川优奈
+#EXTINF:-1 ,cawd-092皆川优奈
 https://siwazywcdn2.com:5278/zhongwenzimu/5JDoELrc/index.m3u8
-#EXTINF:-1 tvg-name="cawd-249日向" tvg-logo="https://live.fanmingming.cn/tv/cawd-249日向.png",cawd-249日向
+#EXTINF:-1 ,cawd-249日向
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/09/1d06c4c1/index.m3u8
-#EXTINF:-1 tvg-name="cawd-250柚叶" tvg-logo="https://live.fanmingming.cn/tv/cawd-250柚叶.png",cawd-250柚叶
+#EXTINF:-1 ,cawd-250柚叶
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/12/898145ff/index.m3u8
-#EXTINF:-1 tvg-name="cawd-273" tvg-logo="https://live.fanmingming.cn/tv/cawd-273.png",cawd-273
+#EXTINF:-1 ,cawd-273
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/11/93b2bc8f/index.m3u8
-#EXTINF:-1 tvg-name="cawd-277桜" tvg-logo="https://live.fanmingming.cn/tv/cawd-277桜.png",cawd-277桜
+#EXTINF:-1 ,cawd-277桜
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/12/a86b151b/index.m3u8
-#EXTINF:-1 tvg-name="cawd-282" tvg-logo="https://live.fanmingming.cn/tv/cawd-282.png",cawd-282
+#EXTINF:-1 ,cawd-282
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/eb7edf60/index.m3u8
-#EXTINF:-1 tvg-name="cawd-285伊藤舞雪" tvg-logo="https://live.fanmingming.cn/tv/cawd-285伊藤舞雪.png",cawd-285伊藤舞雪
+#EXTINF:-1 ,cawd-285伊藤舞雪
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/d4745fc6/index.m3u8
-#EXTINF:-1 tvg-name="cawd-286桜" tvg-logo="https://live.fanmingming.cn/tv/cawd-286桜.png",cawd-286桜
+#EXTINF:-1 ,cawd-286桜
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/4b4e3d2c/index.m3u8
-#EXTINF:-1 tvg-name="cawd-293伊东白桃" tvg-logo="https://live.fanmingming.cn/tv/cawd-293伊东白桃.png",cawd-293伊东白桃
+#EXTINF:-1 ,cawd-293伊东白桃
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/07/a5e948a1/index.m3u8
-#EXTINF:-1 tvg-name="cawd-299伊藤舞雪" tvg-logo="https://live.fanmingming.cn/tv/cawd-299伊藤舞雪.png",cawd-299伊藤舞雪
+#EXTINF:-1 ,cawd-299伊藤舞雪
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/6ccddad1/index.m3u8
-#EXTINF:-1 tvg-name="cawd-300桜" tvg-logo="https://live.fanmingming.cn/tv/cawd-300桜.png",cawd-300桜
+#EXTINF:-1 ,cawd-300桜
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/0f774466/index.m3u8
-#EXTINF:-1 tvg-name="cawd-303森玲奈" tvg-logo="https://live.fanmingming.cn/tv/cawd-303森玲奈.png",cawd-303森玲奈
+#EXTINF:-1 ,cawd-303森玲奈
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/55d962d1/index.m3u8
-#EXTINF:-1 tvg-name="cawd-305有村" tvg-logo="https://live.fanmingming.cn/tv/cawd-305有村.png",cawd-305有村
+#EXTINF:-1 ,cawd-305有村
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/dbb57d47/index.m3u8
-#EXTINF:-1 tvg-name="cawd-321伊藤舞雪" tvg-logo="https://live.fanmingming.cn/tv/cawd-321伊藤舞雪.png",cawd-321伊藤舞雪
+#EXTINF:-1 ,cawd-321伊藤舞雪
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/07c5fd13/index.m3u8
-#EXTINF:-1 tvg-name="cawd-322桜" tvg-logo="https://live.fanmingming.cn/tv/cawd-322桜.png",cawd-322桜
+#EXTINF:-1 ,cawd-322桜
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/0dedbb0a/index.m3u8
-#EXTINF:-1 tvg-name="cawd-323日向" tvg-logo="https://live.fanmingming.cn/tv/cawd-323日向.png",cawd-323日向
+#EXTINF:-1 ,cawd-323日向
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/2d227314/index.m3u8
-#EXTINF:-1 tvg-name="cawd-324森玲奈" tvg-logo="https://live.fanmingming.cn/tv/cawd-324森玲奈.png",cawd-324森玲奈
+#EXTINF:-1 ,cawd-324森玲奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/3b12f1cc/index.m3u8
-#EXTINF:-1 tvg-name="cawd-325楠有栖" tvg-logo="https://live.fanmingming.cn/tv/cawd-325楠有栖.png",cawd-325楠有栖
+#EXTINF:-1 ,cawd-325楠有栖
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/1ec20ce8/index.m3u8
-#EXTINF:-1 tvg-name="cawd-328市川爱茉" tvg-logo="https://live.fanmingming.cn/tv/cawd-328市川爱茉.png",cawd-328市川爱茉
+#EXTINF:-1 ,cawd-328市川爱茉
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/23e26296/index.m3u8
-#EXTINF:-1 tvg-name="cawd-330大岛" tvg-logo="https://live.fanmingming.cn/tv/cawd-330大岛.png",cawd-330大岛
+#EXTINF:-1 ,cawd-330大岛
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/3d5ddc98/index.m3u8
-#EXTINF:-1 tvg-name="cawd-337伊藤舞雪" tvg-logo="https://live.fanmingming.cn/tv/cawd-337伊藤舞雪.png",cawd-337伊藤舞雪
+#EXTINF:-1 ,cawd-337伊藤舞雪
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/795e137b/index.m3u8
-#EXTINF:-1 tvg-name="cawd-342桜" tvg-logo="https://live.fanmingming.cn/tv/cawd-342桜.png",cawd-342桜
+#EXTINF:-1 ,cawd-342桜
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/235e6c5b/index.m3u8
-#EXTINF:-1 tvg-name="cawd-343天音" tvg-logo="https://live.fanmingming.cn/tv/cawd-343天音.png",cawd-343天音
+#EXTINF:-1 ,cawd-343天音
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/1b6d1568/index.m3u8
-#EXTINF:-1 tvg-name="cawd-344日向" tvg-logo="https://live.fanmingming.cn/tv/cawd-344日向.png",cawd-344日向
+#EXTINF:-1 ,cawd-344日向
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/cec629b6/index.m3u8
-#EXTINF:-1 tvg-name="cawd-345栗宫" tvg-logo="https://live.fanmingming.cn/tv/cawd-345栗宫.png",cawd-345栗宫
+#EXTINF:-1 ,cawd-345栗宫
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/39543033/index.m3u8
-#EXTINF:-1 tvg-name="chn-186結城" tvg-logo="https://live.fanmingming.cn/tv/chn-186結城.png",chn-186結城
+#EXTINF:-1 ,chn-186結城
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/afd1cf53/index.m3u8
-#EXTINF:-1 tvg-name="cjod-238奏音花音" tvg-logo="https://live.fanmingming.cn/tv/cjod-238奏音花音.png",cjod-238奏音花音
+#EXTINF:-1 ,cjod-238奏音花音
 https://videomy.yongaomy.com/20211007/R4AHRbjR/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="cjod-312大槻" tvg-logo="https://live.fanmingming.cn/tv/cjod-312大槻.png",cjod-312大槻
+#EXTINF:-1 ,cjod-312大槻
 https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/d7e5683b/index.m3u8
-#EXTINF:-1 tvg-name="cjod-314大槻" tvg-logo="https://live.fanmingming.cn/tv/cjod-314大槻.png",cjod-314大槻
+#EXTINF:-1 ,cjod-314大槻
 https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/55140a5f/index.m3u8
-#EXTINF:-1 tvg-name="cjod-327永瀬松本" tvg-logo="https://live.fanmingming.cn/tv/cjod-327永瀬松本.png",cjod-327永瀬松本
+#EXTINF:-1 ,cjod-327永瀬松本
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/203c34eb/index.m3u8
-#EXTINF:-1 tvg-name="cjod-337北野未来" tvg-logo="https://live.fanmingming.cn/tv/cjod-337北野未来.png",cjod-337北野未来
+#EXTINF:-1 ,cjod-337北野未来
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/62ba7305/index.m3u8
-#EXTINF:-1 tvg-name="DASD-675深田咏美" tvg-logo="https://live.fanmingming.cn/tv/DASD-675深田咏美.png",DASD-675深田咏美
+#EXTINF:-1 ,DASD-675深田咏美
 https://videomy.yongaomy.com/20211028/ebxtDsUR/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="dasd-931伊东" tvg-logo="https://live.fanmingming.cn/tv/dasd-931伊东.png",dasd-931伊东
+#EXTINF:-1 ,dasd-931伊东
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/cea11684/index.m3u8
-#EXTINF:-1 tvg-name="dasd-934" tvg-logo="https://live.fanmingming.cn/tv/dasd-934.png",dasd-934
+#EXTINF:-1 ,dasd-934
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/b59336bb/index.m3u8
-#EXTINF:-1 tvg-name="dasd-951北野未奈" tvg-logo="https://live.fanmingming.cn/tv/dasd-951北野未奈.png",dasd-951北野未奈
+#EXTINF:-1 ,dasd-951北野未奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/e97e9cf7/index.m3u8
-#EXTINF:-1 tvg-name="dasd-955浜崎真绪 有村" tvg-logo="https://live.fanmingming.cn/tv/dasd-955浜崎真绪 有村.png",dasd-955浜崎真绪 有村
+#EXTINF:-1 ,dasd-955浜崎真绪 有村
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/21/72323988/index.m3u8
-#EXTINF:-1 tvg-name="dasd-978美谷朱里" tvg-logo="https://live.fanmingming.cn/tv/dasd-978美谷朱里.png",dasd-978美谷朱里
+#EXTINF:-1 ,dasd-978美谷朱里
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/06a24283/index.m3u8
-#EXTINF:-1 tvg-name="dfdm-021藤森里穂" tvg-logo="https://live.fanmingming.cn/tv/dfdm-021藤森里穂.png",dfdm-021藤森里穂
+#EXTINF:-1 ,dfdm-021藤森里穂
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/05/9f33f80b/index.m3u8
-#EXTINF:-1 tvg-name="dfe-057宇佐美玲奈" tvg-logo="https://live.fanmingming.cn/tv/dfe-057宇佐美玲奈.png",dfe-057宇佐美玲奈
+#EXTINF:-1 ,dfe-057宇佐美玲奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/0b9759b4/index.m3u8
-#EXTINF:-1 tvg-name="dldss-011友田彩也香" tvg-logo="https://live.fanmingming.cn/tv/dldss-011友田彩也香.png",dldss-011友田彩也香
+#EXTINF:-1 ,dldss-011友田彩也香
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/29/aaf701b8/index.m3u8
-#EXTINF:-1 tvg-name="dldss-022友田彩也香" tvg-logo="https://live.fanmingming.cn/tv/dldss-022友田彩也香.png",dldss-022友田彩也香
+#EXTINF:-1 ,dldss-022友田彩也香
 https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/08e6fd70/index.m3u8
-#EXTINF:-1 tvg-name="dldss-027友田彩也香" tvg-logo="https://live.fanmingming.cn/tv/dldss-027友田彩也香.png",dldss-027友田彩也香
+#EXTINF:-1 ,dldss-027友田彩也香
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/1979e014/index.m3u8
-#EXTINF:-1 tvg-name="dldss-029七海" tvg-logo="https://live.fanmingming.cn/tv/dldss-029七海.png",dldss-029七海
+#EXTINF:-1 ,dldss-029七海
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/3bd04243/index.m3u8
-#EXTINF:-1 tvg-name="dldss-032友田彩也香" tvg-logo="https://live.fanmingming.cn/tv/dldss-032友田彩也香.png",dldss-032友田彩也香
+#EXTINF:-1 ,dldss-032友田彩也香
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/19/0ce62846/index.m3u8
-#EXTINF:-1 tvg-name="dldss-040美乃" tvg-logo="https://live.fanmingming.cn/tv/dldss-040美乃.png",dldss-040美乃
+#EXTINF:-1 ,dldss-040美乃
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/2919cb1f/index.m3u8
-#EXTINF:-1 tvg-name="dldss-042友田彩也香" tvg-logo="https://live.fanmingming.cn/tv/dldss-042友田彩也香.png",dldss-042友田彩也香
+#EXTINF:-1 ,dldss-042友田彩也香
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/28ae6486/index.m3u8
-#EXTINF:-1 tvg-name="dv-1501爱咲" tvg-logo="https://live.fanmingming.cn/tv/dv-1501爱咲.png",dv-1501爱咲
+#EXTINF:-1 ,dv-1501爱咲
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/21/fbbaa8ac/index.m3u8
-#EXTINF:-1 tvg-name="dvaj-527川上奈々美" tvg-logo="https://live.fanmingming.cn/tv/dvaj-527川上奈々美.png",dvaj-527川上奈々美
+#EXTINF:-1 ,dvaj-527川上奈々美
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/4a4afef9/index.m3u8
-#EXTINF:-1 tvg-name="dvaj-533" tvg-logo="https://live.fanmingming.cn/tv/dvaj-533.png",dvaj-533
+#EXTINF:-1 ,dvaj-533
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/21/0708c67b/index.m3u8
-#EXTINF:-1 tvg-name="ebod-829北野未奈" tvg-logo="https://live.fanmingming.cn/tv/ebod-829北野未奈.png",ebod-829北野未奈
+#EXTINF:-1 ,ebod-829北野未奈
 https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
-#EXTINF:-1 tvg-name="ebod-888美容部员" tvg-logo="https://live.fanmingming.cn/tv/ebod-888美容部员.png",ebod-888美容部员
+#EXTINF:-1 ,ebod-888美容部员
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/f0a24d35/index.m3u8
-#EXTINF:-1 tvg-name="ekw-072木下" tvg-logo="https://live.fanmingming.cn/tv/ekw-072木下.png",ekw-072木下
+#EXTINF:-1 ,ekw-072木下
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/9e669cda/index.m3u8
-#EXTINF:-1 tvg-name="focs-029姫川" tvg-logo="https://live.fanmingming.cn/tv/focs-029姫川.png",focs-029姫川
+#EXTINF:-1 ,focs-029姫川
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/87f58fb2/index.m3u8
-#EXTINF:-1 tvg-name="focs-058水卜麻衣奈" tvg-logo="https://live.fanmingming.cn/tv/focs-058水卜麻衣奈.png",focs-058水卜麻衣奈
+#EXTINF:-1 ,focs-058水卜麻衣奈
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/22/aa654c71/index.m3u8
-#EXTINF:-1 tvg-name="frin-052超级苗条" tvg-logo="https://live.fanmingming.cn/tv/frin-052超级苗条.png",frin-052超级苗条
+#EXTINF:-1 ,frin-052超级苗条
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/fbefd00e/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-039美乃" tvg-logo="https://live.fanmingming.cn/tv/fsdss-039美乃.png",fsdss-039美乃
+#EXTINF:-1 ,fsdss-039美乃
 https://siwazywcdn2.com:5278/zhongwenzimu/30HRcubp/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-070吉高宁々" tvg-logo="https://live.fanmingming.cn/tv/fsdss-070吉高宁々.png",fsdss-070吉高宁々
+#EXTINF:-1 ,fsdss-070吉高宁々
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/22/3073de3b/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-206沙月恵奈" tvg-logo="https://live.fanmingming.cn/tv/fsdss-206沙月恵奈.png",fsdss-206沙月恵奈
+#EXTINF:-1 ,fsdss-206沙月恵奈
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/2146f0fb/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-262沙月恵奈" tvg-logo="https://live.fanmingming.cn/tv/fsdss-262沙月恵奈.png",fsdss-262沙月恵奈
+#EXTINF:-1 ,fsdss-262沙月恵奈
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/f1cc4f54/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-268天使" tvg-logo="https://live.fanmingming.cn/tv/fsdss-268天使.png",fsdss-268天使
+#EXTINF:-1 ,fsdss-268天使
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/05/01ec6b81/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-271永瀬" tvg-logo="https://live.fanmingming.cn/tv/fsdss-271永瀬.png",fsdss-271永瀬
+#EXTINF:-1 ,fsdss-271永瀬
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/05/d4495567/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-274橋本" tvg-logo="https://live.fanmingming.cn/tv/fsdss-274橋本.png",fsdss-274橋本
+#EXTINF:-1 ,fsdss-274橋本
 https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/fd876ab1/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-283天使" tvg-logo="https://live.fanmingming.cn/tv/fsdss-283天使.png",fsdss-283天使
+#EXTINF:-1 ,fsdss-283天使
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/05/7742e457/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-285吉岡" tvg-logo="https://live.fanmingming.cn/tv/fsdss-285吉岡.png",fsdss-285吉岡
+#EXTINF:-1 ,fsdss-285吉岡
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/e76b7dbe/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-286永瀬" tvg-logo="https://live.fanmingming.cn/tv/fsdss-286永瀬.png",fsdss-286永瀬
+#EXTINF:-1 ,fsdss-286永瀬
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/56fdf740/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-288夏木" tvg-logo="https://live.fanmingming.cn/tv/fsdss-288夏木.png",fsdss-288夏木
+#EXTINF:-1 ,fsdss-288夏木
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/54754c96/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-289橋本" tvg-logo="https://live.fanmingming.cn/tv/fsdss-289橋本.png",fsdss-289橋本
+#EXTINF:-1 ,fsdss-289橋本
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/b1767940/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-290吉高宁々" tvg-logo="https://live.fanmingming.cn/tv/fsdss-290吉高宁々.png",fsdss-290吉高宁々
+#EXTINF:-1 ,fsdss-290吉高宁々
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/d4d2f5b6/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-291二阶堂梦" tvg-logo="https://live.fanmingming.cn/tv/fsdss-291二阶堂梦.png",fsdss-291二阶堂梦
+#EXTINF:-1 ,fsdss-291二阶堂梦
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/d9a7085a/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-292沙月恵奈" tvg-logo="https://live.fanmingming.cn/tv/fsdss-292沙月恵奈.png",fsdss-292沙月恵奈
+#EXTINF:-1 ,fsdss-292沙月恵奈
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/82cd402b/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-298天使" tvg-logo="https://live.fanmingming.cn/tv/fsdss-298天使.png",fsdss-298天使
+#EXTINF:-1 ,fsdss-298天使
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/953819d7/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-304橋本" tvg-logo="https://live.fanmingming.cn/tv/fsdss-304橋本.png",fsdss-304橋本
+#EXTINF:-1 ,fsdss-304橋本
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/968b716e/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-305吉高宁々" tvg-logo="https://live.fanmingming.cn/tv/fsdss-305吉高宁々.png",fsdss-305吉高宁々
+#EXTINF:-1 ,fsdss-305吉高宁々
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/f5e9393f/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-306二阶堂梦" tvg-logo="https://live.fanmingming.cn/tv/fsdss-306二阶堂梦.png",fsdss-306二阶堂梦
+#EXTINF:-1 ,fsdss-306二阶堂梦
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/7a348dd0/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-310" tvg-logo="https://live.fanmingming.cn/tv/fsdss-310.png",fsdss-310
+#EXTINF:-1 ,fsdss-310
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/1bc938e4/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-331吉岡" tvg-logo="https://live.fanmingming.cn/tv/fsdss-331吉岡.png",fsdss-331吉岡
+#EXTINF:-1 ,fsdss-331吉岡
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/e4952e56/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-336吉高宁々" tvg-logo="https://live.fanmingming.cn/tv/fsdss-336吉高宁々.png",fsdss-336吉高宁々
+#EXTINF:-1 ,fsdss-336吉高宁々
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/43e3536d/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-341桃尻" tvg-logo="https://live.fanmingming.cn/tv/fsdss-341桃尻.png",fsdss-341桃尻
+#EXTINF:-1 ,fsdss-341桃尻
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/d271228d/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-346天使" tvg-logo="https://live.fanmingming.cn/tv/fsdss-346天使.png",fsdss-346天使
+#EXTINF:-1 ,fsdss-346天使
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/90295486/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-348永瀬" tvg-logo="https://live.fanmingming.cn/tv/fsdss-348永瀬.png",fsdss-348永瀬
+#EXTINF:-1 ,fsdss-348永瀬
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/a3268549/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-373天使" tvg-logo="https://live.fanmingming.cn/tv/fsdss-373天使.png",fsdss-373天使
+#EXTINF:-1 ,fsdss-373天使
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/8c9db0f8/index.m3u8
-#EXTINF:-1 tvg-name="fsdss-376桥本" tvg-logo="https://live.fanmingming.cn/tv/fsdss-376桥本.png",fsdss-376桥本
+#EXTINF:-1 ,fsdss-376桥本
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/c3777d68/index.m3u8
-#EXTINF:-1 tvg-name="gg-264神波多一花" tvg-logo="https://live.fanmingming.cn/tv/gg-264神波多一花.png",gg-264神波多一花
+#EXTINF:-1 ,gg-264神波多一花
 https://t11.cdn2020.com:12336/video/m3u8/2021/08/31/bc46681e/index.m3u8
-#EXTINF:-1 tvg-name="gvg-157逢沢" tvg-logo="https://live.fanmingming.cn/tv/gvg-157逢沢.png",gvg-157逢沢
+#EXTINF:-1 ,gvg-157逢沢
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/284266a6/index.m3u8
-#EXTINF:-1 tvg-name="gvg-676波多野结衣" tvg-logo="https://live.fanmingming.cn/tv/gvg-676波多野结衣.png",gvg-676波多野结衣
+#EXTINF:-1 ,gvg-676波多野结衣
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/5920248d/index.m3u8
-#EXTINF:-1 tvg-name="gvg-809绀野" tvg-logo="https://live.fanmingming.cn/tv/gvg-809绀野.png",gvg-809绀野
+#EXTINF:-1 ,gvg-809绀野
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/96effcf0/index.m3u8
-#EXTINF:-1 tvg-name="gvh-286辻" tvg-logo="https://live.fanmingming.cn/tv/gvh-286辻.png",gvh-286辻
+#EXTINF:-1 ,gvh-286辻
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/e11ddbbb/index.m3u8
-#EXTINF:-1 tvg-name="havd-554川上水沢" tvg-logo="https://live.fanmingming.cn/tv/havd-554川上水沢.png",havd-554川上水沢
+#EXTINF:-1 ,havd-554川上水沢
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/4a6ce325/index.m3u8
-#EXTINF:-1 tvg-name="havd-778栗林里莉" tvg-logo="https://live.fanmingming.cn/tv/havd-778栗林里莉.png",havd-778栗林里莉
+#EXTINF:-1 ,havd-778栗林里莉
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/9fa6df91/index.m3u8
-#EXTINF:-1 tvg-name="havd-781早乙女" tvg-logo="https://live.fanmingming.cn/tv/havd-781早乙女.png",havd-781早乙女
+#EXTINF:-1 ,havd-781早乙女
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/404aa8f0/index.m3u8
-#EXTINF:-1 tvg-name="havd-802管野" tvg-logo="https://live.fanmingming.cn/tv/havd-802管野.png",havd-802管野
+#EXTINF:-1 ,havd-802管野
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/241e4558/index.m3u8
-#EXTINF:-1 tvg-name="havd-816和希" tvg-logo="https://live.fanmingming.cn/tv/havd-816和希.png",havd-816和希
+#EXTINF:-1 ,havd-816和希
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/1883b6a0/index.m3u8
-#EXTINF:-1 tvg-name="hbad-148西野" tvg-logo="https://live.fanmingming.cn/tv/hbad-148西野.png",hbad-148西野
+#EXTINF:-1 ,hbad-148西野
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/535a2f48/index.m3u8
-#EXTINF:-1 tvg-name="heyzo0705杏奈" tvg-logo="https://live.fanmingming.cn/tv/heyzo0705杏奈.png",heyzo0705杏奈
+#EXTINF:-1 ,heyzo0705杏奈
 https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
-#EXTINF:-1 tvg-name="heyzo1199希笑" tvg-logo="https://live.fanmingming.cn/tv/heyzo1199希笑.png",heyzo1199希笑
+#EXTINF:-1 ,heyzo1199希笑
 https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
-#EXTINF:-1 tvg-name="heyzo1243水谷" tvg-logo="https://live.fanmingming.cn/tv/heyzo1243水谷.png",heyzo1243水谷
+#EXTINF:-1 ,heyzo1243水谷
 https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
-#EXTINF:-1 tvg-name="heyzo1262西川" tvg-logo="https://live.fanmingming.cn/tv/heyzo1262西川.png",heyzo1262西川
+#EXTINF:-1 ,heyzo1262西川
 https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
-#EXTINF:-1 tvg-name="heyzo1275水谷" tvg-logo="https://live.fanmingming.cn/tv/heyzo1275水谷.png",heyzo1275水谷
+#EXTINF:-1 ,heyzo1275水谷
 https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
-#EXTINF:-1 tvg-name="heyzo1395姬川" tvg-logo="https://live.fanmingming.cn/tv/heyzo1395姬川.png",heyzo1395姬川
+#EXTINF:-1 ,heyzo1395姬川
 https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
-#EXTINF:-1 tvg-name="heyzo1478丘笑" tvg-logo="https://live.fanmingming.cn/tv/heyzo1478丘笑.png",heyzo1478丘笑
+#EXTINF:-1 ,heyzo1478丘笑
 https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
-#EXTINF:-1 tvg-name="heyzo1544姬川" tvg-logo="https://live.fanmingming.cn/tv/heyzo1544姬川.png",heyzo1544姬川
+#EXTINF:-1 ,heyzo1544姬川
 https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
-#EXTINF:-1 tvg-name="heyzo1570神田" tvg-logo="https://live.fanmingming.cn/tv/heyzo1570神田.png",heyzo1570神田
+#EXTINF:-1 ,heyzo1570神田
 https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
-#EXTINF:-1 tvg-name="heyzo1590神田" tvg-logo="https://live.fanmingming.cn/tv/heyzo1590神田.png",heyzo1590神田
+#EXTINF:-1 ,heyzo1590神田
 https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
-#EXTINF:-1 tvg-name="heyzo1601北川" tvg-logo="https://live.fanmingming.cn/tv/heyzo1601北川.png",heyzo1601北川
+#EXTINF:-1 ,heyzo1601北川
 https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
-#EXTINF:-1 tvg-name="heyzo1638姬川" tvg-logo="https://live.fanmingming.cn/tv/heyzo1638姬川.png",heyzo1638姬川
+#EXTINF:-1 ,heyzo1638姬川
 https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
-#EXTINF:-1 tvg-name="heyzo1691神田" tvg-logo="https://live.fanmingming.cn/tv/heyzo1691神田.png",heyzo1691神田
+#EXTINF:-1 ,heyzo1691神田
 https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
-#EXTINF:-1 tvg-name="heyzo1722杏奈" tvg-logo="https://live.fanmingming.cn/tv/heyzo1722杏奈.png",heyzo1722杏奈
+#EXTINF:-1 ,heyzo1722杏奈
 https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
-#EXTINF:-1 tvg-name="heyzo1786杏奈" tvg-logo="https://live.fanmingming.cn/tv/heyzo1786杏奈.png",heyzo1786杏奈
+#EXTINF:-1 ,heyzo1786杏奈
 https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
-#EXTINF:-1 tvg-name="hmn-093初川" tvg-logo="https://live.fanmingming.cn/tv/hmn-093初川.png",hmn-093初川
+#EXTINF:-1 ,hmn-093初川
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/4cd75094/index.m3u8
-#EXTINF:-1 tvg-name="hmn-099天然美月" tvg-logo="https://live.fanmingming.cn/tv/hmn-099天然美月.png",hmn-099天然美月
+#EXTINF:-1 ,hmn-099天然美月
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/06/5b9aeb9c/index.m3u8
-#EXTINF:-1 tvg-name="hmn-136北野未奈" tvg-logo="https://live.fanmingming.cn/tv/hmn-136北野未奈.png",hmn-136北野未奈
+#EXTINF:-1 ,hmn-136北野未奈
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/21/f06783f4/index.m3u8
-#EXTINF:-1 tvg-name="hmn-141-アンナ" tvg-logo="https://live.fanmingming.cn/tv/hmn-141-アンナ.png",hmn-141-アンナ
+#EXTINF:-1 ,hmn-141-アンナ
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/052b9624/index.m3u8
-#EXTINF:-1 tvg-name="hnd-205上原亚衣" tvg-logo="https://live.fanmingming.cn/tv/hnd-205上原亚衣.png",hnd-205上原亚衣
+#EXTINF:-1 ,hnd-205上原亚衣
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/0b7bda51/index.m3u8
-#EXTINF:-1 tvg-name="hnd-277板野" tvg-logo="https://live.fanmingming.cn/tv/hnd-277板野.png",hnd-277板野
+#EXTINF:-1 ,hnd-277板野
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/01596a03/index.m3u8
-#EXTINF:-1 tvg-name="hnd-842奏音花音" tvg-logo="https://live.fanmingming.cn/tv/hnd-842奏音花音.png",hnd-842奏音花音
+#EXTINF:-1 ,hnd-842奏音花音
 https://videomy.yongaomy.com/20211009/MZnz3FCC/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="hodv-21630百永" tvg-logo="https://live.fanmingming.cn/tv/hodv-21630百永.png",hodv-21630百永
+#EXTINF:-1 ,hodv-21630百永
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/01/534f9a22/index.m3u8
-#EXTINF:-1 tvg-name="ienf-183沙月恵奈" tvg-logo="https://live.fanmingming.cn/tv/ienf-183沙月恵奈.png",ienf-183沙月恵奈
+#EXTINF:-1 ,ienf-183沙月恵奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/20/cedc6150/index.m3u8
-#EXTINF:-1 tvg-name="ipx-511" tvg-logo="https://live.fanmingming.cn/tv/ipx-511.png",ipx-511
+#EXTINF:-1 ,ipx-511
 https://siwazywcdn2.com:5278/ribenyouma/NkRh5zW8/index.m3u8
-#EXTINF:-1 tvg-name="ipx-628桜空" tvg-logo="https://live.fanmingming.cn/tv/ipx-628桜空.png",ipx-628桜空
+#EXTINF:-1 ,ipx-628桜空
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/12/ff56a768/index.m3u8
-#EXTINF:-1 tvg-name="ipx-632岬" tvg-logo="https://live.fanmingming.cn/tv/ipx-632岬.png",ipx-632岬
+#EXTINF:-1 ,ipx-632岬
 https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/b7f4dd73/index.m3u8
-#EXTINF:-1 tvg-name="ipx-697相沢" tvg-logo="https://live.fanmingming.cn/tv/ipx-697相沢.png",ipx-697相沢
+#EXTINF:-1 ,ipx-697相沢
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/089e730f/index.m3u8
-#EXTINF:-1 tvg-name="ipx-717" tvg-logo="https://live.fanmingming.cn/tv/ipx-717.png",ipx-717
+#EXTINF:-1 ,ipx-717
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/a6dc2f16/index.m3u8
-#EXTINF:-1 tvg-name="ipx-719" tvg-logo="https://live.fanmingming.cn/tv/ipx-719.png",ipx-719
+#EXTINF:-1 ,ipx-719
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/b7f78c3a/index.m3u8
-#EXTINF:-1 tvg-name="ipx-720栗山莉緒" tvg-logo="https://live.fanmingming.cn/tv/ipx-720栗山莉緒.png",ipx-720栗山莉緒
+#EXTINF:-1 ,ipx-720栗山莉緒
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/d210a3e4/index.m3u8
-#EXTINF:-1 tvg-name="ipx-725桜空" tvg-logo="https://live.fanmingming.cn/tv/ipx-725桜空.png",ipx-725桜空
+#EXTINF:-1 ,ipx-725桜空
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/0925f200/index.m3u8
-#EXTINF:-1 tvg-name="ipx-728西宫" tvg-logo="https://live.fanmingming.cn/tv/ipx-728西宫.png",ipx-728西宫
+#EXTINF:-1 ,ipx-728西宫
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/5186de75/index.m3u8
-#EXTINF:-1 tvg-name="ipx-729岬" tvg-logo="https://live.fanmingming.cn/tv/ipx-729岬.png",ipx-729岬
+#EXTINF:-1 ,ipx-729岬
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/3979fa25/index.m3u8
-#EXTINF:-1 tvg-name="ipx-732相沢" tvg-logo="https://live.fanmingming.cn/tv/ipx-732相沢.png",ipx-732相沢
+#EXTINF:-1 ,ipx-732相沢
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/af8f9039/index.m3u8
-#EXTINF:-1 tvg-name="ipx-733初川" tvg-logo="https://live.fanmingming.cn/tv/ipx-733初川.png",ipx-733初川
+#EXTINF:-1 ,ipx-733初川
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/76dbf65a/index.m3u8
-#EXTINF:-1 tvg-name="ipx-735小野琴弓" tvg-logo="https://live.fanmingming.cn/tv/ipx-735小野琴弓.png",ipx-735小野琴弓
+#EXTINF:-1 ,ipx-735小野琴弓
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/3fa04bf3/index.m3u8
-#EXTINF:-1 tvg-name="ipx-737藤井" tvg-logo="https://live.fanmingming.cn/tv/ipx-737藤井.png",ipx-737藤井
+#EXTINF:-1 ,ipx-737藤井
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/4e2943bc/index.m3u8
-#EXTINF:-1 tvg-name="ipx-738栗山莉緒" tvg-logo="https://live.fanmingming.cn/tv/ipx-738栗山莉緒.png",ipx-738栗山莉緒
+#EXTINF:-1 ,ipx-738栗山莉緒
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/f8e07f66/index.m3u8
-#EXTINF:-1 tvg-name="ipx-739二叶" tvg-logo="https://live.fanmingming.cn/tv/ipx-739二叶.png",ipx-739二叶
+#EXTINF:-1 ,ipx-739二叶
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/44c6b023/index.m3u8
-#EXTINF:-1 tvg-name="ipx-744桃乃木" tvg-logo="https://live.fanmingming.cn/tv/ipx-744桃乃木.png",ipx-744桃乃木
+#EXTINF:-1 ,ipx-744桃乃木
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/1715bd0a/index.m3u8
-#EXTINF:-1 tvg-name="ipx-745天海" tvg-logo="https://live.fanmingming.cn/tv/ipx-745天海.png",ipx-745天海
+#EXTINF:-1 ,ipx-745天海
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/c17d8dbf/index.m3u8
-#EXTINF:-1 tvg-name="ipx-746西宫" tvg-logo="https://live.fanmingming.cn/tv/ipx-746西宫.png",ipx-746西宫
+#EXTINF:-1 ,ipx-746西宫
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/04c0c9d7/index.m3u8
-#EXTINF:-1 tvg-name="ipx-747岬" tvg-logo="https://live.fanmingming.cn/tv/ipx-747岬.png",ipx-747岬
+#EXTINF:-1 ,ipx-747岬
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/e03ca65c/index.m3u8
-#EXTINF:-1 tvg-name="ipx-749希岛" tvg-logo="https://live.fanmingming.cn/tv/ipx-749希岛.png",ipx-749希岛
+#EXTINF:-1 ,ipx-749希岛
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/2ee91922/index.m3u8
-#EXTINF:-1 tvg-name="ipx-750宠爱" tvg-logo="https://live.fanmingming.cn/tv/ipx-750宠爱.png",ipx-750宠爱
+#EXTINF:-1 ,ipx-750宠爱
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/21/e2fe3dc2/index.m3u8
-#EXTINF:-1 tvg-name="ipx-753白峰" tvg-logo="https://live.fanmingming.cn/tv/ipx-753白峰.png",ipx-753白峰
+#EXTINF:-1 ,ipx-753白峰
 https://siwazywcdn2.com:5278/zhongwenzimu/uzsUN2HX/index.m3u8
-#EXTINF:-1 tvg-name="ipx-762西宫" tvg-logo="https://live.fanmingming.cn/tv/ipx-762西宫.png",ipx-762西宫
+#EXTINF:-1 ,ipx-762西宫
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/9426795d/index.m3u8
-#EXTINF:-1 tvg-name="ipx-778桃乃木" tvg-logo="https://live.fanmingming.cn/tv/ipx-778桃乃木.png",ipx-778桃乃木
+#EXTINF:-1 ,ipx-778桃乃木
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/11/0685df9f/index.m3u8
-#EXTINF:-1 tvg-name="ipx-788乃雪" tvg-logo="https://live.fanmingming.cn/tv/ipx-788乃雪.png",ipx-788乃雪
+#EXTINF:-1 ,ipx-788乃雪
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/3bd7bb75/index.m3u8
-#EXTINF:-1 tvg-name="ipx-790藤井" tvg-logo="https://live.fanmingming.cn/tv/ipx-790藤井.png",ipx-790藤井
+#EXTINF:-1 ,ipx-790藤井
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/0f7aa3ea/index.m3u8
-#EXTINF:-1 tvg-name="ipx-793加杏奈" tvg-logo="https://live.fanmingming.cn/tv/ipx-793加杏奈.png",ipx-793加杏奈
+#EXTINF:-1 ,ipx-793加杏奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/0db9891e/index.m3u8
-#EXTINF:-1 tvg-name="ipx-796天海" tvg-logo="https://live.fanmingming.cn/tv/ipx-796天海.png",ipx-796天海
+#EXTINF:-1 ,ipx-796天海
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/de528a09/index.m3u8
-#EXTINF:-1 tvg-name="ipx-797西宫" tvg-logo="https://live.fanmingming.cn/tv/ipx-797西宫.png",ipx-797西宫
+#EXTINF:-1 ,ipx-797西宫
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/ffec0fe1/index.m3u8
-#EXTINF:-1 tvg-name="ipx-800希岛" tvg-logo="https://live.fanmingming.cn/tv/ipx-800希岛.png",ipx-800希岛
+#EXTINF:-1 ,ipx-800希岛
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/9af0b1bb/index.m3u8
-#EXTINF:-1 tvg-name="ipx-801相沢" tvg-logo="https://live.fanmingming.cn/tv/ipx-801相沢.png",ipx-801相沢
+#EXTINF:-1 ,ipx-801相沢
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/8ab23c46/index.m3u8
-#EXTINF:-1 tvg-name="ipx-802稲森美忧" tvg-logo="https://live.fanmingming.cn/tv/ipx-802稲森美忧.png",ipx-802稲森美忧
+#EXTINF:-1 ,ipx-802稲森美忧
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/16/dee6f0d1/index.m3u8
-#EXTINF:-1 tvg-name="ipx-824宫西" tvg-logo="https://live.fanmingming.cn/tv/ipx-824宫西.png",ipx-824宫西
+#EXTINF:-1 ,ipx-824宫西
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/8129c2ad/index.m3u8
-#EXTINF:-1 tvg-name="ipx-827藤井" tvg-logo="https://live.fanmingming.cn/tv/ipx-827藤井.png",ipx-827藤井
+#EXTINF:-1 ,ipx-827藤井
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/27f8ce12/index.m3u8
-#EXTINF:-1 tvg-name="ipx-828二叶" tvg-logo="https://live.fanmingming.cn/tv/ipx-828二叶.png",ipx-828二叶
+#EXTINF:-1 ,ipx-828二叶
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/0f61d39c/index.m3u8
-#EXTINF:-1 tvg-name="ipx-830加杏奈" tvg-logo="https://live.fanmingming.cn/tv/ipx-830加杏奈.png",ipx-830加杏奈
+#EXTINF:-1 ,ipx-830加杏奈
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/4743f084/index.m3u8
-#EXTINF:-1 tvg-name="ipx-831枫" tvg-logo="https://live.fanmingming.cn/tv/ipx-831枫.png",ipx-831枫
+#EXTINF:-1 ,ipx-831枫
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/fd3b071c/index.m3u8
-#EXTINF:-1 tvg-name="ipx-832桜空" tvg-logo="https://live.fanmingming.cn/tv/ipx-832桜空.png",ipx-832桜空
+#EXTINF:-1 ,ipx-832桜空
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/f96d5171/index.m3u8
-#EXTINF:-1 tvg-name="ipx-833桃乃木" tvg-logo="https://live.fanmingming.cn/tv/ipx-833桃乃木.png",ipx-833桃乃木
+#EXTINF:-1 ,ipx-833桃乃木
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/7629cfa5/index.m3u8
-#EXTINF:-1 tvg-name="ipx-835西宫" tvg-logo="https://live.fanmingming.cn/tv/ipx-835西宫.png",ipx-835西宫
+#EXTINF:-1 ,ipx-835西宫
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/86968c96/index.m3u8
-#EXTINF:-1 tvg-name="ipx-838相沢" tvg-logo="https://live.fanmingming.cn/tv/ipx-838相沢.png",ipx-838相沢
+#EXTINF:-1 ,ipx-838相沢
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/e79e81cc/index.m3u8
-#EXTINF:-1 tvg-name="ipx-840稲森美忧" tvg-logo="https://live.fanmingming.cn/tv/ipx-840稲森美忧.png",ipx-840稲森美忧
+#EXTINF:-1 ,ipx-840稲森美忧
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/80854a3e/index.m3u8
-#EXTINF:-1 tvg-name="jufd-549中村知恵" tvg-logo="https://live.fanmingming.cn/tv/jufd-549中村知恵.png",jufd-549中村知恵
+#EXTINF:-1 ,jufd-549中村知恵
 https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/c0818937/index.m3u8
-#EXTINF:-1 tvg-name="jufd-559中村知恵" tvg-logo="https://live.fanmingming.cn/tv/jufd-559中村知恵.png",jufd-559中村知恵
+#EXTINF:-1 ,jufd-559中村知恵
 https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/accc82fc/index.m3u8
-#EXTINF:-1 tvg-name="jufd-619中村知恵" tvg-logo="https://live.fanmingming.cn/tv/jufd-619中村知恵.png",jufd-619中村知恵
+#EXTINF:-1 ,jufd-619中村知恵
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/506a54ce/index.m3u8
-#EXTINF:-1 tvg-name="jufd-717村泽" tvg-logo="https://live.fanmingming.cn/tv/jufd-717村泽.png",jufd-717村泽
+#EXTINF:-1 ,jufd-717村泽
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/0493761c/index.m3u8
-#EXTINF:-1 tvg-name="jufd-830中村知恵" tvg-logo="https://live.fanmingming.cn/tv/jufd-830中村知恵.png",jufd-830中村知恵
+#EXTINF:-1 ,jufd-830中村知恵
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/13/c0f7052b/index.m3u8
-#EXTINF:-1 tvg-name="jufd-874中村知恵" tvg-logo="https://live.fanmingming.cn/tv/jufd-874中村知恵.png",jufd-874中村知恵
+#EXTINF:-1 ,jufd-874中村知恵
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/17/3004ce2d/index.m3u8
-#EXTINF:-1 tvg-name="jufe-067星奈柏木" tvg-logo="https://live.fanmingming.cn/tv/jufe-067星奈柏木.png",jufe-067星奈柏木
+#EXTINF:-1 ,jufe-067星奈柏木
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/13/42528843/index.m3u8
-#EXTINF:-1 tvg-name="JUFE-104" tvg-logo="https://live.fanmingming.cn/tv/JUFE-104.png",JUFE-104
+#EXTINF:-1 ,JUFE-104
 https://siwazywcdn2.com:5278/zhongwenzimu/4TrvxJeg/index.m3u8
-#EXTINF:-1 tvg-name="JUFE-104" tvg-logo="https://live.fanmingming.cn/tv/JUFE-104.png",JUFE-104
+#EXTINF:-1 ,JUFE-104
 https://siwazywcdn2.com:5278//zhongwenzimu/4TrvxJeg/index.m3u8
-#EXTINF:-1 tvg-name="JUFE-317" tvg-logo="https://live.fanmingming.cn/tv/JUFE-317.png",JUFE-317
+#EXTINF:-1 ,JUFE-317
 https://siwazywcdn2.com:5278/zhongwenzimu/jO6fu8ZG/index.m3u8
-#EXTINF:-1 tvg-name="JUFE-344" tvg-logo="https://live.fanmingming.cn/tv/JUFE-344.png",JUFE-344
+#EXTINF:-1 ,JUFE-344
 https://siwazywcdn2.com:5278/zhongwenzimu/J6DxUZXG/index.m3u8
-#EXTINF:-1 tvg-name="jufe-358川北" tvg-logo="https://live.fanmingming.cn/tv/jufe-358川北.png",jufe-358川北
+#EXTINF:-1 ,jufe-358川北
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/09838e16/index.m3u8
-#EXTINF:-1 tvg-name="JUFE-361" tvg-logo="https://live.fanmingming.cn/tv/JUFE-361.png",JUFE-361
+#EXTINF:-1 ,JUFE-361
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/1c033889/index.m3u8
-#EXTINF:-1 tvg-name="jul-705北条麻妃" tvg-logo="https://live.fanmingming.cn/tv/jul-705北条麻妃.png",jul-705北条麻妃
+#EXTINF:-1 ,jul-705北条麻妃
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/2adffa26/index.m3u8
-#EXTINF:-1 tvg-name="jul-706七瀬" tvg-logo="https://live.fanmingming.cn/tv/jul-706七瀬.png",jul-706七瀬
+#EXTINF:-1 ,jul-706七瀬
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/16c55f00/index.m3u8
-#EXTINF:-1 tvg-name="jul-708武藤" tvg-logo="https://live.fanmingming.cn/tv/jul-708武藤.png",jul-708武藤
+#EXTINF:-1 ,jul-708武藤
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/cbcb233a/index.m3u8
-#EXTINF:-1 tvg-name="jul-740沙月恵奈" tvg-logo="https://live.fanmingming.cn/tv/jul-740沙月恵奈.png",jul-740沙月恵奈
+#EXTINF:-1 ,jul-740沙月恵奈
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/65aae748/index.m3u8
-#EXTINF:-1 tvg-name="jul-741武藤" tvg-logo="https://live.fanmingming.cn/tv/jul-741武藤.png",jul-741武藤
+#EXTINF:-1 ,jul-741武藤
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/20/01ffef7d/index.m3u8
-#EXTINF:-1 tvg-name="jul-752白石茉莉奈" tvg-logo="https://live.fanmingming.cn/tv/jul-752白石茉莉奈.png",jul-752白石茉莉奈
+#EXTINF:-1 ,jul-752白石茉莉奈
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/7ecc81c4/index.m3u8
-#EXTINF:-1 tvg-name="jul-802白石茉莉奈" tvg-logo="https://live.fanmingming.cn/tv/jul-802白石茉莉奈.png",jul-802白石茉莉奈
+#EXTINF:-1 ,jul-802白石茉莉奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/f1e3aa7e/index.m3u8
-#EXTINF:-1 tvg-name="jul-803紫月" tvg-logo="https://live.fanmingming.cn/tv/jul-803紫月.png",jul-803紫月
+#EXTINF:-1 ,jul-803紫月
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/1bbd6852/index.m3u8
-#EXTINF:-1 tvg-name="jul-806青田悠华" tvg-logo="https://live.fanmingming.cn/tv/jul-806青田悠华.png",jul-806青田悠华
+#EXTINF:-1 ,jul-806青田悠华
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/557ab934/index.m3u8
-#EXTINF:-1 tvg-name="jul-833藤森里穂" tvg-logo="https://live.fanmingming.cn/tv/jul-833藤森里穂.png",jul-833藤森里穂
+#EXTINF:-1 ,jul-833藤森里穂
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/e0200fdd/index.m3u8
-#EXTINF:-1 tvg-name="jul-888青田悠华" tvg-logo="https://live.fanmingming.cn/tv/jul-888青田悠华.png",jul-888青田悠华
+#EXTINF:-1 ,jul-888青田悠华
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/19/cebd8242/index.m3u8
-#EXTINF:-1 tvg-name="jul-901奥美遥" tvg-logo="https://live.fanmingming.cn/tv/jul-901奥美遥.png",jul-901奥美遥
+#EXTINF:-1 ,jul-901奥美遥
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/5c4dcd87/index.m3u8
-#EXTINF:-1 tvg-name="juy-278中村知恵" tvg-logo="https://live.fanmingming.cn/tv/juy-278中村知恵.png",juy-278中村知恵
+#EXTINF:-1 ,juy-278中村知恵
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/07/2fcd7c82/index.m3u8
-#EXTINF:-1 tvg-name="JUY-385大岛优香" tvg-logo="https://live.fanmingming.cn/tv/JUY-385大岛优香.png",JUY-385大岛优香
+#EXTINF:-1 ,JUY-385大岛优香
 https://video2.51daao.com/btt1/2021/10/20211017/V7WwMk16/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="kawd-426大槻" tvg-logo="https://live.fanmingming.cn/tv/kawd-426大槻.png",kawd-426大槻
+#EXTINF:-1 ,kawd-426大槻
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/02/b610be7c/index.m3u8
-#EXTINF:-1 tvg-name="KING-046" tvg-logo="https://live.fanmingming.cn/tv/KING-046.png",KING-046
+#EXTINF:-1 ,KING-046
 https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/e9ec4df8/index.m3u8
-#EXTINF:-1 tvg-name="kire-051ななせゆめ" tvg-logo="https://live.fanmingming.cn/tv/kire-051ななせゆめ.png",kire-051ななせゆめ
+#EXTINF:-1 ,kire-051ななせゆめ
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/20a1fe9d/index.m3u8
-#EXTINF:-1 tvg-name="KMHRS-055" tvg-logo="https://live.fanmingming.cn/tv/KMHRS-055.png",KMHRS-055
+#EXTINF:-1 ,KMHRS-055
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/07/88323023/index.m3u8
-#EXTINF:-1 tvg-name="KNAM-005奏音花音" tvg-logo="https://live.fanmingming.cn/tv/KNAM-005奏音花音.png",KNAM-005奏音花音
+#EXTINF:-1 ,KNAM-005奏音花音
 https://videomy.yongaomy.com/20211106/5KZCzleX/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="ksbj-184小梅" tvg-logo="https://live.fanmingming.cn/tv/ksbj-184小梅.png",ksbj-184小梅
+#EXTINF:-1 ,ksbj-184小梅
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/05/d6b87fbc/index.m3u8
-#EXTINF:-1 tvg-name="luxu-1446外遇后" tvg-logo="https://live.fanmingming.cn/tv/luxu-1446外遇后.png",luxu-1446外遇后
+#EXTINF:-1 ,luxu-1446外遇后
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/e9f0a286/index.m3u8
-#EXTINF:-1 tvg-name="LUXU-1481" tvg-logo="https://live.fanmingming.cn/tv/LUXU-1481.png",LUXU-1481
+#EXTINF:-1 ,LUXU-1481
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/65c48ab7/index.m3u8
-#EXTINF:-1 tvg-name="LUXU-1483" tvg-logo="https://live.fanmingming.cn/tv/LUXU-1483.png",LUXU-1483
+#EXTINF:-1 ,LUXU-1483
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/9219e270/index.m3u8
-#EXTINF:-1 tvg-name="mdb-725大槻" tvg-logo="https://live.fanmingming.cn/tv/mdb-725大槻.png",mdb-725大槻
+#EXTINF:-1 ,mdb-725大槻
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/18/25d292d3/index.m3u8
-#EXTINF:-1 tvg-name="MDBK-109" tvg-logo="https://live.fanmingming.cn/tv/MDBK-109.png",MDBK-109
+#EXTINF:-1 ,MDBK-109
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/4840cb69/index.m3u8
-#EXTINF:-1 tvg-name="mds-898白川" tvg-logo="https://live.fanmingming.cn/tv/mds-898白川.png",mds-898白川
+#EXTINF:-1 ,mds-898白川
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/9ad88dbe/index.m3u8
-#EXTINF:-1 tvg-name="mdte-020横宫七海" tvg-logo="https://live.fanmingming.cn/tv/mdte-020横宫七海.png",mdte-020横宫七海
+#EXTINF:-1 ,mdte-020横宫七海
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/0d78d5b9/index.m3u8
-#EXTINF:-1 tvg-name="mdtm-562渚" tvg-logo="https://live.fanmingming.cn/tv/mdtm-562渚.png",mdtm-562渚
+#EXTINF:-1 ,mdtm-562渚
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/08/118fed33/index.m3u8
-#EXTINF:-1 tvg-name="mdtm-753相部屋" tvg-logo="https://live.fanmingming.cn/tv/mdtm-753相部屋.png",mdtm-753相部屋
+#EXTINF:-1 ,mdtm-753相部屋
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/4a21555c/index.m3u8
-#EXTINF:-1 tvg-name="MDX-0146沈娜娜" tvg-logo="https://live.fanmingming.cn/tv/MDX-0146沈娜娜.png",MDX-0146沈娜娜
+#EXTINF:-1 ,MDX-0146沈娜娜
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/10/a3b79a43/index.m3u8
-#EXTINF:-1 tvg-name="MDX-0153沈娜娜" tvg-logo="https://live.fanmingming.cn/tv/MDX-0153沈娜娜.png",MDX-0153沈娜娜
+#EXTINF:-1 ,MDX-0153沈娜娜
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/7e3e81a8/index.m3u8
-#EXTINF:-1 tvg-name="MDX-0184沈娜娜" tvg-logo="https://live.fanmingming.cn/tv/MDX-0184沈娜娜.png",MDX-0184沈娜娜
+#EXTINF:-1 ,MDX-0184沈娜娜
 https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/fd46d2d1/index.m3u8
-#EXTINF:-1 tvg-name="MDX-0199沈娜娜" tvg-logo="https://live.fanmingming.cn/tv/MDX-0199沈娜娜.png",MDX-0199沈娜娜
+#EXTINF:-1 ,MDX-0199沈娜娜
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/8ab87760/index.m3u8
-#EXTINF:-1 tvg-name="MDX-0234沈娜娜" tvg-logo="https://live.fanmingming.cn/tv/MDX-0234沈娜娜.png",MDX-0234沈娜娜
+#EXTINF:-1 ,MDX-0234沈娜娜
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/02/ca211ee2/index.m3u8
-#EXTINF:-1 tvg-name="MDX-0235沈娜娜" tvg-logo="https://live.fanmingming.cn/tv/MDX-0235沈娜娜.png",MDX-0235沈娜娜
+#EXTINF:-1 ,MDX-0235沈娜娜
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/08/9961c3ae/index.m3u8
-#EXTINF:-1 tvg-name="MDX-0236" tvg-logo="https://live.fanmingming.cn/tv/MDX-0236.png",MDX-0236
+#EXTINF:-1 ,MDX-0236
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/15/9d2b35f4/index.m3u8
-#EXTINF:-1 tvg-name="MDX-0237沈娜娜" tvg-logo="https://live.fanmingming.cn/tv/MDX-0237沈娜娜.png",MDX-0237沈娜娜
+#EXTINF:-1 ,MDX-0237沈娜娜
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/8abe7057/index.m3u8
-#EXTINF:-1 tvg-name="MDX-0238沈娜娜" tvg-logo="https://live.fanmingming.cn/tv/MDX-0238沈娜娜.png",MDX-0238沈娜娜
+#EXTINF:-1 ,MDX-0238沈娜娜
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/25/d3aa5d62/index.m3u8
-#EXTINF:-1 tvg-name="MDYD-741" tvg-logo="https://live.fanmingming.cn/tv/MDYD-741.png",MDYD-741
+#EXTINF:-1 ,MDYD-741
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/0e0f71d7/index.m3u8
-#EXTINF:-1 tvg-name="meyd-127西川" tvg-logo="https://live.fanmingming.cn/tv/meyd-127西川.png",meyd-127西川
+#EXTINF:-1 ,meyd-127西川
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/10dfd375/index.m3u8
-#EXTINF:-1 tvg-name="MEYD-647川上奈奈美" tvg-logo="https://live.fanmingming.cn/tv/MEYD-647川上奈奈美.png",MEYD-647川上奈奈美
+#EXTINF:-1 ,MEYD-647川上奈奈美
 https://siwazywcdn2.com:5278/zhongwenzimu/3YPtObjx/index.m3u8
-#EXTINF:-1 tvg-name="meyd-694広瀬" tvg-logo="https://live.fanmingming.cn/tv/meyd-694広瀬.png",meyd-694広瀬
+#EXTINF:-1 ,meyd-694広瀬
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/b7f60549/index.m3u8
-#EXTINF:-1 tvg-name="MEYD-695北野未来" tvg-logo="https://live.fanmingming.cn/tv/MEYD-695北野未来.png",MEYD-695北野未来
+#EXTINF:-1 ,MEYD-695北野未来
 https://siwazywcdn2.com:5278/zhongwenzimu/mqkTS3cV/index.m3u8
-#EXTINF:-1 tvg-name="MEYD-698" tvg-logo="https://live.fanmingming.cn/tv/MEYD-698.png",MEYD-698
+#EXTINF:-1 ,MEYD-698
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/2e795f67/index.m3u8
-#EXTINF:-1 tvg-name="meyd-711佐伯由美香" tvg-logo="https://live.fanmingming.cn/tv/meyd-711佐伯由美香.png",meyd-711佐伯由美香
+#EXTINF:-1 ,meyd-711佐伯由美香
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/cf6643f0/index.m3u8
-#EXTINF:-1 tvg-name="meyd-712藤森里穂" tvg-logo="https://live.fanmingming.cn/tv/meyd-712藤森里穂.png",meyd-712藤森里穂
+#EXTINF:-1 ,meyd-712藤森里穂
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/6eb090d2/index.m3u8
-#EXTINF:-1 tvg-name="meyd-722二宮" tvg-logo="https://live.fanmingming.cn/tv/meyd-722二宮.png",meyd-722二宮
+#EXTINF:-1 ,meyd-722二宮
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/26/b6de6d95/index.m3u8
-#EXTINF:-1 tvg-name="meyd-724北野未奈" tvg-logo="https://live.fanmingming.cn/tv/meyd-724北野未奈.png",meyd-724北野未奈
+#EXTINF:-1 ,meyd-724北野未奈
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/1378ee5d/index.m3u8
-#EXTINF:-1 tvg-name="meyd-726藤森里穂" tvg-logo="https://live.fanmingming.cn/tv/meyd-726藤森里穂.png",meyd-726藤森里穂
+#EXTINF:-1 ,meyd-726藤森里穂
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/b095a9b9/index.m3u8
-#EXTINF:-1 tvg-name="meyd-734北野未奈" tvg-logo="https://live.fanmingming.cn/tv/meyd-734北野未奈.png",meyd-734北野未奈
+#EXTINF:-1 ,meyd-734北野未奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/e9a3b310/index.m3u8
-#EXTINF:-1 tvg-name="MIAA-247" tvg-logo="https://live.fanmingming.cn/tv/MIAA-247.png",MIAA-247
+#EXTINF:-1 ,MIAA-247
 https://siwazywcdn2.com:5278/zhongwenzimu/TZb8hicm/index.m3u8
-#EXTINF:-1 tvg-name="MIAA-248奏音花音" tvg-logo="https://live.fanmingming.cn/tv/MIAA-248奏音花音.png",MIAA-248奏音花音
+#EXTINF:-1 ,MIAA-248奏音花音
 https://videomy.yongaomy.com/20210721/6NCwf1nt/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="miaa-316君岛" tvg-logo="https://live.fanmingming.cn/tv/miaa-316君岛.png",miaa-316君岛
+#EXTINF:-1 ,miaa-316君岛
 https://t11.cdn2020.com:12336/video/m3u8/2021/08/29/a88894f1/index.m3u8
-#EXTINF:-1 tvg-name="MIAA-320" tvg-logo="https://live.fanmingming.cn/tv/MIAA-320.png",MIAA-320
+#EXTINF:-1 ,MIAA-320
 https://siwazywcdn2.com:5278/zhongwenzimu/4idREMlz/index.m3u8
-#EXTINF:-1 tvg-name="MIAA-329" tvg-logo="https://live.fanmingming.cn/tv/MIAA-329.png",MIAA-329
+#EXTINF:-1 ,MIAA-329
 https://siwazywcdn2.com:5278/zhongwenzimu/L946ZPST/index.m3u8
-#EXTINF:-1 tvg-name="miaa-504北野未奈" tvg-logo="https://live.fanmingming.cn/tv/miaa-504北野未奈.png",miaa-504北野未奈
+#EXTINF:-1 ,miaa-504北野未奈
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/b70beb31/index.m3u8
-#EXTINF:-1 tvg-name="miaa-514月乃" tvg-logo="https://live.fanmingming.cn/tv/miaa-514月乃.png",miaa-514月乃
+#EXTINF:-1 ,miaa-514月乃
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/6f600105/index.m3u8
-#EXTINF:-1 tvg-name="miaa-543藤森里穂" tvg-logo="https://live.fanmingming.cn/tv/miaa-543藤森里穂.png",miaa-543藤森里穂
+#EXTINF:-1 ,miaa-543藤森里穂
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/33fed749/index.m3u8
-#EXTINF:-1 tvg-name="miaa-552北野未奈" tvg-logo="https://live.fanmingming.cn/tv/miaa-552北野未奈.png",miaa-552北野未奈
+#EXTINF:-1 ,miaa-552北野未奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/83e19dbc/index.m3u8
-#EXTINF:-1 tvg-name="miaa-553天音" tvg-logo="https://live.fanmingming.cn/tv/miaa-553天音.png",miaa-553天音
+#EXTINF:-1 ,miaa-553天音
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/72a566c5/index.m3u8
-#EXTINF:-1 tvg-name="miaa-557水原小梅" tvg-logo="https://live.fanmingming.cn/tv/miaa-557水原小梅.png",miaa-557水原小梅
+#EXTINF:-1 ,miaa-557水原小梅
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/13/16906795/index.m3u8
-#EXTINF:-1 tvg-name="miaa-561水川" tvg-logo="https://live.fanmingming.cn/tv/miaa-561水川.png",miaa-561水川
+#EXTINF:-1 ,miaa-561水川
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/83e57fcd/index.m3u8
-#EXTINF:-1 tvg-name="miaa-562月野" tvg-logo="https://live.fanmingming.cn/tv/miaa-562月野.png",miaa-562月野
+#EXTINF:-1 ,miaa-562月野
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/6012e749/index.m3u8
-#EXTINF:-1 tvg-name="miaa-563花狩" tvg-logo="https://live.fanmingming.cn/tv/miaa-563花狩.png",miaa-563花狩
+#EXTINF:-1 ,miaa-563花狩
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/808c2e05/index.m3u8
-#EXTINF:-1 tvg-name="miaa-567月乃" tvg-logo="https://live.fanmingming.cn/tv/miaa-567月乃.png",miaa-567月乃
+#EXTINF:-1 ,miaa-567月乃
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/3980ed8c/index.m3u8
-#EXTINF:-1 tvg-name="miaa-569沙月恵奈" tvg-logo="https://live.fanmingming.cn/tv/miaa-569沙月恵奈.png",miaa-569沙月恵奈
+#EXTINF:-1 ,miaa-569沙月恵奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/b9f4d487/index.m3u8
-#EXTINF:-1 tvg-name="miaa-602永瀬" tvg-logo="https://live.fanmingming.cn/tv/miaa-602永瀬.png",miaa-602永瀬
+#EXTINF:-1 ,miaa-602永瀬
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/25/a5430000/index.m3u8
-#EXTINF:-1 tvg-name="miad-847大岛美绪" tvg-logo="https://live.fanmingming.cn/tv/miad-847大岛美绪.png",miad-847大岛美绪
+#EXTINF:-1 ,miad-847大岛美绪
 https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/a523ea63/index.m3u8
-#EXTINF:-1 tvg-name="miae-021姫川" tvg-logo="https://live.fanmingming.cn/tv/miae-021姫川.png",miae-021姫川
+#EXTINF:-1 ,miae-021姫川
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/d0b97f6d/index.m3u8
-#EXTINF:-1 tvg-name="miae-053姫川" tvg-logo="https://live.fanmingming.cn/tv/miae-053姫川.png",miae-053姫川
+#EXTINF:-1 ,miae-053姫川
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/05/77be11c6/index.m3u8
-#EXTINF:-1 tvg-name="mide-884七沢" tvg-logo="https://live.fanmingming.cn/tv/mide-884七沢.png",mide-884七沢
+#EXTINF:-1 ,mide-884七沢
 https://t11.cdn2020.com:12336/video/m3u8/2021/08/28/e26824af/index.m3u8
-#EXTINF:-1 tvg-name="MIDE-970" tvg-logo="https://live.fanmingming.cn/tv/MIDE-970.png",MIDE-970
+#EXTINF:-1 ,MIDE-970
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/4f8053b0/index.m3u8
-#EXTINF:-1 tvg-name="mide-976八木奈々" tvg-logo="https://live.fanmingming.cn/tv/mide-976八木奈々.png",mide-976八木奈々
+#EXTINF:-1 ,mide-976八木奈々
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/b4c1125f/index.m3u8
-#EXTINF:-1 tvg-name="mide-981深田" tvg-logo="https://live.fanmingming.cn/tv/mide-981深田.png",mide-981深田
+#EXTINF:-1 ,mide-981深田
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/28153fb3/index.m3u8
-#EXTINF:-1 tvg-name="mide-983七沢" tvg-logo="https://live.fanmingming.cn/tv/mide-983七沢.png",mide-983七沢
+#EXTINF:-1 ,mide-983七沢
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/5ebd616f/index.m3u8
-#EXTINF:-1 tvg-name="mide-991八木奈々" tvg-logo="https://live.fanmingming.cn/tv/mide-991八木奈々.png",mide-991八木奈々
+#EXTINF:-1 ,mide-991八木奈々
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/0cb5681b/index.m3u8
-#EXTINF:-1 tvg-name="midv-018七沢" tvg-logo="https://live.fanmingming.cn/tv/midv-018七沢.png",midv-018七沢
+#EXTINF:-1 ,midv-018七沢
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/d2c64d34/index.m3u8
-#EXTINF:-1 tvg-name="midv-031小野六花" tvg-logo="https://live.fanmingming.cn/tv/midv-031小野六花.png",midv-031小野六花
+#EXTINF:-1 ,midv-031小野六花
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/b314c4f7/index.m3u8
-#EXTINF:-1 tvg-name="midv-057石川澪" tvg-logo="https://live.fanmingming.cn/tv/midv-057石川澪.png",midv-057石川澪
+#EXTINF:-1 ,midv-057石川澪
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/469771e5/index.m3u8
-#EXTINF:-1 tvg-name="midv-058高橋" tvg-logo="https://live.fanmingming.cn/tv/midv-058高橋.png",midv-058高橋
+#EXTINF:-1 ,midv-058高橋
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/eb45677f/index.m3u8
-#EXTINF:-1 tvg-name="midv-068小野六花" tvg-logo="https://live.fanmingming.cn/tv/midv-068小野六花.png",midv-068小野六花
+#EXTINF:-1 ,midv-068小野六花
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/25/d8dc277c/index.m3u8
-#EXTINF:-1 tvg-name="midv-069七沢" tvg-logo="https://live.fanmingming.cn/tv/midv-069七沢.png",midv-069七沢
+#EXTINF:-1 ,midv-069七沢
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/25/8368fd47/index.m3u8
-#EXTINF:-1 tvg-name="MIFD-117" tvg-logo="https://live.fanmingming.cn/tv/MIFD-117.png",MIFD-117
+#EXTINF:-1 ,MIFD-117
 https://siwazywcdn2.com:5278/zhongwenzimu/2imBA5or/index.m3u8
-#EXTINF:-1 tvg-name="mifd070永瀬" tvg-logo="https://live.fanmingming.cn/tv/mifd070永瀬.png",mifd070永瀬
+#EXTINF:-1 ,mifd070永瀬
 https://fc.maa1808.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
-#EXTINF:-1 tvg-name="MIGD-697" tvg-logo="https://live.fanmingming.cn/tv/MIGD-697.png",MIGD-697
+#EXTINF:-1 ,MIGD-697
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/00e47aa8/index.m3u8
-#EXTINF:-1 tvg-name="mird-215久留木玲" tvg-logo="https://live.fanmingming.cn/tv/mird-215久留木玲.png",mird-215久留木玲
+#EXTINF:-1 ,mird-215久留木玲
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/25/fb46c028/index.m3u8
-#EXTINF:-1 tvg-name="mkmp-434百永" tvg-logo="https://live.fanmingming.cn/tv/mkmp-434百永.png",mkmp-434百永
+#EXTINF:-1 ,mkmp-434百永
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/3b0b4325/index.m3u8
-#EXTINF:-1 tvg-name="MKON-062" tvg-logo="https://live.fanmingming.cn/tv/MKON-062.png",MKON-062
+#EXTINF:-1 ,MKON-062
 https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/b2ec7794/index.m3u8
-#EXTINF:-1 tvg-name="mkon-075辻" tvg-logo="https://live.fanmingming.cn/tv/mkon-075辻.png",mkon-075辻
+#EXTINF:-1 ,mkon-075辻
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/7bd4c045/index.m3u8
-#EXTINF:-1 tvg-name="mmus-034渚" tvg-logo="https://live.fanmingming.cn/tv/mmus-034渚.png",mmus-034渚
+#EXTINF:-1 ,mmus-034渚
 https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/d12cbf8f/index.m3u8
-#EXTINF:-1 tvg-name="MRSS-120大槻" tvg-logo="https://live.fanmingming.cn/tv/MRSS-120大槻.png",MRSS-120大槻
+#EXTINF:-1 ,MRSS-120大槻
 https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/d8fa30cf/index.m3u8
-#EXTINF:-1 tvg-name="MUDR-133" tvg-logo="https://live.fanmingming.cn/tv/MUDR-133.png",MUDR-133
+#EXTINF:-1 ,MUDR-133
 https://siwazywcdn2.com:5278/zhongwenzimu/kjah84rx/index.m3u8
-#EXTINF:-1 tvg-name="mxgs-984波木" tvg-logo="https://live.fanmingming.cn/tv/mxgs-984波木.png",mxgs-984波木
+#EXTINF:-1 ,mxgs-984波木
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/2fb41c71/index.m3u8
-#EXTINF:-1 tvg-name="mxgs-992大槻" tvg-logo="https://live.fanmingming.cn/tv/mxgs-992大槻.png",mxgs-992大槻
+#EXTINF:-1 ,mxgs-992大槻
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/06/72dedc7b/index.m3u8
-#EXTINF:-1 tvg-name="nacr-452春原未来" tvg-logo="https://live.fanmingming.cn/tv/nacr-452春原未来.png",nacr-452春原未来
+#EXTINF:-1 ,nacr-452春原未来
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/11/b0bc7ac6/index.m3u8
-#EXTINF:-1 tvg-name="NACR-460" tvg-logo="https://live.fanmingming.cn/tv/NACR-460.png",NACR-460
+#EXTINF:-1 ,NACR-460
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/da6cdc85/index.m3u8
-#EXTINF:-1 tvg-name="natr-566筱田" tvg-logo="https://live.fanmingming.cn/tv/natr-566筱田.png",natr-566筱田
+#EXTINF:-1 ,natr-566筱田
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/31/3d5a7b9e/index.m3u8
-#EXTINF:-1 tvg-name="nhdtb-641温泉旅馆" tvg-logo="https://live.fanmingming.cn/tv/nhdtb-641温泉旅馆.png",nhdtb-641温泉旅馆
+#EXTINF:-1 ,nhdtb-641温泉旅馆
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/05/f6bdce37/index.m3u8
-#EXTINF:-1 tvg-name="nnpj-492会社娘" tvg-logo="https://live.fanmingming.cn/tv/nnpj-492会社娘.png",nnpj-492会社娘
+#EXTINF:-1 ,nnpj-492会社娘
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/01/24ef6ef6/index.m3u8
-#EXTINF:-1 tvg-name="nsfs-071七瀬" tvg-logo="https://live.fanmingming.cn/tv/nsfs-071七瀬.png",nsfs-071七瀬
+#EXTINF:-1 ,nsfs-071七瀬
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/06/f6d81e3e/index.m3u8
-#EXTINF:-1 tvg-name="ntr-066 若菜奈央" tvg-logo="https://live.fanmingming.cn/tv/ntr-066 若菜奈央.png",ntr-066 若菜奈央
+#EXTINF:-1 ,ntr-066 若菜奈央
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/01/b7e0cfca/index.m3u8
-#EXTINF:-1 tvg-name="OCHA-096" tvg-logo="https://live.fanmingming.cn/tv/OCHA-096.png",OCHA-096
+#EXTINF:-1 ,OCHA-096
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/dbde7157/index.m3u8
-#EXTINF:-1 tvg-name="ocs-037奏音弥生" tvg-logo="https://live.fanmingming.cn/tv/ocs-037奏音弥生.png",ocs-037奏音弥生
+#EXTINF:-1 ,ocs-037奏音弥生
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/27/85268141/index.m3u8
-#EXTINF:-1 tvg-name="orec-883思春期" tvg-logo="https://live.fanmingming.cn/tv/orec-883思春期.png",orec-883思春期
+#EXTINF:-1 ,orec-883思春期
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/77b1cb1d/index.m3u8
-#EXTINF:-1 tvg-name="pondo273水谷" tvg-logo="https://live.fanmingming.cn/tv/pondo273水谷.png",pondo273水谷
+#EXTINF:-1 ,pondo273水谷
 https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
-#EXTINF:-1 tvg-name="pondo311水谷" tvg-logo="https://live.fanmingming.cn/tv/pondo311水谷.png",pondo311水谷
+#EXTINF:-1 ,pondo311水谷
 https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
-#EXTINF:-1 tvg-name="pondo350西川" tvg-logo="https://live.fanmingming.cn/tv/pondo350西川.png",pondo350西川
+#EXTINF:-1 ,pondo350西川
 https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
-#EXTINF:-1 tvg-name="pondo366水谷" tvg-logo="https://live.fanmingming.cn/tv/pondo366水谷.png",pondo366水谷
+#EXTINF:-1 ,pondo366水谷
 https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
-#EXTINF:-1 tvg-name="pondo419西川" tvg-logo="https://live.fanmingming.cn/tv/pondo419西川.png",pondo419西川
+#EXTINF:-1 ,pondo419西川
 https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
-#EXTINF:-1 tvg-name="pondo450西川" tvg-logo="https://live.fanmingming.cn/tv/pondo450西川.png",pondo450西川
+#EXTINF:-1 ,pondo450西川
 https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
-#EXTINF:-1 tvg-name="pondo488姬川" tvg-logo="https://live.fanmingming.cn/tv/pondo488姬川.png",pondo488姬川
+#EXTINF:-1 ,pondo488姬川
 https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
-#EXTINF:-1 tvg-name="pondo518姬川" tvg-logo="https://live.fanmingming.cn/tv/pondo518姬川.png",pondo518姬川
+#EXTINF:-1 ,pondo518姬川
 https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
-#EXTINF:-1 tvg-name="pondo559北川" tvg-logo="https://live.fanmingming.cn/tv/pondo559北川.png",pondo559北川
+#EXTINF:-1 ,pondo559北川
 https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
-#EXTINF:-1 tvg-name="pondo597西川" tvg-logo="https://live.fanmingming.cn/tv/pondo597西川.png",pondo597西川
+#EXTINF:-1 ,pondo597西川
 https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
-#EXTINF:-1 tvg-name="pondo613七濑" tvg-logo="https://live.fanmingming.cn/tv/pondo613七濑.png",pondo613七濑
+#EXTINF:-1 ,pondo613七濑
 https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
-#EXTINF:-1 tvg-name="pondo618水谷" tvg-logo="https://live.fanmingming.cn/tv/pondo618水谷.png",pondo618水谷
+#EXTINF:-1 ,pondo618水谷
 https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
-#EXTINF:-1 tvg-name="pondo764杏奈" tvg-logo="https://live.fanmingming.cn/tv/pondo764杏奈.png",pondo764杏奈
+#EXTINF:-1 ,pondo764杏奈
 https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
-#EXTINF:-1 tvg-name="pondo793杏奈" tvg-logo="https://live.fanmingming.cn/tv/pondo793杏奈.png",pondo793杏奈
+#EXTINF:-1 ,pondo793杏奈
 https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
-#EXTINF:-1 tvg-name="pppd-398爱理" tvg-logo="https://live.fanmingming.cn/tv/pppd-398爱理.png",pppd-398爱理
+#EXTINF:-1 ,pppd-398爱理
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/07/bd518e5c/index.m3u8
-#EXTINF:-1 tvg-name="pppd-403西条沙罗" tvg-logo="https://live.fanmingming.cn/tv/pppd-403西条沙罗.png",pppd-403西条沙罗
+#EXTINF:-1 ,pppd-403西条沙罗
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/06/01a287eb/index.m3u8
-#EXTINF:-1 tvg-name="pppd-412吉永" tvg-logo="https://live.fanmingming.cn/tv/pppd-412吉永.png",pppd-412吉永
+#EXTINF:-1 ,pppd-412吉永
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/17/2dea29ea/index.m3u8
-#EXTINF:-1 tvg-name="pppd-422七原" tvg-logo="https://live.fanmingming.cn/tv/pppd-422七原.png",pppd-422七原
+#EXTINF:-1 ,pppd-422七原
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/d5a453cd/index.m3u8
-#EXTINF:-1 tvg-name="pppd-427尾上若叶" tvg-logo="https://live.fanmingming.cn/tv/pppd-427尾上若叶.png",pppd-427尾上若叶
+#EXTINF:-1 ,pppd-427尾上若叶
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/b463b7b7/index.m3u8
-#EXTINF:-1 tvg-name="pppd-597反向治疗" tvg-logo="https://live.fanmingming.cn/tv/pppd-597反向治疗.png",pppd-597反向治疗
+#EXTINF:-1 ,pppd-597反向治疗
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/17/1d79c0ef/index.m3u8
-#EXTINF:-1 tvg-name="pppd-649优月" tvg-logo="https://live.fanmingming.cn/tv/pppd-649优月.png",pppd-649优月
+#EXTINF:-1 ,pppd-649优月
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/12/eee13b84/index.m3u8
-#EXTINF:-1 tvg-name="pppd-776松本菜奈実" tvg-logo="https://live.fanmingming.cn/tv/pppd-776松本菜奈実.png",pppd-776松本菜奈実
+#EXTINF:-1 ,pppd-776松本菜奈実
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/ae252786/index.m3u8
-#EXTINF:-1 tvg-name="pppd-961乃木蛍" tvg-logo="https://live.fanmingming.cn/tv/pppd-961乃木蛍.png",pppd-961乃木蛍
+#EXTINF:-1 ,pppd-961乃木蛍
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/0513f0a5/index.m3u8
-#EXTINF:-1 tvg-name="pppd-968木下" tvg-logo="https://live.fanmingming.cn/tv/pppd-968木下.png",pppd-968木下
+#EXTINF:-1 ,pppd-968木下
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/d6d0f151/index.m3u8
-#EXTINF:-1 tvg-name="pppd-970藤森里穂" tvg-logo="https://live.fanmingming.cn/tv/pppd-970藤森里穂.png",pppd-970藤森里穂
+#EXTINF:-1 ,pppd-970藤森里穂
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/15060d28/index.m3u8
-#EXTINF:-1 tvg-name="pppd-984瀬名" tvg-logo="https://live.fanmingming.cn/tv/pppd-984瀬名.png",pppd-984瀬名
+#EXTINF:-1 ,pppd-984瀬名
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/29/c67d6ebc/index.m3u8
-#EXTINF:-1 tvg-name="pppd-987希咲" tvg-logo="https://live.fanmingming.cn/tv/pppd-987希咲.png",pppd-987希咲
+#EXTINF:-1 ,pppd-987希咲
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/28/ac03a6b7/index.m3u8
-#EXTINF:-1 tvg-name="pppd-989藤森里穂" tvg-logo="https://live.fanmingming.cn/tv/pppd-989藤森里穂.png",pppd-989藤森里穂
+#EXTINF:-1 ,pppd-989藤森里穂
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/29/c830aec2/index.m3u8
-#EXTINF:-1 tvg-name="pppd-990月野" tvg-logo="https://live.fanmingming.cn/tv/pppd-990月野.png",pppd-990月野
+#EXTINF:-1 ,pppd-990月野
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/b5d81241/index.m3u8
-#EXTINF:-1 tvg-name="pppd-992川北" tvg-logo="https://live.fanmingming.cn/tv/pppd-992川北.png",pppd-992川北
+#EXTINF:-1 ,pppd-992川北
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/29/bd10597d/index.m3u8
-#EXTINF:-1 tvg-name="pppe-008水川" tvg-logo="https://live.fanmingming.cn/tv/pppe-008水川.png",pppe-008水川
+#EXTINF:-1 ,pppe-008水川
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/30/d80590bf/index.m3u8
-#EXTINF:-1 tvg-name="PRED-334" tvg-logo="https://live.fanmingming.cn/tv/PRED-334.png",PRED-334
+#EXTINF:-1 ,PRED-334
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/f0d78330/index.m3u8
-#EXTINF:-1 tvg-name="PRED-337" tvg-logo="https://live.fanmingming.cn/tv/PRED-337.png",PRED-337
+#EXTINF:-1 ,PRED-337
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/49ed95c2/index.m3u8
-#EXTINF:-1 tvg-name="pred-340広瀬" tvg-logo="https://live.fanmingming.cn/tv/pred-340広瀬.png",pred-340広瀬
+#EXTINF:-1 ,pred-340広瀬
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/4b78c206/index.m3u8
-#EXTINF:-1 tvg-name="pred-341香椎花乃" tvg-logo="https://live.fanmingming.cn/tv/pred-341香椎花乃.png",pred-341香椎花乃
+#EXTINF:-1 ,pred-341香椎花乃
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/d783da33/index.m3u8
-#EXTINF:-1 tvg-name="pred-347竹内有纪" tvg-logo="https://live.fanmingming.cn/tv/pred-347竹内有纪.png",pred-347竹内有纪
+#EXTINF:-1 ,pred-347竹内有纪
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/75da85de/index.m3u8
-#EXTINF:-1 tvg-name="pred-350藤森里穂" tvg-logo="https://live.fanmingming.cn/tv/pred-350藤森里穂.png",pred-350藤森里穂
+#EXTINF:-1 ,pred-350藤森里穂
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/d1272d7f/index.m3u8
-#EXTINF:-1 tvg-name="pred-360山岸逢花" tvg-logo="https://live.fanmingming.cn/tv/pred-360山岸逢花.png",pred-360山岸逢花
+#EXTINF:-1 ,pred-360山岸逢花
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/4de45ea3/index.m3u8
-#EXTINF:-1 tvg-name="pred-362楪カ" tvg-logo="https://live.fanmingming.cn/tv/pred-362楪カ.png",pred-362楪カ
+#EXTINF:-1 ,pred-362楪カ
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/95c349b4/index.m3u8
-#EXTINF:-1 tvg-name="pred-365香椎花乃" tvg-logo="https://live.fanmingming.cn/tv/pred-365香椎花乃.png",pred-365香椎花乃
+#EXTINF:-1 ,pred-365香椎花乃
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/890dc248/index.m3u8
-#EXTINF:-1 tvg-name="rbd-223管野" tvg-logo="https://live.fanmingming.cn/tv/rbd-223管野.png",rbd-223管野
+#EXTINF:-1 ,rbd-223管野
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/9b65972c/index.m3u8
-#EXTINF:-1 tvg-name="rbd-978藤森里穂" tvg-logo="https://live.fanmingming.cn/tv/rbd-978藤森里穂.png",rbd-978藤森里穂
+#EXTINF:-1 ,rbd-978藤森里穂
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/06/4af63f0b/index.m3u8
-#EXTINF:-1 tvg-name="rctd-418辻" tvg-logo="https://live.fanmingming.cn/tv/rctd-418辻.png",rctd-418辻
+#EXTINF:-1 ,rctd-418辻
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/30/af0cb0cf/index.m3u8
-#EXTINF:-1 tvg-name="rki-614ハート" tvg-logo="https://live.fanmingming.cn/tv/rki-614ハート.png",rki-614ハート
+#EXTINF:-1 ,rki-614ハート
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/21/6341ebd8/index.m3u8
-#EXTINF:-1 tvg-name="rki-621川上奈々美" tvg-logo="https://live.fanmingming.cn/tv/rki-621川上奈々美.png",rki-621川上奈々美
+#EXTINF:-1 ,rki-621川上奈々美
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/19/0d347bb1/index.m3u8
-#EXTINF:-1 tvg-name="roe-032水野优香" tvg-logo="https://live.fanmingming.cn/tv/roe-032水野优香.png",roe-032水野优香
+#EXTINF:-1 ,roe-032水野优香
 https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/335cd318/index.m3u8
-#EXTINF:-1 tvg-name="roe-037加峰幸香" tvg-logo="https://live.fanmingming.cn/tv/roe-037加峰幸香.png",roe-037加峰幸香
+#EXTINF:-1 ,roe-037加峰幸香
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/19/42af0bc0/index.m3u8
-#EXTINF:-1 tvg-name="royd-072初川" tvg-logo="https://live.fanmingming.cn/tv/royd-072初川.png",royd-072初川
+#EXTINF:-1 ,royd-072初川
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/ab4bbfd6/index.m3u8
-#EXTINF:-1 tvg-name="saba-709太强" tvg-logo="https://live.fanmingming.cn/tv/saba-709太强.png",saba-709太强
+#EXTINF:-1 ,saba-709太强
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/14/a4e25e99/index.m3u8
-#EXTINF:-1 tvg-name="scop-673店长" tvg-logo="https://live.fanmingming.cn/tv/scop-673店长.png",scop-673店长
+#EXTINF:-1 ,scop-673店长
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/8ef8a202/index.m3u8
-#EXTINF:-1 tvg-name="SCOP-697" tvg-logo="https://live.fanmingming.cn/tv/SCOP-697.png",SCOP-697
+#EXTINF:-1 ,SCOP-697
 https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
-#EXTINF:-1 tvg-name="SCUTE-1127" tvg-logo="https://live.fanmingming.cn/tv/SCUTE-1127.png",SCUTE-1127
+#EXTINF:-1 ,SCUTE-1127
 https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/063e56fb/index.m3u8
-#EXTINF:-1 tvg-name="SCUTE-1130" tvg-logo="https://live.fanmingming.cn/tv/SCUTE-1130.png",SCUTE-1130
+#EXTINF:-1 ,SCUTE-1130
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/971e1385/index.m3u8
-#EXTINF:-1 tvg-name="sd-956美谷朱里" tvg-logo="https://live.fanmingming.cn/tv/sd-956美谷朱里.png",sd-956美谷朱里
+#EXTINF:-1 ,sd-956美谷朱里
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/21/2733d440/index.m3u8
-#EXTINF:-1 tvg-name="sdde-327大槻" tvg-logo="https://live.fanmingming.cn/tv/sdde-327大槻.png",sdde-327大槻
+#EXTINF:-1 ,sdde-327大槻
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/a01711a2/index.m3u8
-#EXTINF:-1 tvg-name="sdde-381姊弟浜崎真绪" tvg-logo="https://live.fanmingming.cn/tv/sdde-381姊弟浜崎真绪.png",sdde-381姊弟浜崎真绪
+#EXTINF:-1 ,sdde-381姊弟浜崎真绪
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/10/cc697acb/index.m3u8
-#EXTINF:-1 tvg-name="sdde-438佳苗" tvg-logo="https://live.fanmingming.cn/tv/sdde-438佳苗.png",sdde-438佳苗
+#EXTINF:-1 ,sdde-438佳苗
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/59223c0c/index.m3u8
-#EXTINF:-1 tvg-name="sdde-623上川星空" tvg-logo="https://live.fanmingming.cn/tv/sdde-623上川星空.png",sdde-623上川星空
+#EXTINF:-1 ,sdde-623上川星空
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/e1aac4ce/index.m3u8
-#EXTINF:-1 tvg-name="sdde-625大槻" tvg-logo="https://live.fanmingming.cn/tv/sdde-625大槻.png",sdde-625大槻
+#EXTINF:-1 ,sdde-625大槻
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/26/b79e51d3/index.m3u8
-#EXTINF:-1 tvg-name="sdjs-120佐々木夏菜" tvg-logo="https://live.fanmingming.cn/tv/sdjs-120佐々木夏菜.png",sdjs-120佐々木夏菜
+#EXTINF:-1 ,sdjs-120佐々木夏菜
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/26/f0c025d7/index.m3u8
-#EXTINF:-1 tvg-name="sdjs-124中山琴叶" tvg-logo="https://live.fanmingming.cn/tv/sdjs-124中山琴叶.png",sdjs-124中山琴叶
+#EXTINF:-1 ,sdjs-124中山琴叶
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/19/90eacde2/index.m3u8
-#EXTINF:-1 tvg-name="SDMM-064奏音花音" tvg-logo="https://live.fanmingming.cn/tv/SDMM-064奏音花音.png",SDMM-064奏音花音
+#EXTINF:-1 ,SDMM-064奏音花音
 https://videomy.yongaomy.com/20211112/rw3LhAQi/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="sdmu-494若菜奈央" tvg-logo="https://live.fanmingming.cn/tv/sdmu-494若菜奈央.png",sdmu-494若菜奈央
+#EXTINF:-1 ,sdmu-494若菜奈央
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/12/f61cb46b/index.m3u8
-#EXTINF:-1 tvg-name="sdmu-968川村" tvg-logo="https://live.fanmingming.cn/tv/sdmu-968川村.png",sdmu-968川村
+#EXTINF:-1 ,sdmu-968川村
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/14/ce8ff22b/index.m3u8
-#EXTINF:-1 tvg-name="sdnm-323叶月凉子" tvg-logo="https://live.fanmingming.cn/tv/sdnm-323叶月凉子.png",sdnm-323叶月凉子
+#EXTINF:-1 ,sdnm-323叶月凉子
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/04/fc46b201/index.m3u8
-#EXTINF:-1 tvg-name="shkd-959辻" tvg-logo="https://live.fanmingming.cn/tv/shkd-959辻.png",shkd-959辻
+#EXTINF:-1 ,shkd-959辻
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/23/79da5eae/index.m3u8
-#EXTINF:-1 tvg-name="shkd-964二宮" tvg-logo="https://live.fanmingming.cn/tv/shkd-964二宮.png",shkd-964二宮
+#EXTINF:-1 ,shkd-964二宮
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/14/9ab95870/index.m3u8
-#EXTINF:-1 tvg-name="shkd-974初川" tvg-logo="https://live.fanmingming.cn/tv/shkd-974初川.png",shkd-974初川
+#EXTINF:-1 ,shkd-974初川
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/8d5ef0d3/index.m3u8
-#EXTINF:-1 tvg-name="shkd-982沙月恵奈" tvg-logo="https://live.fanmingming.cn/tv/shkd-982沙月恵奈.png",shkd-982沙月恵奈
+#EXTINF:-1 ,shkd-982沙月恵奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/15/832dd619/index.m3u8
-#EXTINF:-1 tvg-name="siro1774奏音花音" tvg-logo="https://live.fanmingming.cn/tv/siro1774奏音花音.png",siro1774奏音花音
+#EXTINF:-1 ,siro1774奏音花音
 https://videomy.yongaomy.com/20210716/1uTF5FjS/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="snis-697梦乃" tvg-logo="https://live.fanmingming.cn/tv/snis-697梦乃.png",snis-697梦乃
+#EXTINF:-1 ,snis-697梦乃
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/01/fc5e1b10/index.m3u8
-#EXTINF:-1 tvg-name="snis-942小岛" tvg-logo="https://live.fanmingming.cn/tv/snis-942小岛.png",snis-942小岛
+#EXTINF:-1 ,snis-942小岛
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/22bcbb28/index.m3u8
-#EXTINF:-1 tvg-name="SPRD-1481夏川" tvg-logo="https://live.fanmingming.cn/tv/SPRD-1481夏川.png",SPRD-1481夏川
+#EXTINF:-1 ,SPRD-1481夏川
 https://siwazywcdn2.com:5278/zhongwenzimu/1Wc2gtfN/index.m3u8
-#EXTINF:-1 tvg-name="sprd-1501青山凉香" tvg-logo="https://live.fanmingming.cn/tv/sprd-1501青山凉香.png",sprd-1501青山凉香
+#EXTINF:-1 ,sprd-1501青山凉香
 https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/f4aea001/index.m3u8
-#EXTINF:-1 tvg-name="srtd-0246外遇" tvg-logo="https://live.fanmingming.cn/tv/srtd-0246外遇.png",srtd-0246外遇
+#EXTINF:-1 ,srtd-0246外遇
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/27/9e7e5b38/index.m3u8
-#EXTINF:-1 tvg-name="SSIS-082" tvg-logo="https://live.fanmingming.cn/tv/SSIS-082.png",SSIS-082
+#EXTINF:-1 ,SSIS-082
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/01ee1dce/index.m3u8
-#EXTINF:-1 tvg-name="ssis-096乙白沙也" tvg-logo="https://live.fanmingming.cn/tv/ssis-096乙白沙也.png",ssis-096乙白沙也
+#EXTINF:-1 ,ssis-096乙白沙也
 https://siwazywcdn2.com:5278/zhongwenzimu/0GbVxCsv/index.m3u8
-#EXTINF:-1 tvg-name="ssis-108" tvg-logo="https://live.fanmingming.cn/tv/ssis-108.png",ssis-108
+#EXTINF:-1 ,ssis-108
 https://siwazywcdn2.com:5278/zhongwenzimu/bZXowNav/index.m3u8
-#EXTINF:-1 tvg-name="ssis-118梦乃" tvg-logo="https://live.fanmingming.cn/tv/ssis-118梦乃.png",ssis-118梦乃
+#EXTINF:-1 ,ssis-118梦乃
 https://siwazywcdn2.com:5278/zhongwenzimu/5yvSxVeg/index.m3u8
-#EXTINF:-1 tvg-name="ssis-129河北彩花" tvg-logo="https://live.fanmingming.cn/tv/ssis-129河北彩花.png",ssis-129河北彩花
+#EXTINF:-1 ,ssis-129河北彩花
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/144262e9/index.m3u8
-#EXTINF:-1 tvg-name="ssis-169miru" tvg-logo="https://live.fanmingming.cn/tv/ssis-169miru.png",ssis-169miru
+#EXTINF:-1 ,ssis-169miru
 https://siwazywcdn2.com:5278/zhongwenzimu/tyv0dmpK/index.m3u8
-#EXTINF:-1 tvg-name="ssis-171ひなたまりん" tvg-logo="https://live.fanmingming.cn/tv/ssis-171ひなたまりん.png",ssis-171ひなたまりん
+#EXTINF:-1 ,ssis-171ひなたまりん
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/017d8ae4/index.m3u8
-#EXTINF:-1 tvg-name="ssis-181三上悠亜" tvg-logo="https://live.fanmingming.cn/tv/ssis-181三上悠亜.png",ssis-181三上悠亜
+#EXTINF:-1 ,ssis-181三上悠亜
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/e2ba8a90/index.m3u8
-#EXTINF:-1 tvg-name="ssis-183梦乃" tvg-logo="https://live.fanmingming.cn/tv/ssis-183梦乃.png",ssis-183梦乃
+#EXTINF:-1 ,ssis-183梦乃
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/6bf42346/index.m3u8
-#EXTINF:-1 tvg-name="ssis-184架乃" tvg-logo="https://live.fanmingming.cn/tv/ssis-184架乃.png",ssis-184架乃
+#EXTINF:-1 ,ssis-184架乃
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/c9f97029/index.m3u8
-#EXTINF:-1 tvg-name="ssis-185星宫一花" tvg-logo="https://live.fanmingming.cn/tv/ssis-185星宫一花.png",ssis-185星宫一花
+#EXTINF:-1 ,ssis-185星宫一花
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/d0c7f247/index.m3u8
-#EXTINF:-1 tvg-name="ssis-186伊贺" tvg-logo="https://live.fanmingming.cn/tv/ssis-186伊贺.png",ssis-186伊贺
+#EXTINF:-1 ,ssis-186伊贺
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/dacbfb29/index.m3u8
-#EXTINF:-1 tvg-name="ssis-188槙" tvg-logo="https://live.fanmingming.cn/tv/ssis-188槙.png",ssis-188槙
+#EXTINF:-1 ,ssis-188槙
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/900e9060/index.m3u8
-#EXTINF:-1 tvg-name="ssis-190天音" tvg-logo="https://live.fanmingming.cn/tv/ssis-190天音.png",ssis-190天音
+#EXTINF:-1 ,ssis-190天音
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/e96cae7e/index.m3u8
-#EXTINF:-1 tvg-name="ssis-194河北彩花" tvg-logo="https://live.fanmingming.cn/tv/ssis-194河北彩花.png",ssis-194河北彩花
+#EXTINF:-1 ,ssis-194河北彩花
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/06/667f6ab4/index.m3u8
-#EXTINF:-1 tvg-name="ssis-202ひなたまりん" tvg-logo="https://live.fanmingming.cn/tv/ssis-202ひなたまりん.png",ssis-202ひなたまりん
+#EXTINF:-1 ,ssis-202ひなたまりん
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/26/c0dcbd7e/index.m3u8
-#EXTINF:-1 tvg-name="ssis-212葵" tvg-logo="https://live.fanmingming.cn/tv/ssis-212葵.png",ssis-212葵
+#EXTINF:-1 ,ssis-212葵
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/c40943bb/index.m3u8
-#EXTINF:-1 tvg-name="ssis-213梦乃" tvg-logo="https://live.fanmingming.cn/tv/ssis-213梦乃.png",ssis-213梦乃
+#EXTINF:-1 ,ssis-213梦乃
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/fde62b3e/index.m3u8
-#EXTINF:-1 tvg-name="ssis-214架乃" tvg-logo="https://live.fanmingming.cn/tv/ssis-214架乃.png",ssis-214架乃
+#EXTINF:-1 ,ssis-214架乃
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/622f3d9c/index.m3u8
-#EXTINF:-1 tvg-name="ssis-215星宫一花" tvg-logo="https://live.fanmingming.cn/tv/ssis-215星宫一花.png",ssis-215星宫一花
+#EXTINF:-1 ,ssis-215星宫一花
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/9f1cd206/index.m3u8
-#EXTINF:-1 tvg-name="ssis-218乙白" tvg-logo="https://live.fanmingming.cn/tv/ssis-218乙白.png",ssis-218乙白
+#EXTINF:-1 ,ssis-218乙白
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/05/4a5d3d95/index.m3u8
-#EXTINF:-1 tvg-name="ssis-226香澄" tvg-logo="https://live.fanmingming.cn/tv/ssis-226香澄.png",ssis-226香澄
+#EXTINF:-1 ,ssis-226香澄
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/05/13855f9e/index.m3u8
-#EXTINF:-1 tvg-name="ssis-261ひなたまりん" tvg-logo="https://live.fanmingming.cn/tv/ssis-261ひなたまりん.png",ssis-261ひなたまりん
+#EXTINF:-1 ,ssis-261ひなたまりん
 https://t15.cdn2020.com:12339/video/m3u8/2021/12/26/8fe86404/index.m3u8
-#EXTINF:-1 tvg-name="ssis-271葵" tvg-logo="https://live.fanmingming.cn/tv/ssis-271葵.png",ssis-271葵
+#EXTINF:-1 ,ssis-271葵
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/4627a34c/index.m3u8
-#EXTINF:-1 tvg-name="ssis-272梦乃" tvg-logo="https://live.fanmingming.cn/tv/ssis-272梦乃.png",ssis-272梦乃
+#EXTINF:-1 ,ssis-272梦乃
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/1af30b10/index.m3u8
-#EXTINF:-1 tvg-name="ssis-273架乃" tvg-logo="https://live.fanmingming.cn/tv/ssis-273架乃.png",ssis-273架乃
+#EXTINF:-1 ,ssis-273架乃
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/7492e618/index.m3u8
-#EXTINF:-1 tvg-name="ssis-274星宫一花" tvg-logo="https://live.fanmingming.cn/tv/ssis-274星宫一花.png",ssis-274星宫一花
+#EXTINF:-1 ,ssis-274星宫一花
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/da8d8552/index.m3u8
-#EXTINF:-1 tvg-name="ssis-276乙白" tvg-logo="https://live.fanmingming.cn/tv/ssis-276乙白.png",ssis-276乙白
+#EXTINF:-1 ,ssis-276乙白
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/c673a6fd/index.m3u8
-#EXTINF:-1 tvg-name="ssis-280河北彩花" tvg-logo="https://live.fanmingming.cn/tv/ssis-280河北彩花.png",ssis-280河北彩花
+#EXTINF:-1 ,ssis-280河北彩花
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/71518e15/index.m3u8
-#EXTINF:-1 tvg-name="ssis-284香澄" tvg-logo="https://live.fanmingming.cn/tv/ssis-284香澄.png",ssis-284香澄
+#EXTINF:-1 ,ssis-284香澄
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/07/81e7a67a/index.m3u8
-#EXTINF:-1 tvg-name="ssis-285山手梨爱" tvg-logo="https://live.fanmingming.cn/tv/ssis-285山手梨爱.png",ssis-285山手梨爱
+#EXTINF:-1 ,ssis-285山手梨爱
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/e94594fb/index.m3u8
-#EXTINF:-1 tvg-name="ssis-287三上悠亜" tvg-logo="https://live.fanmingming.cn/tv/ssis-287三上悠亜.png",ssis-287三上悠亜
+#EXTINF:-1 ,ssis-287三上悠亜
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/0d2ad410/index.m3u8
-#EXTINF:-1 tvg-name="ssis-292ひなたまりん" tvg-logo="https://live.fanmingming.cn/tv/ssis-292ひなたまりん.png",ssis-292ひなたまりん
+#EXTINF:-1 ,ssis-292ひなたまりん
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/ddbc06bc/index.m3u8
-#EXTINF:-1 tvg-name="ssis-293七ツ森" tvg-logo="https://live.fanmingming.cn/tv/ssis-293七ツ森.png",ssis-293七ツ森
+#EXTINF:-1 ,ssis-293七ツ森
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/4d62c1da/index.m3u8
-#EXTINF:-1 tvg-name="ssis-299爱宝" tvg-logo="https://live.fanmingming.cn/tv/ssis-299爱宝.png",ssis-299爱宝
+#EXTINF:-1 ,ssis-299爱宝
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/2b09cb68/index.m3u8
-#EXTINF:-1 tvg-name="ssis-349山手梨爱" tvg-logo="https://live.fanmingming.cn/tv/ssis-349山手梨爱.png",ssis-349山手梨爱
+#EXTINF:-1 ,ssis-349山手梨爱
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/23/87309cc7/index.m3u8
-#EXTINF:-1 tvg-name="ssis-350爱宝" tvg-logo="https://live.fanmingming.cn/tv/ssis-350爱宝.png",ssis-350爱宝
+#EXTINF:-1 ,ssis-350爱宝
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/23/fca391c6/index.m3u8
-#EXTINF:-1 tvg-name="ssis-353梦乃" tvg-logo="https://live.fanmingming.cn/tv/ssis-353梦乃.png",ssis-353梦乃
+#EXTINF:-1 ,ssis-353梦乃
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/03/fe5a9ab5/index.m3u8
-#EXTINF:-1 tvg-name="ssis-355星宫一花" tvg-logo="https://live.fanmingming.cn/tv/ssis-355星宫一花.png",ssis-355星宫一花
+#EXTINF:-1 ,ssis-355星宫一花
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/03/1907602b/index.m3u8
-#EXTINF:-1 tvg-name="ssis-363香澄" tvg-logo="https://live.fanmingming.cn/tv/ssis-363香澄.png",ssis-363香澄
+#EXTINF:-1 ,ssis-363香澄
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/29/dfd9a2fd/index.m3u8
-#EXTINF:-1 tvg-name="ssni-065吉沢明歩" tvg-logo="https://live.fanmingming.cn/tv/ssni-065吉沢明歩.png",ssni-065吉沢明歩
+#EXTINF:-1 ,ssni-065吉沢明歩
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/874c5d96/index.m3u8
-#EXTINF:-1 tvg-name="ssni-347梦乃" tvg-logo="https://live.fanmingming.cn/tv/ssni-347梦乃.png",ssni-347梦乃
+#EXTINF:-1 ,ssni-347梦乃
 https://t17.cdn2020.com:12341/video/m3u8/2022/04/06/3129edd7/index.m3u8
-#EXTINF:-1 tvg-name="ssni-595架乃" tvg-logo="https://live.fanmingming.cn/tv/ssni-595架乃.png",ssni-595架乃
+#EXTINF:-1 ,ssni-595架乃
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/19/4e0d89be/index.m3u8
-#EXTINF:-1 tvg-name="SSNI-658A" tvg-logo="https://live.fanmingming.cn/tv/SSNI-658A.png",SSNI-658A
+#EXTINF:-1 ,SSNI-658A
 https://siwazywcdn2.com:5278/zhongkouwei/nwba4LUx/index.m3u8
-#EXTINF:-1 tvg-name="SSNI-658B" tvg-logo="https://live.fanmingming.cn/tv/SSNI-658B.png",SSNI-658B
+#EXTINF:-1 ,SSNI-658B
 https://siwazywcdn2.com:5278/zhongkouwei/WBdOE3qp/index.m3u8
-#EXTINF:-1 tvg-name="ssni-778儿玉玲奈" tvg-logo="https://live.fanmingming.cn/tv/ssni-778儿玉玲奈.png",ssni-778儿玉玲奈
+#EXTINF:-1 ,ssni-778儿玉玲奈
 https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
-#EXTINF:-1 tvg-name="sspd-166二宮川上奈々美" tvg-logo="https://live.fanmingming.cn/tv/sspd-166二宮川上奈々美.png",sspd-166二宮川上奈々美
+#EXTINF:-1 ,sspd-166二宮川上奈々美
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/d647a87d/index.m3u8
-#EXTINF:-1 tvg-name="STARS-143" tvg-logo="https://live.fanmingming.cn/tv/STARS-143.png",STARS-143
+#EXTINF:-1 ,STARS-143
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/e7961884/index.m3u8
-#EXTINF:-1 tvg-name="STARS-172" tvg-logo="https://live.fanmingming.cn/tv/STARS-172.png",STARS-172
+#EXTINF:-1 ,STARS-172
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/414e6290/index.m3u8
-#EXTINF:-1 tvg-name="stars-199夏目響" tvg-logo="https://live.fanmingming.cn/tv/stars-199夏目響.png",stars-199夏目響
+#EXTINF:-1 ,stars-199夏目響
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/f4797d73/index.m3u8
-#EXTINF:-1 tvg-name="stars-258小仓由菜" tvg-logo="https://live.fanmingming.cn/tv/stars-258小仓由菜.png",stars-258小仓由菜
+#EXTINF:-1 ,stars-258小仓由菜
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/01/232731d5/index.m3u8
-#EXTINF:-1 tvg-name="stars-410唯井" tvg-logo="https://live.fanmingming.cn/tv/stars-410唯井.png",stars-410唯井
+#EXTINF:-1 ,stars-410唯井
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/f7717872/index.m3u8
-#EXTINF:-1 tvg-name="stars-418本庄铃" tvg-logo="https://live.fanmingming.cn/tv/stars-418本庄铃.png",stars-418本庄铃
+#EXTINF:-1 ,stars-418本庄铃
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/53121346/index.m3u8
-#EXTINF:-1 tvg-name="stars-419真白美生" tvg-logo="https://live.fanmingming.cn/tv/stars-419真白美生.png",stars-419真白美生
+#EXTINF:-1 ,stars-419真白美生
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/cd8af00a/index.m3u8
-#EXTINF:-1 tvg-name="stars-431吉永" tvg-logo="https://live.fanmingming.cn/tv/stars-431吉永.png",stars-431吉永
+#EXTINF:-1 ,stars-431吉永
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/3549ebc6/index.m3u8
-#EXTINF:-1 tvg-name="stars-445天宫花南" tvg-logo="https://live.fanmingming.cn/tv/stars-445天宫花南.png",stars-445天宫花南
+#EXTINF:-1 ,stars-445天宫花南
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/5f5b43be/index.m3u8
-#EXTINF:-1 tvg-name="stars-449小仓由菜" tvg-logo="https://live.fanmingming.cn/tv/stars-449小仓由菜.png",stars-449小仓由菜
+#EXTINF:-1 ,stars-449小仓由菜
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/30678f6e/index.m3u8
-#EXTINF:-1 tvg-name="stars-450本庄鈴" tvg-logo="https://live.fanmingming.cn/tv/stars-450本庄鈴.png",stars-450本庄鈴
+#EXTINF:-1 ,stars-450本庄鈴
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/08/dca5a25a/index.m3u8
-#EXTINF:-1 tvg-name="stars-469夏目响" tvg-logo="https://live.fanmingming.cn/tv/stars-469夏目响.png",stars-469夏目响
+#EXTINF:-1 ,stars-469夏目响
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/903b13ee/index.m3u8
-#EXTINF:-1 tvg-name="stars-498青空" tvg-logo="https://live.fanmingming.cn/tv/stars-498青空.png",stars-498青空
+#EXTINF:-1 ,stars-498青空
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/1c267124/index.m3u8
-#EXTINF:-1 tvg-name="stars-556青空" tvg-logo="https://live.fanmingming.cn/tv/stars-556青空.png",stars-556青空
+#EXTINF:-1 ,stars-556青空
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/22/377a0b0c/index.m3u8
-#EXTINF:-1 tvg-name="stars-877小仓由菜" tvg-logo="https://live.fanmingming.cn/tv/stars-877小仓由菜.png",stars-877小仓由菜
+#EXTINF:-1 ,stars-877小仓由菜
 https://t11.cdn2020.com:12336/video/m3u8/2021/08/31/6c20405e/index.m3u8
-#EXTINF:-1 tvg-name="svdvd-739蜜月旅行" tvg-logo="https://live.fanmingming.cn/tv/svdvd-739蜜月旅行.png",svdvd-739蜜月旅行
+#EXTINF:-1 ,svdvd-739蜜月旅行
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/23/6187d575/index.m3u8
-#EXTINF:-1 tvg-name="sw-191 梦の" tvg-logo="https://live.fanmingming.cn/tv/sw-191 梦の.png",sw-191 梦の
+#EXTINF:-1 ,sw-191 梦の
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/15/00fac91e/index.m3u8
-#EXTINF:-1 tvg-name="TOEN-048" tvg-logo="https://live.fanmingming.cn/tv/TOEN-048.png",TOEN-048
+#EXTINF:-1 ,TOEN-048
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/08f31bad/index.m3u8
-#EXTINF:-1 tvg-name="tppn-210広瀬" tvg-logo="https://live.fanmingming.cn/tv/tppn-210広瀬.png",tppn-210広瀬
+#EXTINF:-1 ,tppn-210広瀬
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/25/c350039a/index.m3u8
-#EXTINF:-1 tvg-name="UMD-737奏音花音" tvg-logo="https://live.fanmingming.cn/tv/UMD-737奏音花音.png",UMD-737奏音花音
+#EXTINF:-1 ,UMD-737奏音花音
 https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="ure-059妃" tvg-logo="https://live.fanmingming.cn/tv/ure-059妃.png",ure-059妃
+#EXTINF:-1 ,ure-059妃
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/15/cd710bb9/index.m3u8
-#EXTINF:-1 tvg-name="ure-076初川" tvg-logo="https://live.fanmingming.cn/tv/ure-076初川.png",ure-076初川
+#EXTINF:-1 ,ure-076初川
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/15b8c0eb/index.m3u8
-#EXTINF:-1 tvg-name="usba-032藤森里穂" tvg-logo="https://live.fanmingming.cn/tv/usba-032藤森里穂.png",usba-032藤森里穂
+#EXTINF:-1 ,usba-032藤森里穂
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/24/419c982e/index.m3u8
-#EXTINF:-1 tvg-name="vec-514北野未奈" tvg-logo="https://live.fanmingming.cn/tv/vec-514北野未奈.png",vec-514北野未奈
+#EXTINF:-1 ,vec-514北野未奈
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/13/0dc53602/index.m3u8
-#EXTINF:-1 tvg-name="vec-518川西千帆" tvg-logo="https://live.fanmingming.cn/tv/vec-518川西千帆.png",vec-518川西千帆
+#EXTINF:-1 ,vec-518川西千帆
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/16/9fa939f4/index.m3u8
-#EXTINF:-1 tvg-name="venu-769星奈" tvg-logo="https://live.fanmingming.cn/tv/venu-769星奈.png",venu-769星奈
+#EXTINF:-1 ,venu-769星奈
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/19/6a61a871/index.m3u8
-#EXTINF:-1 tvg-name="venx-069相马茜" tvg-logo="https://live.fanmingming.cn/tv/venx-069相马茜.png",venx-069相马茜
+#EXTINF:-1 ,venx-069相马茜
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/040e9f76/index.m3u8
-#EXTINF:-1 tvg-name="venx-097川西千帆" tvg-logo="https://live.fanmingming.cn/tv/venx-097川西千帆.png",venx-097川西千帆
+#EXTINF:-1 ,venx-097川西千帆
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/03/74cc63f7/index.m3u8
-#EXTINF:-1 tvg-name="venx-099北野未奈" tvg-logo="https://live.fanmingming.cn/tv/venx-099北野未奈.png",venx-099北野未奈
+#EXTINF:-1 ,venx-099北野未奈
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/f3816a72/index.m3u8
-#EXTINF:-1 tvg-name="venx-102相马茜" tvg-logo="https://live.fanmingming.cn/tv/venx-102相马茜.png",venx-102相马茜
+#EXTINF:-1 ,venx-102相马茜
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/f5166646/index.m3u8
-#EXTINF:-1 tvg-name="venx-111桜庭" tvg-logo="https://live.fanmingming.cn/tv/venx-111桜庭.png",venx-111桜庭
+#EXTINF:-1 ,venx-111桜庭
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/16/8d55dd9c/index.m3u8
-#EXTINF:-1 tvg-name="WAAA-087工藤良罗" tvg-logo="https://live.fanmingming.cn/tv/WAAA-087工藤良罗.png",WAAA-087工藤良罗
+#EXTINF:-1 ,WAAA-087工藤良罗
 https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
-#EXTINF:-1 tvg-name="waaa-102広瀬" tvg-logo="https://live.fanmingming.cn/tv/waaa-102広瀬.png",waaa-102広瀬
+#EXTINF:-1 ,waaa-102広瀬
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/b87142d5/index.m3u8
-#EXTINF:-1 tvg-name="waaa-104君岛" tvg-logo="https://live.fanmingming.cn/tv/waaa-104君岛.png",waaa-104君岛
+#EXTINF:-1 ,waaa-104君岛
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/710d5dfe/index.m3u8
-#EXTINF:-1 tvg-name="waaa-106" tvg-logo="https://live.fanmingming.cn/tv/waaa-106.png",waaa-106
+#EXTINF:-1 ,waaa-106
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/11/7c31b20e/index.m3u8
-#EXTINF:-1 tvg-name="waaa-115妃" tvg-logo="https://live.fanmingming.cn/tv/waaa-115妃.png",waaa-115妃
+#EXTINF:-1 ,waaa-115妃
 https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/3b238b38/index.m3u8
-#EXTINF:-1 tvg-name="waaa-128" tvg-logo="https://live.fanmingming.cn/tv/waaa-128.png",waaa-128
+#EXTINF:-1 ,waaa-128
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/15/166cdfea/index.m3u8
-#EXTINF:-1 tvg-name="waaa-134工藤" tvg-logo="https://live.fanmingming.cn/tv/waaa-134工藤.png",waaa-134工藤
+#EXTINF:-1 ,waaa-134工藤
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/17/7ed2cc24/index.m3u8
-#EXTINF:-1 tvg-name="wanz-360吉永" tvg-logo="https://live.fanmingming.cn/tv/wanz-360吉永.png",wanz-360吉永
+#EXTINF:-1 ,wanz-360吉永
 https://t11.cdn2020.com:12336/video/m3u8/2021/09/19/3a24c0c9/index.m3u8
-#EXTINF:-1 tvg-name="WANZ-957奏音花音" tvg-logo="https://live.fanmingming.cn/tv/WANZ-957奏音花音.png",WANZ-957奏音花音
+#EXTINF:-1 ,WANZ-957奏音花音
 https://videomy.yongaomy.com/20211017/jSi0DQcD/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="xvsr-610波多野结衣" tvg-logo="https://live.fanmingming.cn/tv/xvsr-610波多野结衣.png",xvsr-610波多野结衣
+#EXTINF:-1 ,xvsr-610波多野结衣
 https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/ee9c2367/index.m3u8
-#EXTINF:-1 tvg-name="xvsr-612渡辺" tvg-logo="https://live.fanmingming.cn/tv/xvsr-612渡辺.png",xvsr-612渡辺
+#EXTINF:-1 ,xvsr-612渡辺
 https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/edecc33f/index.m3u8
-#EXTINF:-1 tvg-name="xvsr-628咲野瑞希" tvg-logo="https://live.fanmingming.cn/tv/xvsr-628咲野瑞希.png",xvsr-628咲野瑞希
+#EXTINF:-1 ,xvsr-628咲野瑞希
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/6b178ebf/index.m3u8
-#EXTINF:-1 tvg-name="xvsr-632逢见" tvg-logo="https://live.fanmingming.cn/tv/xvsr-632逢见.png",xvsr-632逢见
+#EXTINF:-1 ,xvsr-632逢见
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/b90fc686/index.m3u8
-#EXTINF:-1 tvg-name="xvsr-633咲野瑞希" tvg-logo="https://live.fanmingming.cn/tv/xvsr-633咲野瑞希.png",xvsr-633咲野瑞希
+#EXTINF:-1 ,xvsr-633咲野瑞希
 https://t17.cdn2020.com:12341/video/m3u8/2022/03/16/e9516315/index.m3u8
-#EXTINF:-1 tvg-name="ymdd-240白川" tvg-logo="https://live.fanmingming.cn/tv/ymdd-240白川.png",ymdd-240白川
+#EXTINF:-1 ,ymdd-240白川
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/ba7e3a25/index.m3u8
-#EXTINF:-1 tvg-name="ymdd-242白川奏音" tvg-logo="https://live.fanmingming.cn/tv/ymdd-242白川奏音.png",ymdd-242白川奏音
+#EXTINF:-1 ,ymdd-242白川奏音
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/31/a08937ab/index.m3u8
-#EXTINF:-1 tvg-name="ysn-565渚" tvg-logo="https://live.fanmingming.cn/tv/ysn-565渚.png",ysn-565渚
+#EXTINF:-1 ,ysn-565渚
 https://t15.cdn2020.com:12339/video/m3u8/2022/02/02/0bf471ba/index.m3u8
-#EXTINF:-1 tvg-name="ysn-566高瀬" tvg-logo="https://live.fanmingming.cn/tv/ysn-566高瀬.png",ysn-566高瀬
+#EXTINF:-1 ,ysn-566高瀬
 https://t15.cdn2020.com:12339/video/m3u8/2022/01/27/96dc5cd0/index.m3u8
-#EXTINF:-1 tvg-name="3A视频" tvg-logo="https://live.fanmingming.cn/tv/3A视频.png",3A视频
-undefined
-#EXTINF:-1 tvg-name="Blowjob" tvg-logo="https://live.fanmingming.cn/tv/Blowjob.png",Blowjob
+#EXTINF:-1 ,====== 3A视频 ======
+http://1/1.m3u8
+#EXTINF:-1 ,Blowjob
 http://live.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-name="Teen" tvg-logo="https://live.fanmingming.cn/tv/Teen.png",Teen
+#EXTINF:-1 ,Teen
 http://live.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-name="Hardcore" tvg-logo="https://live.fanmingming.cn/tv/Hardcore.png",Hardcore
+#EXTINF:-1 ,Hardcore
 http://live.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-name="Cuckold" tvg-logo="https://live.fanmingming.cn/tv/Cuckold.png",Cuckold
+#EXTINF:-1 ,Cuckold
 http://live.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-name="Threesome" tvg-logo="https://live.fanmingming.cn/tv/Threesome.png",Threesome
+#EXTINF:-1 ,Threesome
 http://live.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-name="Russian" tvg-logo="https://live.fanmingming.cn/tv/Russian.png",Russian
+#EXTINF:-1 ,Russian
 http://live.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-name="Lesbian" tvg-logo="https://live.fanmingming.cn/tv/Lesbian.png",Lesbian
+#EXTINF:-1 ,Lesbian
 http://live.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-name="Rough" tvg-logo="https://live.fanmingming.cn/tv/Rough.png",Rough
+#EXTINF:-1 ,Rough
 http://live.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-name="Compilation" tvg-logo="https://live.fanmingming.cn/tv/Compilation.png",Compilation
+#EXTINF:-1 ,Compilation
 http://live.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-name="Brunette" tvg-logo="https://live.fanmingming.cn/tv/Brunette.png",Brunette
+#EXTINF:-1 ,Brunette
 http://live.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-name="Blonde" tvg-logo="https://live.fanmingming.cn/tv/Blonde.png",Blonde
+#EXTINF:-1 ,Blonde
 http://live.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-name="Gay" tvg-logo="https://live.fanmingming.cn/tv/Gay.png",Gay
+#EXTINF:-1 ,Gay
 http://live.adultiptv.net/gay.m3u8
-#EXTINF:-1 tvg-name="Asian" tvg-logo="https://live.fanmingming.cn/tv/Asian.png",Asian
+#EXTINF:-1 ,Asian
 http://live.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-name="耳边细语" tvg-logo="https://live.fanmingming.cn/tv/耳边细语.png",耳边细语
+#EXTINF:-1 ,耳边细语
 https://siwazywcdn2.com:5278/zhongwenzimu/07fs3XqF/index.m3u8
-#EXTINF:-1 tvg-name="风俗女郎都咲乃" tvg-logo="https://live.fanmingming.cn/tv/风俗女郎都咲乃.png",风俗女郎都咲乃
+#EXTINF:-1 ,风俗女郎都咲乃
 https://videomy.yongaomy.com:8091/20191223/jYalymoY/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="花音1" tvg-logo="https://live.fanmingming.cn/tv/花音1.png",花音1
+#EXTINF:-1 ,花音1
 https://fc.maa1809.com/e/pjnvmkrplq/pjnvmkrplq.m3u8
-#EXTINF:-1 tvg-name="姫川" tvg-logo="https://live.fanmingming.cn/tv/姫川.png",姫川
+#EXTINF:-1 ,姫川
 https://videomy.yongaomy.com:8091/20200102/IeVDOH6i/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="姬野栞" tvg-logo="https://live.fanmingming.cn/tv/姬野栞.png",姬野栞
+#EXTINF:-1 ,姬野栞
 https://fc.maa1809.com/g/rnhlghoqyo/rnhlghoqyo.m3u8
-#EXTINF:-1 tvg-name="吉岗" tvg-logo="https://live.fanmingming.cn/tv/吉岗.png",吉岗
+#EXTINF:-1 ,吉岗
 https://videomy.yongaomy.com:8091/20191223/4ZcJ3aPo/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="加勒比206西川" tvg-logo="https://live.fanmingming.cn/tv/加勒比206西川.png",加勒比206西川
+#EXTINF:-1 ,加勒比206西川
 https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
-#EXTINF:-1 tvg-name="加勒比350丘笑" tvg-logo="https://live.fanmingming.cn/tv/加勒比350丘笑.png",加勒比350丘笑
+#EXTINF:-1 ,加勒比350丘笑
 https://fc.maa1808.com/f/ocyxhukqvo/ocyxhukqvo.m3u8
-#EXTINF:-1 tvg-name="加勒比612希笑" tvg-logo="https://live.fanmingming.cn/tv/加勒比612希笑.png",加勒比612希笑
+#EXTINF:-1 ,加勒比612希笑
 https://fc.maa1808.com/n/kqnjvnpjkm/kqnjvnpjkm.m3u8
-#EXTINF:-1 tvg-name="教育" tvg-logo="https://live.fanmingming.cn/tv/教育.png",教育
+#EXTINF:-1 ,教育
 https://videomy.yongaomy.com:8091/20191226/OuJg40gL/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="姐姐的诱惑" tvg-logo="https://live.fanmingming.cn/tv/姐姐的诱惑.png",姐姐的诱惑
+#EXTINF:-1 ,姐姐的诱惑
 https://videomy.yongaomy.com:8091/20191226/ezCT3OZC/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="九重环奈4" tvg-logo="https://live.fanmingming.cn/tv/九重环奈4.png",九重环奈4
+#EXTINF:-1 ,九重环奈4
 https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-503/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="九重环奈5" tvg-logo="https://live.fanmingming.cn/tv/九重环奈5.png",九重环奈5
+#EXTINF:-1 ,九重环奈5
 https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-525/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="九重环奈6" tvg-logo="https://live.fanmingming.cn/tv/九重环奈6.png",九重环奈6
+#EXTINF:-1 ,九重环奈6
 https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-513/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="九重环奈7" tvg-logo="https://live.fanmingming.cn/tv/九重环奈7.png",九重环奈7
+#EXTINF:-1 ,九重环奈7
 https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-535/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="笠木一香" tvg-logo="https://live.fanmingming.cn/tv/笠木一香.png",笠木一香
+#EXTINF:-1 ,笠木一香
 https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
-#EXTINF:-1 tvg-name="疗愈大叔" tvg-logo="https://live.fanmingming.cn/tv/疗愈大叔.png",疗愈大叔
+#EXTINF:-1 ,疗愈大叔
 https://videomy.yongaomy.com:8091/20191227/jPKXM7bL/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="妹妹" tvg-logo="https://live.fanmingming.cn/tv/妹妹.png",妹妹
+#EXTINF:-1 ,妹妹
 https://videomy.yongaomy.com:8091/20200126/SW-587/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="帕科马马-希笑" tvg-logo="https://live.fanmingming.cn/tv/帕科马马-希笑.png",帕科马马-希笑
+#EXTINF:-1 ,帕科马马-希笑
 https://fc.maa1808.com/m/rwrhezjunn/rwrhezjunn.m3u8
-#EXTINF:-1 tvg-name="去学校" tvg-logo="https://live.fanmingming.cn/tv/去学校.png",去学校
+#EXTINF:-1 ,去学校
 https://videomy.yongaomy.com:8091/20200126/IPZ-949/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="全神贯注" tvg-logo="https://live.fanmingming.cn/tv/全神贯注.png",全神贯注
+#EXTINF:-1 ,全神贯注
 https://videomy.yongaomy.com:8091/20200126/IPX-428/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="三原穗花加藤绫野" tvg-logo="https://live.fanmingming.cn/tv/三原穗花加藤绫野.png",三原穗花加藤绫野
+#EXTINF:-1 ,三原穗花加藤绫野
 https://fc.maa1809.com/h/qjotnrtkkh/qjotnrtkkh.m3u8
-#EXTINF:-1 tvg-name="侍奉女仆" tvg-logo="https://live.fanmingming.cn/tv/侍奉女仆.png",侍奉女仆
+#EXTINF:-1 ,侍奉女仆
 https://videomy.yongaomy.com:8091/20200126/MIDE-066/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="松永纱奈2" tvg-logo="https://live.fanmingming.cn/tv/松永纱奈2.png",松永纱奈2
+#EXTINF:-1 ,松永纱奈2
 https://fc.maa1809.com/e/ohtlknkomr/ohtlknkomr.m3u8
-#EXTINF:-1 tvg-name="松永纱奈3" tvg-logo="https://live.fanmingming.cn/tv/松永纱奈3.png",松永纱奈3
+#EXTINF:-1 ,松永纱奈3
 https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8
-#EXTINF:-1 tvg-name="松永纱奈4" tvg-logo="https://live.fanmingming.cn/tv/松永纱奈4.png",松永纱奈4
+#EXTINF:-1 ,松永纱奈4
 https://fc.maa1809.com/f/knmpkoqmjg/knmpkoqmjg.m3u8
-#EXTINF:-1 tvg-name="松永纱奈5" tvg-logo="https://live.fanmingming.cn/tv/松永纱奈5.png",松永纱奈5
+#EXTINF:-1 ,松永纱奈5
 https://fc.maa1809.com/d/kvrynihixm/kvrynihixm.m3u8
-#EXTINF:-1 tvg-name="松永纱奈6" tvg-logo="https://live.fanmingming.cn/tv/松永纱奈6.png",松永纱奈6
+#EXTINF:-1 ,松永纱奈6
 https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8
-#EXTINF:-1 tvg-name="天海翼" tvg-logo="https://live.fanmingming.cn/tv/天海翼.png",天海翼
+#EXTINF:-1 ,天海翼
 https://videomy.yongaomy.com:8091/20200111/IPZ-615/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌1" tvg-logo="https://live.fanmingming.cn/tv/天使萌1.png",天使萌1
+#EXTINF:-1 ,天使萌1
 https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-210/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌4" tvg-logo="https://live.fanmingming.cn/tv/天使萌4.png",天使萌4
+#EXTINF:-1 ,天使萌4
 https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-270/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌5" tvg-logo="https://live.fanmingming.cn/tv/天使萌5.png",天使萌5
+#EXTINF:-1 ,天使萌5
 https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-929/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌6" tvg-logo="https://live.fanmingming.cn/tv/天使萌6.png",天使萌6
+#EXTINF:-1 ,天使萌6
 https://video1.rhsj520.com:8091/nyrm3/snis/3/ssni-380/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌7" tvg-logo="https://live.fanmingming.cn/tv/天使萌7.png",天使萌7
+#EXTINF:-1 ,天使萌7
 https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-331/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌11" tvg-logo="https://live.fanmingming.cn/tv/天使萌11.png",天使萌11
+#EXTINF:-1 ,天使萌11
 https://videomy.yongaomy.com:8091/20200110/SNIS-311/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="天使萌12" tvg-logo="https://live.fanmingming.cn/tv/天使萌12.png",天使萌12
+#EXTINF:-1 ,天使萌12
 https://videomy.yongaomy.com:8091/20200112/SNIS-440/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="相部屋" tvg-logo="https://live.fanmingming.cn/tv/相部屋.png",相部屋
+#EXTINF:-1 ,相部屋
 https://videomy.yongaomy.com:8091/20200126/SSNI-674/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="香皂小姐姐" tvg-logo="https://live.fanmingming.cn/tv/香皂小姐姐.png",香皂小姐姐
+#EXTINF:-1 ,香皂小姐姐
 https://videomy.yongaomy.com:8091/20191223/R6Tq7Ldb/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="筱原友香1" tvg-logo="https://live.fanmingming.cn/tv/筱原友香1.png",筱原友香1
+#EXTINF:-1 ,筱原友香1
 https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
-#EXTINF:-1 tvg-name="筱原友香2" tvg-logo="https://live.fanmingming.cn/tv/筱原友香2.png",筱原友香2
+#EXTINF:-1 ,筱原友香2
 https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
-#EXTINF:-1 tvg-name="咲咲原凛星奈爱" tvg-logo="https://live.fanmingming.cn/tv/咲咲原凛星奈爱.png",咲咲原凛星奈爱
+#EXTINF:-1 ,咲咲原凛星奈爱
 https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
-#EXTINF:-1 tvg-name="雪音" tvg-logo="https://live.fanmingming.cn/tv/雪音.png",雪音
+#EXTINF:-1 ,雪音
 https://siwazywcdn2.com:5278/zhongwenzimu/23fVU6wT/index.m3u8
-#EXTINF:-1 tvg-name="叶月梨乃" tvg-logo="https://live.fanmingming.cn/tv/叶月梨乃.png",叶月梨乃
+#EXTINF:-1 ,叶月梨乃
 https://siwazywcdn2.com:5278/ribenyouma/6F2acdoY/index.m3u8
-#EXTINF:-1 tvg-name="伊藤优希" tvg-logo="https://live.fanmingming.cn/tv/伊藤优希.png",伊藤优希
+#EXTINF:-1 ,伊藤优希
 https://fc.maa1809.com/d/hmjfiplneo/hmjfiplneo.m3u8
-#EXTINF:-1 tvg-name="音羽" tvg-logo="https://live.fanmingming.cn/tv/音羽.png",音羽
+#EXTINF:-1 ,音羽
 https://fc.maa1809.com/c/nokhxqnqpj/nokhxqnqpj.m3u8
-#EXTINF:-1 tvg-name="银河迹美" tvg-logo="https://live.fanmingming.cn/tv/银河迹美.png",银河迹美
+#EXTINF:-1 ,银河迹美
 https://videomy.yongaomy.com:8091/20200126/MDTM-357/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-name="永濑唯" tvg-logo="https://live.fanmingming.cn/tv/永濑唯.png",永濑唯
+#EXTINF:-1 ,永濑唯
 https://fc.maa1809.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
-#EXTINF:-1 tvg-name="abw-147白玉海藻" tvg-logo="https://live.fanmingming.cn/tv/abw-147白玉海藻.png",abw-147白玉海藻
+#EXTINF:-1 ,abw-147白玉海藻
 https://t12.cdn2020.com:12337/video/m3u8/2021/10/09/472fb0e4/index.m3u8
-#EXTINF:-1 tvg-name="carib288西川" tvg-logo="https://live.fanmingming.cn/tv/carib288西川.png",carib288西川
+#EXTINF:-1 ,carib288西川
 https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
-#EXTINF:-1 tvg-name="carib311西川" tvg-logo="https://live.fanmingming.cn/tv/carib311西川.png",carib311西川
+#EXTINF:-1 ,carib311西川
 https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
-#EXTINF:-1 tvg-name="carib337西川" tvg-logo="https://live.fanmingming.cn/tv/carib337西川.png",carib337西川
+#EXTINF:-1 ,carib337西川
 https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
-#EXTINF:-1 tvg-name="carib339姬川" tvg-logo="https://live.fanmingming.cn/tv/carib339姬川.png",carib339姬川
+#EXTINF:-1 ,carib339姬川
 https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
-#EXTINF:-1 tvg-name="carib363西川" tvg-logo="https://live.fanmingming.cn/tv/carib363西川.png",carib363西川
+#EXTINF:-1 ,carib363西川
 https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
-#EXTINF:-1 tvg-name="carib375姬川" tvg-logo="https://live.fanmingming.cn/tv/carib375姬川.png",carib375姬川
+#EXTINF:-1 ,carib375姬川
 https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
-#EXTINF:-1 tvg-name="carib375姬川" tvg-logo="https://live.fanmingming.cn/tv/carib375姬川.png",carib375姬川
+#EXTINF:-1 ,carib375姬川
 https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
-#EXTINF:-1 tvg-name="carib420丘笑" tvg-logo="https://live.fanmingming.cn/tv/carib420丘笑.png",carib420丘笑
+#EXTINF:-1 ,carib420丘笑
 https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
-#EXTINF:-1 tvg-name="carib433姬川" tvg-logo="https://live.fanmingming.cn/tv/carib433姬川.png",carib433姬川
+#EXTINF:-1 ,carib433姬川
 https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
-#EXTINF:-1 tvg-name="carib449神田" tvg-logo="https://live.fanmingming.cn/tv/carib449神田.png",carib449神田
+#EXTINF:-1 ,carib449神田
 https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
-#EXTINF:-1 tvg-name="carib457北川" tvg-logo="https://live.fanmingming.cn/tv/carib457北川.png",carib457北川
+#EXTINF:-1 ,carib457北川
 https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
-#EXTINF:-1 tvg-name="carib474立花琉莉" tvg-logo="https://live.fanmingming.cn/tv/carib474立花琉莉.png",carib474立花琉莉
+#EXTINF:-1 ,carib474立花琉莉
 https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
-#EXTINF:-1 tvg-name="carib478北川" tvg-logo="https://live.fanmingming.cn/tv/carib478北川.png",carib478北川
+#EXTINF:-1 ,carib478北川
 https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
-#EXTINF:-1 tvg-name="carib495神田" tvg-logo="https://live.fanmingming.cn/tv/carib495神田.png",carib495神田
+#EXTINF:-1 ,carib495神田
 https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
-#EXTINF:-1 tvg-name="carib531立花琉莉" tvg-logo="https://live.fanmingming.cn/tv/carib531立花琉莉.png",carib531立花琉莉
+#EXTINF:-1 ,carib531立花琉莉
 https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
-#EXTINF:-1 tvg-name="carib533丘笑" tvg-logo="https://live.fanmingming.cn/tv/carib533丘笑.png",carib533丘笑
+#EXTINF:-1 ,carib533丘笑
 https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
-#EXTINF:-1 tvg-name="carib541神田" tvg-logo="https://live.fanmingming.cn/tv/carib541神田.png",carib541神田
+#EXTINF:-1 ,carib541神田
 https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
-#EXTINF:-1 tvg-name="carib563爱莉" tvg-logo="https://live.fanmingming.cn/tv/carib563爱莉.png",carib563爱莉
+#EXTINF:-1 ,carib563爱莉
 https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
-#EXTINF:-1 tvg-name="carib563七濑" tvg-logo="https://live.fanmingming.cn/tv/carib563七濑.png",carib563七濑
+#EXTINF:-1 ,carib563七濑
 https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
-#EXTINF:-1 tvg-name="carib589立花琉莉" tvg-logo="https://live.fanmingming.cn/tv/carib589立花琉莉.png",carib589立花琉莉
+#EXTINF:-1 ,carib589立花琉莉
 https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
-#EXTINF:-1 tvg-name="carib639神田" tvg-logo="https://live.fanmingming.cn/tv/carib639神田.png",carib639神田
+#EXTINF:-1 ,carib639神田
 https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
-#EXTINF:-1 tvg-name="carib665姬川" tvg-logo="https://live.fanmingming.cn/tv/carib665姬川.png",carib665姬川
+#EXTINF:-1 ,carib665姬川
 https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
-#EXTINF:-1 tvg-name="carib665姬川" tvg-logo="https://live.fanmingming.cn/tv/carib665姬川.png",carib665姬川
+#EXTINF:-1 ,carib665姬川
 https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
-#EXTINF:-1 tvg-name="carib674杏奈" tvg-logo="https://live.fanmingming.cn/tv/carib674杏奈.png",carib674杏奈
+#EXTINF:-1 ,carib674杏奈
 https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
-#EXTINF:-1 tvg-name="carib675神田" tvg-logo="https://live.fanmingming.cn/tv/carib675神田.png",carib675神田
+#EXTINF:-1 ,carib675神田
 https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
-#EXTINF:-1 tvg-name="carib710神田" tvg-logo="https://live.fanmingming.cn/tv/carib710神田.png",carib710神田
+#EXTINF:-1 ,carib710神田
 https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
-#EXTINF:-1 tvg-name="carib717杏奈" tvg-logo="https://live.fanmingming.cn/tv/carib717杏奈.png",carib717杏奈
+#EXTINF:-1 ,carib717杏奈
 https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
-#EXTINF:-1 tvg-name="carib744立花琉莉" tvg-logo="https://live.fanmingming.cn/tv/carib744立花琉莉.png",carib744立花琉莉
+#EXTINF:-1 ,carib744立花琉莉
 https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
-#EXTINF:-1 tvg-name="carib758美笑爱" tvg-logo="https://live.fanmingming.cn/tv/carib758美笑爱.png",carib758美笑爱
+#EXTINF:-1 ,carib758美笑爱
 https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
-#EXTINF:-1 tvg-name="heyzo1243水谷" tvg-logo="https://live.fanmingming.cn/tv/heyzo1243水谷.png",heyzo1243水谷
+#EXTINF:-1 ,heyzo1243水谷
 https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
-#EXTINF:-1 tvg-name="heyzo1262西川" tvg-logo="https://live.fanmingming.cn/tv/heyzo1262西川.png",heyzo1262西川
+#EXTINF:-1 ,heyzo1262西川
 https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
-#EXTINF:-1 tvg-name="heyzo1275水谷" tvg-logo="https://live.fanmingming.cn/tv/heyzo1275水谷.png",heyzo1275水谷
+#EXTINF:-1 ,heyzo1275水谷
 https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
-#EXTINF:-1 tvg-name="heyzo1395姬川" tvg-logo="https://live.fanmingming.cn/tv/heyzo1395姬川.png",heyzo1395姬川
+#EXTINF:-1 ,heyzo1395姬川
 https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
-#EXTINF:-1 tvg-name="heyzo1478丘笑" tvg-logo="https://live.fanmingming.cn/tv/heyzo1478丘笑.png",heyzo1478丘笑
+#EXTINF:-1 ,heyzo1478丘笑
 https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
-#EXTINF:-1 tvg-name="heyzo1544姬川" tvg-logo="https://live.fanmingming.cn/tv/heyzo1544姬川.png",heyzo1544姬川
+#EXTINF:-1 ,heyzo1544姬川
 https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
-#EXTINF:-1 tvg-name="heyzo1570神田" tvg-logo="https://live.fanmingming.cn/tv/heyzo1570神田.png",heyzo1570神田
+#EXTINF:-1 ,heyzo1570神田
 https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
-#EXTINF:-1 tvg-name="heyzo1590神田" tvg-logo="https://live.fanmingming.cn/tv/heyzo1590神田.png",heyzo1590神田
+#EXTINF:-1 ,heyzo1590神田
 https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
-#EXTINF:-1 tvg-name="heyzo1601北川" tvg-logo="https://live.fanmingming.cn/tv/heyzo1601北川.png",heyzo1601北川
+#EXTINF:-1 ,heyzo1601北川
 https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
-#EXTINF:-1 tvg-name="heyzo1638姬川" tvg-logo="https://live.fanmingming.cn/tv/heyzo1638姬川.png",heyzo1638姬川
+#EXTINF:-1 ,heyzo1638姬川
 https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
-#EXTINF:-1 tvg-name="heyzo1691神田" tvg-logo="https://live.fanmingming.cn/tv/heyzo1691神田.png",heyzo1691神田
+#EXTINF:-1 ,heyzo1691神田
 https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
-#EXTINF:-1 tvg-name="heyzo1722杏奈" tvg-logo="https://live.fanmingming.cn/tv/heyzo1722杏奈.png",heyzo1722杏奈
+#EXTINF:-1 ,heyzo1722杏奈
 https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
-#EXTINF:-1 tvg-name="heyzo1786杏奈" tvg-logo="https://live.fanmingming.cn/tv/heyzo1786杏奈.png",heyzo1786杏奈
+#EXTINF:-1 ,heyzo1786杏奈
 https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
-#EXTINF:-1 tvg-name="pondo273水谷" tvg-logo="https://live.fanmingming.cn/tv/pondo273水谷.png",pondo273水谷
+#EXTINF:-1 ,pondo273水谷
 https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
-#EXTINF:-1 tvg-name="pondo311水谷" tvg-logo="https://live.fanmingming.cn/tv/pondo311水谷.png",pondo311水谷
+#EXTINF:-1 ,pondo311水谷
 https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
-#EXTINF:-1 tvg-name="pondo366水谷" tvg-logo="https://live.fanmingming.cn/tv/pondo366水谷.png",pondo366水谷
+#EXTINF:-1 ,pondo366水谷
 https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
-#EXTINF:-1 tvg-name="pondo419西川" tvg-logo="https://live.fanmingming.cn/tv/pondo419西川.png",pondo419西川
+#EXTINF:-1 ,pondo419西川
 https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
-#EXTINF:-1 tvg-name="pondo488姬川" tvg-logo="https://live.fanmingming.cn/tv/pondo488姬川.png",pondo488姬川
+#EXTINF:-1 ,pondo488姬川
 https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
-#EXTINF:-1 tvg-name="pondo518姬川" tvg-logo="https://live.fanmingming.cn/tv/pondo518姬川.png",pondo518姬川
+#EXTINF:-1 ,pondo518姬川
 https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
-#EXTINF:-1 tvg-name="pondo559北川" tvg-logo="https://live.fanmingming.cn/tv/pondo559北川.png",pondo559北川
+#EXTINF:-1 ,pondo559北川
 https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
-#EXTINF:-1 tvg-name="pondo597西川" tvg-logo="https://live.fanmingming.cn/tv/pondo597西川.png",pondo597西川
+#EXTINF:-1 ,pondo597西川
 https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
-#EXTINF:-1 tvg-name="pondo613七濑" tvg-logo="https://live.fanmingming.cn/tv/pondo613七濑.png",pondo613七濑
+#EXTINF:-1 ,pondo613七濑
 https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
-#EXTINF:-1 tvg-name="pondo618水谷" tvg-logo="https://live.fanmingming.cn/tv/pondo618水谷.png",pondo618水谷
+#EXTINF:-1 ,pondo618水谷
 https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
-#EXTINF:-1 tvg-name="pondo764杏奈" tvg-logo="https://live.fanmingming.cn/tv/pondo764杏奈.png",pondo764杏奈
+#EXTINF:-1 ,pondo764杏奈
 https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
-#EXTINF:-1 tvg-name="pondo793杏奈" tvg-logo="https://live.fanmingming.cn/tv/pondo793杏奈.png",pondo793杏奈
+#EXTINF:-1 ,pondo793杏奈
 https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
