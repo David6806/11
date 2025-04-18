@@ -1,10 +1,10 @@
-CCTV3,http://45.45.218.253:10087/gaoma/cctv3.m3u8
-CCTV5,http://45.45.218.253:10087/gaoma/cctv5.m3u8
-CCTV5+,http://45.45.218.253:10087/gaoma/cctv5p.m3u8
-CCTV7,http://45.45.218.253:10087/gaoma/cctv7.m3u8
-CCTV9,http://45.45.218.253:10087/gaoma/cctv9.m3u8
-CCTV13,http://45.45.218.253:10087/gaoma/cctv13.m3u8
-CCTV16,http://45.45.218.253:10087/gaoma/cctv16.m3u8
+CCTV5,http://107.174.52.32/itv.php?id=CCTV5
+CCTV5+,http://107.174.52.32/itv.php?id=CCTV5p
+CCTV7,http://107.174.52.32/itv.php?id=CCTV7
+CCTV9,http://107.174.52.32/itv.php?id=CCTV9
+CCTV13,http://107.174.52.32/itv.php?id=CCTV13
+CCTV16,http://107.174.52.32/itv.php?id=CCTV16
+东方卫视,http://171.213.155.85:9999/udp/239.93.1.44:5140
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
