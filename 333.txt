@@ -1,10 +1,7 @@
-CCTV5,http://107.174.52.32/itv.php?id=CCTV5
-CCTV5+,http://107.174.52.32/itv.php?id=CCTV5p
-CCTV7,http://107.174.52.32/itv.php?id=CCTV7
-CCTV9,http://107.174.52.32/itv.php?id=CCTV9
-CCTV13,http://107.174.52.32/itv.php?id=CCTV13
-CCTV16,http://107.174.52.32/itv.php?id=CCTV16
-东方卫视,http://171.213.155.85:9999/udp/239.93.1.44:5140
+CCTV5,https://ushls.ballbar.net/cctv5/playlist-15.m3u8a?t=1744989678&token=d7e27a52c2946e1fd1e85a18c815fdd6
+亚洲旅游台,https://ushls.ballbar.net/asiatravel_twn/playlist-25.m3u8a?t=1744991501&token=3f48c8e87148c8618b21b197b64d03ac
+EVETV旅游台,https://ushls.ballbar.net/eyetvtravel_twn/playlist-15.m3u8a?t=1744991604&token=f9d45173b1995a1d73cbe7b144781564
+亚洲美食台,https://ushls.ballbar.net/afc_twn/playlist-15.m3u8a?t=1744991750&token=b6bc889377013c74f27d2430d1b9db4d
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
 J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
