@@ -1,18 +1,22 @@
 #EXTM3U
+#EXTINF:-1 group-title="未分组" ,CCTV5
+https://live.huaren.live/stream/CCTV5_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_uwxOIo32cnsV9vcCaNcJaAQ=
 #EXTINF:-1 group-title="未分组" ,CCTV5+
-http://50.7.234.10:8278/cctv5plus/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=34ded99800e7d73d06e6be3ac5c2bb02
+https://live.huaren.live/stream/CCTV5P_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u-NiIN7Io2xi_0FphE-TbNk=
+#EXTINF:-1 group-title="未分组" ,CCTV13
+https://live.huaren.live/stream/CCTV13_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u-Hp23HslEJF3hc2GwUPSB0=
 #EXTINF:-1 group-title="未分组" ,CCTV13
 http://180.165.21.100:9898/udp/239.45.1.198:5140
+#EXTINF:-1 group-title="未分组" ,无线新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 group-title="未分组" ,无线新闻台
+http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 #EXTINF:-1 group-title="未分组" ,翡翠台
-http://php.jdshipin.com:8880/smt.php?id=jade_twn
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 group-title="未分组" ,J1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 group-title="未分组" ,J2
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
-#EXTINF:-1 group-title="未分组" ,无线新闻台
-https://smt.cdn6.rr.nu/smt3.2.1.php?id=inews_twn
-#EXTINF:-1 group-title="未分组" ,无线新闻台
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 group-title="未分组" ,博斯运动1
 http://198.16.100.186:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 #EXTINF:-1 group-title="未分组" ,博斯运动2
