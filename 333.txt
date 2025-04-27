@@ -1,7 +1,5 @@
-CCTV5,https://live.huaren.live/stream/CCTV5_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_uwxOIo32cnsV9vcCaNcJaAQ=
-CCTV5+,https://live.huaren.live/stream/CCTV5P_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u-NiIN7Io2xi_0FphE-TbNk=
-CCTV13,https://live.huaren.live/stream/CCTV13_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u-Hp23HslEJF3hc2GwUPSB0=
-CCTV13,http://180.165.21.100:9898/udp/239.45.1.198:5140
+CCTV5,https://live.huaren.live/stream/CCTV5_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u2qrna5xJHrU1yrBDa3_W9s=
+CCTV5+,https://live.huaren.live/stream/CCTV5P_E.m3u8?auth=rfiRMZIlX6pACF3jTZW_u3Mr1wT0hnrTD2jQD9AdtiM=
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
