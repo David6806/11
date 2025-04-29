@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="未分组" ,CCTV5+
+http://50.7.234.10:8278/cctv5plus/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=34ded99800e7d73d06e6be3ac5c2bb02
+#EXTINF:-1 group-title="未分组" ,广东体育台
+http://qgtf.jydjd.top:2903/udp/224.1.100.33:11111
 #EXTINF:-1 group-title="未分组" ,无线新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 group-title="未分组" ,无线新闻台
