@@ -1,10 +1,12 @@
-无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+无线新闻台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+无线新闻台,http://rihou.cc:555/tv/[Pd]无线新闻
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5+,http://69.30.246.194/live/cctv5p.m3u8
+CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV16,http://69.30.246.194/live/cctv16.m3u8
-博斯网球,http://208.87.242.55/livehttpplay?channel_id=42026
-博斯味力,http://208.87.242.55/livehttpplay?channel_id=42025
+博斯网球,https://tv.iill.top/FainTV/53
+博斯味力,https://tv.iill.top/FainTV/135
 东方卫视,http://69.30.246.194/live/dfws.m3u8
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
