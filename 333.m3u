@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1,无线新闻台
-https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 #EXTINF:-1,无线新闻台
-http://rihou.cc:555/tv/[Pd]无线新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1,翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1,香港31台
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1,CCTV5
 http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1,CCTV5+
