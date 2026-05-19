@@ -13,5 +13,5 @@ http://192.151.150.154/live/cctv5p.m3u8
 http://74.91.26.218:82/live/cctv9hd.m3u8
 #EXTINF:-1,CCTV13
 http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1,东方卫视
-http://49.79.129.208:6666/rtp/239.49.1.32:6000
+#EXTINF:-1,CCTV16
+http://198.204.228.26/live/cctv16hd.m3u8
