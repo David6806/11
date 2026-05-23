@@ -12,10 +12,12 @@ http://192.151.150.154/live/cctv5p.m3u8
 #EXTINF:-1,CCTV7
 http://192.151.150.154/live/cctv7hd.m3u8
 #EXTINF:-1,CCTV8
-http://huixingy.top:18888/rtsp/220.191.136.24/PLTV/88888913/224/3221229157/10000100000000060000000005809141_0.smil
+http://192.151.150.154/live/cctv8hd.m3u8
 #EXTINF:-1,CCTV9
 http://74.91.26.218:82/live/cctv9hd.m3u8
 #EXTINF:-1,CCTV13
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1,CCTV16
 http://198.204.228.26/live/cctv16hd.m3u8
+#EXTINF:-1,CCTV8K高清
+http://198.204.228.26/live/cctv8k.m3u8
