@@ -8,6 +8,10 @@ http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1,东方卫视
 http://198.204.228.26/live/dfwshd.m3u8
 #EXTINF:-1,CCTV5
+http://198.204.228.26/live/cctv5hd.m3u8
+#EXTINF:-1,CCTV5
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1,CCTV5
 http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1,CCTV5+
 http://192.151.150.154/live/cctv5p.m3u8
