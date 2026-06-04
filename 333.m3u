@@ -5,6 +5,8 @@ http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1,翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+#EXTINF:-1,东方卫视
+http://36.158.75.249:8088/tsfile/live/0125_1.m3u8?key=txiptv
 #EXTINF:-1,CCTV5
 https://cdn16.163189.xyz/163189/cctv5
 #EXTINF:-1,CCTV5+
