@@ -5,10 +5,9 @@
 东方卫视,http://36.158.75.249:8088/tsfile/live/0125_1.m3u8?key=txiptv
 CCTV5,http://69.30.245.50/live/cctv5.m3u8
 CCTV5+,http://nas.whuu.store:8003/rtsp/123.147.112.17:8089/04000001/01000000004000000000000000000230
-CCTV5+,http://192.151.150.154/live/cctv5p.m3u8
-CCTV5+,https://cdn16.163189.xyz/163189/cctv5p
 CCTV7,https://cdn16.163189.xyz/163189/cctv7
 CCTV8,https://cdn16.163189.xyz/163189/cctv8
 CCTV9,https://cdn16.163189.xyz/163189/cctv9
+CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV13,https://cdn16.163189.xyz/163189/cctv13
 CCTV16,https://cdn16.163189.xyz/163189/cctv16
