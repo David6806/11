@@ -18,5 +18,7 @@ CCTV13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV16,http://198.204.228.26/live/cctv16hd.m3u8
 CCTV16,https://cdn16.163189.xyz/163189/cctv16
+文化精品,http://192.151.150.154/live/ysjp.m3u8
+高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 博斯魅力,https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
 博斯网球,https://cdn.19891230.eu.org/4gtv/litv-xinchuang09/index.m3u8

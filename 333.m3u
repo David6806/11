@@ -39,6 +39,10 @@ http://74.91.26.218:82/live/cctv13hd.m3u8
 http://198.204.228.26/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="未分组",CCTV16
 https://cdn16.163189.xyz/163189/cctv16
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://logo.catvod.com/文化精品.png" group-title="未分组",文化精品
+http://192.151.150.154/live/ysjp.m3u8
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://logo.catvod.com/高尔夫网球.png" group-title="未分组",高尔夫网球
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 #EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://logo.catvod.com/博斯魅力.png" group-title="未分组",博斯魅力
 https://cdn.19891230.eu.org/4gtv/litv-xinchuang04/index.m3u8
 #EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://logo.catvod.com/博斯网球.png" group-title="未分组",博斯网球
