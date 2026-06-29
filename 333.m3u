@@ -1,49 +1,47 @@
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="未分组",东方卫视
-https://b7dfda-9b6e36-ddb3.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="未分组",东方卫视
+#EXTM3U
+#EXTINF:-1,东方卫视
 https://live.264788.xyz/channel/dongfangweishi?streamid=85aea482acc87c868b509dfc6299cc44&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="未分组",CCTV5
+#EXTINF:-1,CCTV5
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="未分组",CCTV5
+#EXTINF:-1,CCTV5
 http://69.30.245.50/live/cctv5.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="未分组",CCTV5
+#EXTINF:-1,CCTV5
 https://cdn16.163189.xyz/163189/cctv5
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="未分组",CCTV5
+#EXTINF:-1,CCTV5
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="未分组",CCTV5+
+#EXTINF:-1,CCTV5+
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="未分组",CCTV5+
+#EXTINF:-1,CCTV5+
 https://cdn16.163189.xyz/163189/cctv5p
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="未分组",CCTV5+
+#EXTINF:-1,CCTV5+
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="未分组",CCTV7
+#EXTINF:-1,CCTV7
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="未分组",CCTV7
+#EXTINF:-1,CCTV7
 https://cdn16.163189.xyz/163189/cctv7
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="未分组",CCTV8
+#EXTINF:-1,CCTV8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="未分组",CCTV8
+#EXTINF:-1,CCTV8
 https://cdn16.163189.xyz/163189/cctv8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="未分组",CCTV9
+#EXTINF:-1,CCTV9
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="未分组",CCTV9
+#EXTINF:-1,CCTV9
 https://cdn16.163189.xyz/163189/cctv9
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="未分组",CCTV13
+#EXTINF:-1,CCTV13
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="未分组",CCTV13
+#EXTINF:-1,CCTV13
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="未分组",CCTV13
+#EXTINF:-1,CCTV13
 http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="未分组",CCTV16
+#EXTINF:-1,CCTV16
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="未分组",CCTV16
+#EXTINF:-1,CCTV16
 http://198.204.228.26/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="未分组",CCTV16
+#EXTINF:-1,CCTV16
 https://cdn16.163189.xyz/163189/cctv16
-#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://logo.catvod.com/文化精品.png" group-title="未分组",文化精品
+#EXTINF:-1,文化精品
 http://192.151.150.154/live/ysjp.m3u8
-#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://logo.catvod.com/高尔夫网球.png" group-title="未分组",高尔夫网球
+#EXTINF:-1,高尔夫网球
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://logo.catvod.com/五星体育.png" group-title="未分组",五星体育
+#EXTINF:-1,五星体育
 https://cdn15.163189.xyz/163189/wxty
