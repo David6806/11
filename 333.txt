@@ -1,6 +1,3 @@
-无线新闻台,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
-翡翠台,http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
-东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=85aea482acc87c868b509dfc6299cc44&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 看东方,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
 战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
