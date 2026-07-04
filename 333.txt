@@ -1,9 +1,14 @@
-东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+无线新闻台,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+翡翠台,http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
+东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=85aea482acc87c868b509dfc6299cc44&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
+看东方,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
 战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
+CCTV5,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
 CCTV5,http://69.30.245.50/live/cctv5.m3u8
 CCTV5,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
+CCTV5+,https://cdn.qd.je/163189.php?id=cctv5p
 CCTV5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 CCTV5+,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
 CCTV7,https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
@@ -16,5 +21,4 @@ CCTV16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 CCTV16,http://198.204.228.26/live/cctv16hd.m3u8
 文化精品,http://192.151.150.154/live/ysjp.m3u8
 高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
-五星体育,https://cdn15.163189.xyz/163189/wxty
 BBC地球频道,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
