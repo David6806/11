@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,东方卫视
+http://49.66.174.165:60001/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,东方卫视
+http://107.150.60.122/live/dfwshd.m3u8
 #EXTINF:-1,CCTV5
 https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1,CCTV5
@@ -20,11 +24,11 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 #EXTINF:-1,CCTV9
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
 #EXTINF:-1,CCTV13
-https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1,CCTV13
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
 #EXTINF:-1,CCTV13
-http://74.91.26.218:82/live/cctv13hd.m3u8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
 #EXTINF:-1,CCTV16
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
 #EXTINF:-1,CCTV16
@@ -35,3 +39,13 @@ http://192.151.150.154/live/ysjp.m3u8
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 #EXTINF:-1,BBC地球频道
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
+#EXTINF:-1,博斯魅力
+https://ha.msbot.dpdns.org/4gtv_api.php?id=493
+#EXTINF:-1,博斯网球
+https://ha.msbot.dpdns.org/4gtv_api.php?id=267
+#EXTINF:-1,博斯网球
+https://ha.msbot.dpdns.org/4gtv_api.php?id=488
+#EXTINF:-1,博斯运动
+https://ha.msbot.dpdns.org/4gtv_api.php?id=265
+#EXTINF:-1,博斯运动
+https://ha.msbot.dpdns.org/4gtv_api.php?id=487
