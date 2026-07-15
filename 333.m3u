@@ -5,6 +5,10 @@ http://rihou.cc:555/tv/[Pd]无线新闻
 https://cdn.qd.je/163189.php?id=fct
 #EXTINF:-1,东方卫视
 http://107.150.60.122/live/dfwshd.m3u8
+#EXTINF:-1,ViuTV
+https://cdn.qd.je/163189.php?id=viu
+#EXTINF:-1,澳门体育
+https://cdn.qd.je/163189.php?id=amty
 #EXTINF:-1,CCTV5
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 #EXTINF:-1,CCTV5
