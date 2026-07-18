@@ -1,53 +1,133 @@
 #EXTM3U
-#EXTINF:-1,无线新闻台
+#EXTINF:-1 group-title="未分组" ,无线新闻台
 http://rihou.cc:555/tv/[Pd]无线新闻
-#EXTINF:-1,翡翠台
+#EXTINF:-1 group-title="未分组" ,翡翠台
 https://cdn.qd.je/163189.php?id=fct
-#EXTINF:-1,东方卫视
+#EXTINF:-1 group-title="未分组" ,东方卫视
 http://107.150.60.122/live/dfwshd.m3u8
-#EXTINF:-1,ViuTV
+#EXTINF:-1 group-title="未分组" ,ViuTV
 https://cdn.qd.je/163189.php?id=viu
-#EXTINF:-1,澳门体育
+#EXTINF:-1 group-title="未分组" ,澳门体育
 https://cdn.qd.je/163189.php?id=amty
-#EXTINF:-1,CCTV5
+#EXTINF:-1 group-title="未分组" ,CCTV5
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
-#EXTINF:-1,CCTV5
+#EXTINF:-1 group-title="未分组" ,CCTV5
 https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1,CCTV5+
+#EXTINF:-1 group-title="未分组" ,CCTV5+
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
-#EXTINF:-1,CCTV5+
+#EXTINF:-1 group-title="未分组" ,CCTV5+
 https://cdn.qd.je/163189.php?id=cctv5p
-#EXTINF:-1,CCTV5+
+#EXTINF:-1 group-title="未分组" ,CCTV5+
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-#EXTINF:-1,CCTV7
+#EXTINF:-1 group-title="未分组" ,CCTV7
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
-#EXTINF:-1,CCTV8
+#EXTINF:-1 group-title="未分组" ,CCTV8
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
-#EXTINF:-1,CCTV9
+#EXTINF:-1 group-title="未分组" ,CCTV9
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
-#EXTINF:-1,CCTV13
+#EXTINF:-1 group-title="未分组" ,CCTV13
 http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1,CCTV13
+#EXTINF:-1 group-title="未分组" ,CCTV13
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-#EXTINF:-1,CCTV13
+#EXTINF:-1 group-title="未分组" ,CCTV13
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
-#EXTINF:-1,CCTV16
+#EXTINF:-1 group-title="未分组" ,CCTV16
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
-#EXTINF:-1,CCTV16
+#EXTINF:-1 group-title="未分组" ,CCTV16
 http://198.204.228.26/live/cctv16hd.m3u8
-#EXTINF:-1,文化精品
+#EXTINF:-1 group-title="未分组" ,文化精品
 http://192.151.150.154/live/ysjp.m3u8
-#EXTINF:-1,高尔夫网球
+#EXTINF:-1 group-title="未分组" ,高尔夫网球
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
-#EXTINF:-1,BBC地球频道
+#EXTINF:-1 group-title="未分组" ,BBC地球频道
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
-#EXTINF:-1,博斯魅力
+#EXTINF:-1 group-title="未分组" ,博斯魅力
 https://ha.msbot.dpdns.org/4gtv_api.php?id=493
-#EXTINF:-1,博斯网球
+#EXTINF:-1 group-title="未分组" ,博斯网球
 https://ha.msbot.dpdns.org/4gtv_api.php?id=267
-#EXTINF:-1,博斯网球
+#EXTINF:-1 group-title="未分组" ,博斯网球
 https://ha.msbot.dpdns.org/4gtv_api.php?id=488
-#EXTINF:-1,博斯运动
+#EXTINF:-1 group-title="未分组" ,博斯运动
 https://ha.msbot.dpdns.org/4gtv_api.php?id=265
-#EXTINF:-1,博斯运动
+#EXTINF:-1 group-title="未分组" ,博斯运动
 https://ha.msbot.dpdns.org/4gtv_api.php?id=487
+#EXTINF:-1 group-title="3A" ,MyCamTV MILF
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Mature
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Arab Girls
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Ebony Girls
+http://live.mycamtv.com/ebony.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Asian Girls
+http://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Brunette Girls
+http://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Latina Girls
+http://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV White Girls
+http://live.mycamtv.com/white.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Blonde Girls
+http://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Big Ass Girls
+http://live.mycamtv.com/bigass.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Girls Squirt
+http://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Big Tits Girls
+http://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Skinny Girls
+http://live.mycamtv.com/skinny.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Medium Girls
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 group-title="3A" ,MyCamTV Blowjob
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 group-title="3A" ,Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="3A" ,MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="3A" ,Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="3A" ,Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="3A" ,Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="3A" ,Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="3A" ,Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="3A" ,Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="3A" ,Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="3A" ,POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="3A" ,Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="3A" ,Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="3A" ,Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="3A" ,Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="3A" ,Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="3A" ,Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="3A" ,Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="3A" ,Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="3A" ,Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="3A" ,Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="3A" ,Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="3A" ,Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="3A" ,Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="3A" ,Asian
+http://cdn.adultiptv.net/asian.m3u8
