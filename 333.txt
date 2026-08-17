@@ -1,4 +1,5 @@
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 翡翠台,https://cdn.qd.je/163189.php?id=fct
 东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 东方卫视,http://113.120.243.10:7788/651632648
