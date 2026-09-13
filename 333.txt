@@ -3,28 +3,16 @@
 翡翠台,https://cdn.qd.je/163189.php?id=fct
 NOY新闻,https://fast.hidns.vip/163189/now
 东方卫视,http://107.150.60.122/live/dfwshd.m3u8
-东方卫视,http://113.120.243.10:7788/651632648
+CCTV5,http://198.204.228.26/live/cctv5hd.m3u8?ysp
 CCTV5,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
-CCTV5,https://cdn.qd.je/163189.php?id=cctv5
-CCTV5,http://yftv-wshls.yzbtv.cn/live/11eec.flv
 CCTV5+,http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
-CCTV5+,https://cdn.qd.je/163189.php?id=cctv5p
-CCTV5+,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
-CCTV7,https://php.jdshipin.com/TVOD/iptv.php?id=cctv7
-CCTV8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
-CCTV9,https://php.jdshipin.com/TVOD/iptv.php?id=cctv9
-CCTV13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
-CCTV13,http://yftv-wshls.yzbtv.cn/live/4e2f.flv
-CCTV16,https://php.jdshipin.com/TVOD/iptv.php?id=cctv16
+CCTV9,http://198.204.228.26/live/cctv9hd.m3u8?ysp
+CCTV9,http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078603.m3u8
+CCTV13,http://198.204.228.26/live/cctv13hd.m3u8?ysp
 CCTV16,http://198.204.228.26/live/cctv16hd.m3u8
 文化精品,http://192.151.150.154/live/ysjp.m3u8
 高尔夫网球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
 BBC地球频道,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
-博斯魅力,https://ha.msbot.dpdns.org/4gtv_api.php?id=493
-博斯网球,https://ha.msbot.dpdns.org/4gtv_api.php?id=267
-博斯网球,https://ha.msbot.dpdns.org/4gtv_api.php?id=488
-博斯运动,https://ha.msbot.dpdns.org/4gtv_api.php?id=265
-博斯运动,https://ha.msbot.dpdns.org/4gtv_api.php?id=487
 3A
 MyCamTV MILF,http://live.mycamtv.com/milf.m3u8
 MyCamTV Mature,http://live.mycamtv.com/bigtits.m3u8
