@@ -11,6 +11,12 @@ https://fast.hidns.vip/163189/now
 http://107.150.60.122/live/dfwshd.m3u8
 #EXTINF:-1 group-title="未分组" ,CCTV5
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
+#EXTINF:-1 group-title="未分组" ,CCTV5
+http://43.175.120.172/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078403.m3u8
+#EXTINF:-1 group-title="未分组" ,CCTV5+
+http://198.204.228.26/live/cctv5p.m3u8?ysp
+#EXTINF:-1 group-title="未分组" ,CCTV5+
+http://173.208.234.146/live/cctv5p.m3u8?zbj
 #EXTINF:-1 group-title="未分组" ,CCTV5+
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
 #EXTINF:-1 group-title="未分组" ,CCTV9
