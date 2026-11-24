@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="未分组" ,无线新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+https://cdn6.cc.cd/163189/wxxwt
 #EXTINF:-1 group-title="未分组" ,翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 group-title="未分组" ,翡翠台
@@ -14,7 +14,7 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 #EXTINF:-1 group-title="未分组" ,CCTV5+
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
 #EXTINF:-1 group-title="未分组" ,CCTV13
-http://74.91.26.218:82/live/cctv13hd.m3u8
+http://192.151.150.154/live/cctv13hd.m3u8
 #EXTINF:-1 group-title="未分组" ,CCTV16
 http://www.cdnas.asia:40090/u/y26o10f2/relay/ysp-cctv16.m3u8
 #EXTINF:-1 group-title="未分组" ,CCTV16
@@ -23,6 +23,10 @@ http://www.cdnas.asia:40090/u/y26o10f2/relay/ysp-cctv164k.m3u8
 http://192.151.150.154/live/ysjp.m3u8
 #EXTINF:-1 group-title="未分组" ,高尔夫网球
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gefwq
+#EXTINF:-1 group-title="财狼" ,财狼1
+https://pub-d87bd6285fe84716982a82bd72f95e6b.r2.dev/playlist.m3u8
+#EXTINF:-1 group-title="财狼" ,财狼2
+https://pub-79e7c41cb6604ae8af6422fa7475392b.r2.dev/playlist.m3u8
 #EXTINF:-1 group-title="3A" ,MyCamTV MILF
 http://live.mycamtv.com/milf.m3u8
 #EXTINF:-1 group-title="3A" ,MyCamTV Mature
